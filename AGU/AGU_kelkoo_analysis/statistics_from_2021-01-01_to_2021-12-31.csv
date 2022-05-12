@@ -1,0 +1,2554 @@
+sep=,
+Date,Category,Device,Clicks,Cost,Sales,"Order value","Tracked leads","Cost of tracked leads"
+01/12/21,Links,Computer,398,179.09999999999928,0,0.0,398,179.09999999999928
+01/12/21,Links,Mobile,21,9.45,0,0.0,21,9.45
+01/12/21,Herrenmode,Computer,3,1.35,0,0.0,3,1.35
+01/12/21,Herrenmode,Mobile,2,0.675,0,0.0,2,0.675
+01/12/21,Damenmode,Computer,4,1.8,0,0.0,4,1.8
+01/12/21,Damenmode,Mobile,5,1.6875,0,0.0,5,1.6875
+01/12/21,Sonnenbrillen,Computer,1,0.45,0,0.0,1,0.45
+01/12/21,Sonnenbrillen,Mobile,2,0.675,0,0.0,2,0.675
+01/12/21,"Sportbekleidung Damen",Computer,19,8.55,0,0.0,19,8.55
+01/12/21,"Sportbekleidung Damen",Mobile,6,2.025,0,0.0,6,2.025
+01/12/21,"Sportbekleidung Herren",Computer,131,58.95000000000004,0,0.0,131,58.95000000000004
+01/12/21,"Sportbekleidung Herren",Mobile,23,7.762500000000003,0,0.0,23,7.762500000000003
+01/12/21,Taschen,Computer,1,0.45,0,0.0,1,0.45
+01/12/21,"Fahrradteile & Fahrradzubehör",Computer,4,1.8,0,0.0,4,1.8
+01/12/21,"Fahrradteile & Fahrradzubehör",Mobile,4,1.35,0,0.0,4,1.35
+01/12/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+01/12/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+02/12/21,Links,Computer,9,4.050000000000001,0,0.0,9,4.050000000000001
+02/12/21,Links,Mobile,6,2.7,0,0.0,6,2.7
+02/12/21,Herrenmode,Computer,3,1.35,0,0.0,3,1.35
+02/12/21,Herrenmode,Mobile,4,1.35,0,0.0,4,1.35
+02/12/21,Damenmode,Computer,1,0.45,0,0.0,1,0.45
+02/12/21,Damenmode,Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+02/12/21,"Sportbekleidung Damen",Computer,2,0.9,0,0.0,2,0.9
+02/12/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+02/12/21,"Sportbekleidung Herren",Computer,25,11.249999999999998,2,361.35,25,11.249999999999998
+02/12/21,"Sportbekleidung Herren",Mobile,2,0.675,0,0.0,2,0.675
+02/12/21,Taschen,Computer,1,0.45,0,0.0,1,0.45
+02/12/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+04/12/21,Links,Computer,26,11.699999999999996,0,0.0,26,11.699999999999996
+04/12/21,Links,Mobile,12,5.400000000000001,0,0.0,12,5.400000000000001
+04/12/21,Herrenmode,Computer,7,3.1500000000000004,0,0.0,7,3.1500000000000004
+04/12/21,Herrenmode,Mobile,6,2.025,0,0.0,6,2.025
+04/12/21,Damenmode,Computer,1,0.45,0,0.0,1,0.45
+04/12/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+04/12/21,"Sportbekleidung Damen",Computer,14,6.300000000000001,0,0.0,14,6.300000000000001
+04/12/21,"Sportbekleidung Damen",Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+04/12/21,"Sportbekleidung Herren",Computer,196,88.20000000000003,0,0.0,196,88.20000000000003
+04/12/21,"Sportbekleidung Herren",Mobile,16,5.4,0,0.0,16,5.4
+04/12/21,Taschen,Computer,1,0.45,0,0.0,1,0.45
+04/12/21,"Fahrradteile & Fahrradzubehör",Computer,4,1.8,0,0.0,4,1.8
+04/12/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+05/12/21,Links,Computer,27,12.149999999999995,0,0.0,27,12.149999999999995
+05/12/21,Links,Mobile,2,0.9,0,0.0,2,0.9
+05/12/21,Herrenmode,Computer,6,2.7,1,168.07,6,2.7
+05/12/21,Herrenmode,Mobile,5,1.6875000000000002,0,0.0,5,1.6875000000000002
+05/12/21,Damenmode,Computer,3,1.35,0,0.0,3,1.35
+05/12/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+05/12/21,"Sportbekleidung Damen",Computer,19,8.55,0,0.0,19,8.55
+05/12/21,"Sportbekleidung Damen",Mobile,6,2.025,0,0.0,6,2.025
+05/12/21,"Sportbekleidung Herren",Computer,347,156.14999999999984,2,232.4,347,156.14999999999984
+05/12/21,"Sportbekleidung Herren",Mobile,12,4.05,0,0.0,12,4.05
+05/12/21,"Fahrradteile & Fahrradzubehör",Computer,6,2.7,0,0.0,6,2.7
+05/12/21,"Sportschuhe Herren",Computer,4,1.8,0,0.0,4,1.8
+05/12/21,"Sportschuhe Herren",Mobile,4,1.35,0,0.0,4,1.35
+07/12/21,Links,Computer,27,12.149999999999995,0,0.0,27,12.149999999999995
+07/12/21,Links,Mobile,2,0.9,0,0.0,2,0.9
+07/12/21,Herrenmode,Computer,3,1.35,0,0.0,3,1.35
+07/12/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+07/12/21,Damenmode,Computer,2,0.9,0,0.0,2,0.9
+07/12/21,Damenmode,Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+07/12/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+07/12/21,"Sportbekleidung Damen",Computer,12,5.4,0,0.0,12,5.4
+07/12/21,"Sportbekleidung Herren",Computer,138,62.10000000000009,0,0.0,138,62.10000000000009
+07/12/21,"Sportbekleidung Herren",Mobile,8,2.6999999999999997,0,0.0,8,2.6999999999999997
+07/12/21,"Fahrradteile & Fahrradzubehör",Computer,4,1.8,0,0.0,4,1.8
+07/12/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+14/12/21,Links,Computer,722,324.8999999999956,1,30.71,722,324.8999999999956
+14/12/21,Links,Mobile,35,15.74999999999999,0,0.0,35,15.74999999999999
+14/12/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+14/12/21,Damenmode,Computer,2,0.9,0,0.0,2,0.9
+14/12/21,Sonnenbrillen,Computer,2,0.9,0,0.0,2,0.9
+14/12/21,"Sportbekleidung Damen",Computer,16,7.200000000000002,0,0.0,16,7.200000000000002
+14/12/21,"Sportbekleidung Damen",Mobile,8,2.7,0,0.0,8,2.7
+14/12/21,"Sportbekleidung Herren",Computer,120,54.000000000000036,1,152.94,120,54.000000000000036
+14/12/21,"Sportbekleidung Herren",Mobile,16,5.400000000000001,0,0.0,16,5.400000000000001
+14/12/21,"Fahrradteile & Fahrradzubehör",Computer,5,2.25,0,0.0,5,2.25
+14/12/21,"Sportschuhe Herren",Computer,3,1.35,0,0.0,3,1.35
+16/12/21,Links,Computer,719,323.54999999999563,0,0.0,719,323.54999999999563
+16/12/21,Links,Mobile,46,20.69999999999998,0,0.0,46,20.69999999999998
+16/12/21,Herrenmode,Computer,1,0.45,0,0.0,1,0.45
+16/12/21,Damenmode,Computer,7,3.1500000000000004,1,415.97,7,3.1500000000000004
+16/12/21,Sonnenbrillen,Computer,1,0.45,0,0.0,1,0.45
+16/12/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+16/12/21,"Sportbekleidung Damen",Computer,20,9.000000000000002,0,0.0,20,9.000000000000002
+16/12/21,"Sportbekleidung Herren",Computer,124,55.80000000000003,0,0.0,124,55.80000000000003
+16/12/21,"Sportbekleidung Herren",Mobile,22,7.4250000000000025,0,0.0,22,7.4250000000000025
+16/12/21,Taschen,Computer,1,0.45,0,0.0,1,0.45
+16/12/21,Taschen,Mobile,1,0.3375,0,0.0,1,0.3375
+16/12/21,"Fahrradteile & Fahrradzubehör",Computer,3,1.35,0,0.0,3,1.35
+16/12/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+10/12/21,Links,Computer,164,73.80000000000022,0,0.0,164,73.80000000000022
+10/12/21,Links,Mobile,3,1.35,0,0.0,3,1.35
+10/12/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+10/12/21,Herrenmode,Mobile,2,0.675,0,0.0,2,0.675
+10/12/21,Damenmode,Computer,8,3.6000000000000005,0,0.0,8,3.6000000000000005
+10/12/21,Damenmode,Mobile,4,1.35,0,0.0,4,1.35
+10/12/21,"Sportbekleidung Damen",Computer,12,5.400000000000001,1,205.88,12,5.400000000000001
+10/12/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+10/12/21,"Sportbekleidung Herren",Computer,124,55.800000000000075,0,0.0,124,55.800000000000075
+10/12/21,"Sportbekleidung Herren",Mobile,19,6.4125000000000005,0,0.0,19,6.4125000000000005
+10/12/21,"Fahrradteile & Fahrradzubehör",Computer,3,1.35,0,0.0,3,1.35
+10/12/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+10/12/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+11/12/21,Links,Computer,329,148.05000000000007,0,0.0,329,148.05000000000007
+11/12/21,Links,Mobile,21,9.45,0,0.0,21,9.45
+11/12/21,Herrenmode,Computer,3,1.35,0,0.0,3,1.35
+11/12/21,Damenmode,Computer,5,2.25,0,0.0,5,2.25
+11/12/21,Damenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+11/12/21,"Sportbekleidung Damen",Computer,14,6.300000000000001,0,0.0,14,6.300000000000001
+11/12/21,"Sportbekleidung Herren",Computer,124,55.80000000000007,1,126.05,124,55.80000000000007
+11/12/21,"Sportbekleidung Herren",Mobile,10,3.375,0,0.0,10,3.375
+11/12/21,"Fahrradteile & Fahrradzubehör",Computer,3,1.35,0,0.0,3,1.35
+11/12/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+12/12/21,Links,Computer,740,332.9999999999954,0,0.0,740,332.9999999999954
+12/12/21,Links,Mobile,35,15.74999999999999,0,0.0,35,15.74999999999999
+12/12/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+12/12/21,Herrenmode,Mobile,4,1.35,0,0.0,4,1.35
+12/12/21,Damenmode,Computer,11,4.950000000000001,0,0.0,11,4.950000000000001
+12/12/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+12/12/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+12/12/21,"Sportbekleidung Damen",Computer,24,10.799999999999997,0,0.0,24,10.799999999999997
+12/12/21,"Sportbekleidung Damen",Mobile,5,1.6875,0,0.0,5,1.6875
+12/12/21,"Sportbekleidung Herren",Computer,181,81.45000000000002,0,0.0,181,81.45000000000002
+12/12/21,"Sportbekleidung Herren",Mobile,4,1.35,0,0.0,4,1.35
+12/12/21,"Fahrradteile & Fahrradzubehör",Computer,2,0.9,0,0.0,2,0.9
+12/12/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+12/12/21,"Sportschuhe Herren",Mobile,3,1.0125000000000002,1,96.63,3,1.0125000000000002
+13/12/21,Links,Computer,700,314.99999999999585,0,0.0,700,314.99999999999585
+13/12/21,Links,Mobile,45,20.249999999999982,0,0.0,45,20.249999999999982
+13/12/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+13/12/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+13/12/21,Damenmode,Computer,12,5.4,0,0.0,12,5.4
+13/12/21,Sonnenbrillen,Computer,2,0.9,0,0.0,2,0.9
+13/12/21,"Sportbekleidung Damen",Computer,22,9.9,0,0.0,22,9.9
+13/12/21,"Sportbekleidung Damen",Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+13/12/21,"Sportbekleidung Herren",Computer,156,70.20000000000009,3,337.03999999999996,156,70.20000000000009
+13/12/21,"Sportbekleidung Herren",Mobile,26,8.775000000000002,0,0.0,26,8.775000000000002
+13/12/21,"Fahrradteile & Fahrradzubehör",Computer,3,1.35,0,0.0,3,1.35
+13/12/21,"Sportschuhe Herren",Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+15/12/21,Links,Computer,729,328.0499999999955,0,0.0,729,328.0499999999955
+15/12/21,Links,Mobile,50,22.49999999999998,0,0.0,50,22.49999999999998
+15/12/21,Herrenmode,Computer,4,1.8,0,0.0,4,1.8
+15/12/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+15/12/21,Damenmode,Computer,4,1.8,0,0.0,4,1.8
+15/12/21,"Sportbekleidung Damen",Computer,14,6.300000000000002,0,0.0,14,6.300000000000002
+15/12/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+15/12/21,"Sportbekleidung Herren",Computer,122,54.900000000000055,0,0.0,122,54.900000000000055
+15/12/21,"Sportbekleidung Herren",Mobile,15,5.062500000000001,1,151.26,15,5.062500000000001
+15/12/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+15/12/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+17/12/21,Links,Computer,666,299.69999999999624,0,0.0,666,299.69999999999624
+17/12/21,Links,Mobile,55,24.749999999999975,0,0.0,55,24.749999999999975
+17/12/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+17/12/21,Damenmode,Computer,3,1.35,0,0.0,3,1.35
+17/12/21,"Sportbekleidung Damen",Computer,7,3.15,0,0.0,7,3.15
+17/12/21,"Sportbekleidung Herren",Computer,72,32.4,0,0.0,72,32.4
+17/12/21,"Sportbekleidung Herren",Mobile,14,4.7250000000000005,0,0.0,14,4.7250000000000005
+17/12/21,Taschen,Computer,2,0.9,0,0.0,2,0.9
+17/12/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+17/12/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+03/12/21,Links,Computer,5,2.25,0,0.0,5,2.25
+03/12/21,Links,Mobile,2,0.9,0,0.0,2,0.9
+03/12/21,Herrenmode,Computer,4,1.8,0,0.0,4,1.8
+03/12/21,Damenmode,Computer,2,0.9,0,0.0,2,0.9
+03/12/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+03/12/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+03/12/21,"Sportbekleidung Damen",Computer,5,2.25,0,0.0,5,2.25
+03/12/21,"Sportbekleidung Damen",Mobile,2,0.675,0,0.0,2,0.675
+03/12/21,"Sportbekleidung Herren",Computer,33,14.849999999999996,1,168.07,33,14.849999999999996
+03/12/21,"Sportbekleidung Herren",Mobile,5,1.6875000000000002,0,0.0,5,1.6875000000000002
+03/12/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+03/12/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+06/12/21,Links,Computer,66,29.699999999999967,0,0.0,66,29.699999999999967
+06/12/21,Links,Mobile,3,1.35,0,0.0,3,1.35
+06/12/21,Herrenmode,Computer,6,2.7,0,0.0,6,2.7
+06/12/21,Damenmode,Computer,5,2.25,0,0.0,5,2.25
+06/12/21,Damenmode,Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+06/12/21,"Sportbekleidung Damen",Computer,46,20.69999999999999,0,0.0,46,20.69999999999999
+06/12/21,"Sportbekleidung Damen",Mobile,2,0.675,0,0.0,2,0.675
+06/12/21,"Sportbekleidung Herren",Computer,223,100.35000000000008,1,151.26,223,100.35000000000008
+06/12/21,"Sportbekleidung Herren",Mobile,15,5.0625,0,0.0,15,5.0625
+06/12/21,"Fahrradteile & Fahrradzubehör",Computer,5,2.25,0,0.0,5,2.25
+06/12/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+06/12/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+06/12/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+08/12/21,Links,Computer,23,10.349999999999998,0,0.0,23,10.349999999999998
+08/12/21,Herrenmode,Computer,5,2.25,0,0.0,5,2.25
+08/12/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+08/12/21,Damenmode,Computer,3,1.35,0,0.0,3,1.35
+08/12/21,Damenmode,Mobile,5,1.6875,0,0.0,5,1.6875
+08/12/21,"Sportbekleidung Damen",Computer,16,7.200000000000002,0,0.0,16,7.200000000000002
+08/12/21,"Sportbekleidung Damen",Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+08/12/21,"Sportbekleidung Herren",Computer,91,40.95000000000004,0,0.0,91,40.95000000000004
+08/12/21,"Sportbekleidung Herren",Mobile,15,5.062500000000001,1,92.44,15,5.062500000000001
+08/12/21,"Fahrradteile & Fahrradzubehör",Computer,3,1.35,0,0.0,3,1.35
+08/12/21,"Sportschuhe Herren",Computer,3,1.35,0,0.0,3,1.35
+09/12/21,Links,Computer,32,14.399999999999991,0,0.0,32,14.399999999999991
+09/12/21,Links,Mobile,3,1.35,0,0.0,3,1.35
+09/12/21,Herrenmode,Computer,5,2.25,0,0.0,5,2.25
+09/12/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+09/12/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+09/12/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+09/12/21,Sonnenbrillen,Computer,1,0.45,0,0.0,1,0.45
+09/12/21,"Sportbekleidung Damen",Computer,15,6.750000000000002,0,0.0,15,6.750000000000002
+09/12/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+09/12/21,"Sportbekleidung Herren",Computer,128,57.60000000000006,1,55.92,128,57.60000000000006
+09/12/21,"Sportbekleidung Herren",Mobile,21,7.087500000000002,0,0.0,21,7.087500000000002
+09/12/21,"Fahrradteile & Fahrradzubehör",Computer,5,2.25,0,0.0,5,2.25
+09/12/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+09/12/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+18/12/21,Links,Computer,382,171.89999999999947,0,0.0,382,171.89999999999947
+18/12/21,Links,Mobile,71,31.949999999999964,0,0.0,71,31.949999999999964
+18/12/21,Herrenmode,Computer,1,0.45,0,0.0,1,0.45
+18/12/21,Herrenmode,Mobile,8,2.7,0,0.0,8,2.7
+18/12/21,Damenmode,Computer,8,3.6,0,0.0,8,3.6
+18/12/21,Damenmode,Mobile,4,1.35,0,0.0,4,1.35
+18/12/21,"Sportbekleidung Damen",Computer,15,6.750000000000001,0,0.0,15,6.750000000000001
+18/12/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+18/12/21,"Sportbekleidung Herren",Computer,86,38.70000000000001,0,0.0,86,38.70000000000001
+18/12/21,"Sportbekleidung Herren",Mobile,13,4.3875,0,0.0,13,4.3875
+18/12/21,Taschen,Computer,1,0.45,0,0.0,1,0.45
+18/12/21,"Fahrradteile & Fahrradzubehör",Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+18/12/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+19/12/21,Links,Computer,737,331.64999999999543,0,0.0,737,331.64999999999543
+19/12/21,Links,Mobile,69,31.049999999999965,0,0.0,69,31.049999999999965
+19/12/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+19/12/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+19/12/21,Damenmode,Computer,10,4.5,0,0.0,10,4.5
+19/12/21,"Sportbekleidung Damen",Computer,17,7.650000000000002,0,0.0,17,7.650000000000002
+19/12/21,"Sportbekleidung Damen",Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+19/12/21,"Sportbekleidung Herren",Computer,110,49.500000000000064,2,131.55,110,49.500000000000064
+19/12/21,"Sportbekleidung Herren",Mobile,10,3.375,0,0.0,10,3.375
+19/12/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+20/12/21,Links,Computer,677,304.6499999999961,0,0.0,677,304.6499999999961
+20/12/21,Links,Mobile,137,61.65000000000015,0,0.0,137,61.65000000000015
+20/12/21,Herrenmode,Computer,5,2.25,0,0.0,5,2.25
+20/12/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+20/12/21,Damenmode,Computer,5,2.25,0,0.0,5,2.25
+20/12/21,"Sportbekleidung Damen",Computer,11,4.950000000000001,0,0.0,11,4.950000000000001
+20/12/21,"Sportbekleidung Herren",Computer,99,44.550000000000026,1,315.14,99,44.550000000000026
+20/12/21,"Sportbekleidung Herren",Mobile,7,2.3625,0,0.0,7,2.3625
+20/12/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+27/12/21,"Sportbekleidung Herren",Mobile,0,0.0,1,168.06,0,0.0
+02/11/21,Links,Computer,252,113.40000000000047,1,369.75,252,113.40000000000047
+02/11/21,Links,Mobile,249,112.05000000000047,0,0.0,249,112.05000000000047
+02/11/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+02/11/21,Herrenmode,Mobile,4,1.35,0,0.0,4,1.35
+02/11/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+02/11/21,Damenmode,Mobile,10,3.3749999999999996,0,0.0,10,3.3749999999999996
+02/11/21,Sonnenbrillen,Computer,3,1.35,0,0.0,3,1.35
+02/11/21,"Sportbekleidung Damen",Computer,11,4.950000000000001,0,0.0,11,4.950000000000001
+02/11/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+02/11/21,"Sportbekleidung Herren",Computer,61,27.449999999999974,0,0.0,61,27.449999999999974
+02/11/21,"Sportbekleidung Herren",Mobile,9,3.0375,0,0.0,9,3.0375
+02/11/21,Taschen,Mobile,1,0.3375,0,0.0,1,0.3375
+02/11/21,"Fahrradteile & Fahrradzubehör",Computer,3,1.35,0,0.0,3,1.35
+02/11/21,"Fahrradteile & Fahrradzubehör",Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+02/11/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+02/11/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+03/11/21,Links,Computer,168,75.60000000000024,0,0.0,168,75.60000000000024
+03/11/21,Links,Mobile,224,100.8000000000004,0,0.0,224,100.8000000000004
+03/11/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+03/11/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+03/11/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+03/11/21,Damenmode,Mobile,5,1.6875,0,0.0,5,1.6875
+03/11/21,"Sportbekleidung Damen",Computer,9,4.050000000000001,0,0.0,9,4.050000000000001
+03/11/21,"Sportbekleidung Herren",Computer,34,15.299999999999995,0,0.0,34,15.299999999999995
+03/11/21,"Sportbekleidung Herren",Mobile,8,2.7,0,0.0,8,2.7
+03/11/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+03/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+03/11/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+03/11/21,"Sportschuhe Herren",Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+05/11/21,Links,Computer,55,24.749999999999975,1,201.68,55,24.749999999999975
+05/11/21,Links,Mobile,69,31.049999999999965,0,0.0,69,31.049999999999965
+05/11/21,Herrenmode,Computer,3,1.35,0,0.0,3,1.35
+05/11/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+05/11/21,Damenmode,Mobile,4,1.35,0,0.0,4,1.35
+05/11/21,"Sportbekleidung Damen",Computer,7,3.1500000000000004,0,0.0,7,3.1500000000000004
+05/11/21,"Sportbekleidung Herren",Computer,30,13.499999999999996,0,0.0,30,13.499999999999996
+05/11/21,"Sportbekleidung Herren",Mobile,7,2.3625,0,0.0,7,2.3625
+05/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+07/11/21,Links,Computer,39,17.549999999999986,0,0.0,39,17.549999999999986
+07/11/21,Links,Mobile,52,23.399999999999977,0,0.0,52,23.399999999999977
+07/11/21,Herrenmode,Computer,1,0.45,0,0.0,1,0.45
+07/11/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+07/11/21,Damenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+07/11/21,"Sportbekleidung Damen",Computer,11,4.95,0,0.0,11,4.95
+07/11/21,"Sportbekleidung Herren",Computer,50,22.499999999999986,2,310.93,50,22.499999999999986
+07/11/21,"Sportbekleidung Herren",Mobile,20,6.750000000000002,1,75.63,20,6.750000000000002
+07/11/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+07/11/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+09/11/21,Links,Computer,76,34.199999999999974,0,0.0,76,34.199999999999974
+09/11/21,Links,Mobile,9,4.050000000000001,0,0.0,9,4.050000000000001
+09/11/21,Herrenmode,Computer,3,1.35,1,147.06,3,1.35
+09/11/21,Herrenmode,Mobile,2,0.675,0,0.0,2,0.675
+09/11/21,Damenmode,Computer,8,3.6000000000000005,0,0.0,8,3.6000000000000005
+09/11/21,"Sportbekleidung Damen",Computer,14,6.300000000000001,0,0.0,14,6.300000000000001
+09/11/21,"Sportbekleidung Damen",Mobile,6,2.0250000000000004,0,0.0,6,2.0250000000000004
+09/11/21,"Sportbekleidung Herren",Computer,58,26.09999999999998,2,512.5999999999999,58,26.09999999999998
+09/11/21,"Sportbekleidung Herren",Mobile,8,2.6999999999999997,0,0.0,8,2.6999999999999997
+13/11/21,Links,Computer,32,14.399999999999991,0,0.0,32,14.399999999999991
+13/11/21,Links,Mobile,2,0.9,0,0.0,2,0.9
+13/11/21,Herrenmode,Computer,5,2.25,0,0.0,5,2.25
+13/11/21,Herrenmode,Mobile,2,0.675,0,0.0,2,0.675
+13/11/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+13/11/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+13/11/21,Sonnenbrillen,Computer,1,0.45,0,0.0,1,0.45
+13/11/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+13/11/21,"Sportbekleidung Damen",Computer,17,7.650000000000001,0,0.0,17,7.650000000000001
+13/11/21,"Sportbekleidung Herren",Computer,82,36.9,0,0.0,82,36.9
+13/11/21,"Sportbekleidung Herren",Mobile,7,2.3625,0,0.0,7,2.3625
+13/11/21,Taschen,Mobile,1,0.3375,0,0.0,1,0.3375
+13/11/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+15/11/21,Links,Computer,41,18.449999999999985,0,0.0,41,18.449999999999985
+15/11/21,Links,Mobile,23,10.349999999999998,0,0.0,23,10.349999999999998
+15/11/21,Herrenmode,Computer,1,0.45,0,0.0,1,0.45
+15/11/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+15/11/21,Damenmode,Computer,2,0.9,0,0.0,2,0.9
+15/11/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+15/11/21,"Sportbekleidung Damen",Computer,6,2.7,0,0.0,6,2.7
+15/11/21,"Sportbekleidung Damen",Mobile,2,0.675,0,0.0,2,0.675
+15/11/21,"Sportbekleidung Herren",Computer,36,16.199999999999992,0,0.0,36,16.199999999999992
+15/11/21,"Sportbekleidung Herren",Mobile,8,2.7,0,0.0,8,2.7
+15/11/21,"Fahrradteile & Fahrradzubehör",Computer,3,1.35,0,0.0,3,1.35
+15/11/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+15/11/21,"Sportschuhe Herren",Mobile,2,0.675,0,0.0,2,0.675
+16/11/21,Links,Computer,7,3.1500000000000004,0,0.0,7,3.1500000000000004
+16/11/21,Links,Mobile,2,0.9,0,0.0,2,0.9
+16/11/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+16/11/21,Herrenmode,Mobile,4,1.35,0,0.0,4,1.35
+16/11/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+16/11/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+16/11/21,"Sportbekleidung Damen",Computer,2,0.9,0,0.0,2,0.9
+16/11/21,"Sportbekleidung Damen",Mobile,6,2.025,0,0.0,6,2.025
+16/11/21,"Sportbekleidung Herren",Computer,52,23.39999999999998,1,64.32,52,23.39999999999998
+16/11/21,"Sportbekleidung Herren",Mobile,4,1.35,0,0.0,4,1.35
+16/11/21,Taschen,Mobile,1,0.3375,0,0.0,1,0.3375
+16/11/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+16/11/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.6875,0,0.0,5,1.6875
+16/11/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+18/11/21,Links,Computer,269,121.05000000000052,0,0.0,269,121.05000000000052
+18/11/21,Links,Mobile,342,153.89999999999992,1,55.92,342,153.89999999999992
+18/11/21,Herrenmode,Computer,1,0.45,0,0.0,1,0.45
+18/11/21,Damenmode,Computer,5,2.25,0,0.0,5,2.25
+18/11/21,Damenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+18/11/21,Herrenunterwäsche,Computer,1,0.45,0,0.0,1,0.45
+18/11/21,"Sportbekleidung Damen",Computer,7,3.15,0,0.0,7,3.15
+18/11/21,"Sportbekleidung Damen",Mobile,2,0.675,0,0.0,2,0.675
+18/11/21,"Sportbekleidung Herren",Computer,78,35.1,0,0.0,78,35.1
+18/11/21,"Sportbekleidung Herren",Mobile,10,3.3749999999999996,0,0.0,10,3.3749999999999996
+18/11/21,Taschen,Computer,1,0.45,0,0.0,1,0.45
+18/11/21,"Fahrradteile & Fahrradzubehör",Computer,2,0.9,0,0.0,2,0.9
+18/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+18/11/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+18/11/21,Rucksäcke,Computer,1,0.45,0,0.0,1,0.45
+21/11/21,Links,Computer,587,264.14999999999714,0,0.0,587,264.14999999999714
+21/11/21,Links,Mobile,815,366.74999999999454,0,0.0,815,366.74999999999454
+21/11/21,Herrenmode,Computer,5,2.25,0,0.0,5,2.25
+21/11/21,Damenmode,Computer,4,1.8,0,0.0,4,1.8
+21/11/21,Sonnenbrillen,Computer,1,0.45,0,0.0,1,0.45
+21/11/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+21/11/21,"Sportbekleidung Damen",Computer,15,6.75,0,0.0,15,6.75
+21/11/21,"Sportbekleidung Damen",Mobile,4,1.35,0,0.0,4,1.35
+21/11/21,"Sportbekleidung Herren",Computer,121,54.45000000000004,1,113.44,121,54.45000000000004
+21/11/21,"Sportbekleidung Herren",Mobile,12,4.05,0,0.0,12,4.05
+21/11/21,"Fahrradteile & Fahrradzubehör",Computer,2,0.9,0,0.0,2,0.9
+21/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+21/11/21,"Sportschuhe Herren",Computer,6,2.7,0,0.0,6,2.7
+21/11/21,"Sportschuhe Herren",Mobile,2,0.675,0,0.0,2,0.675
+22/11/21,Links,Computer,1070,481.49999999999164,2,503.36,1070,481.49999999999164
+22/11/21,Links,Mobile,1237,556.6499999999954,0,0.0,1237,556.6499999999954
+22/11/21,Herrenmode,Computer,4,1.8,0,0.0,4,1.8
+22/11/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+22/11/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+22/11/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+22/11/21,Sonnenbrillen,Computer,1,0.45,0,0.0,1,0.45
+22/11/21,Sonnenbrillen,Mobile,2,0.675,0,0.0,2,0.675
+22/11/21,"Sportbekleidung Damen",Computer,23,10.35,0,0.0,23,10.35
+22/11/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+22/11/21,"Sportbekleidung Herren",Computer,147,66.15000000000005,3,467.21,147,66.15000000000005
+22/11/21,"Sportbekleidung Herren",Mobile,10,3.3749999999999996,1,84.03,10,3.3749999999999996
+22/11/21,"Fahrradteile & Fahrradzubehör",Computer,3,1.35,0,0.0,3,1.35
+22/11/21,"Sportschuhe Herren",Computer,3,1.35,0,0.0,3,1.35
+24/11/21,Links,Computer,113,50.85000000000008,0,0.0,113,50.85000000000008
+24/11/21,Links,Mobile,196,88.20000000000032,0,0.0,196,88.20000000000032
+24/11/21,Herrenmode,Computer,1,0.45,0,0.0,1,0.45
+24/11/21,Damenmode,Computer,4,1.8,0,0.0,4,1.8
+24/11/21,"Sportbekleidung Damen",Computer,9,4.050000000000001,0,0.0,9,4.050000000000001
+24/11/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+24/11/21,"Sportbekleidung Herren",Computer,77,34.65,0,0.0,77,34.65
+24/11/21,"Sportbekleidung Herren",Mobile,4,1.35,1,54.62,4,1.35
+24/11/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+24/11/21,"Sportschuhe Herren",Computer,1,0.45,1,85.72,1,0.45
+26/11/21,Links,Computer,28,12.599999999999994,1,76.47,28,12.599999999999994
+26/11/21,Links,Mobile,7,3.1500000000000004,0,0.0,7,3.1500000000000004
+26/11/21,Herrenmode,Computer,3,1.35,0,0.0,3,1.35
+26/11/21,Herrenmode,Mobile,8,2.7,0,0.0,8,2.7
+26/11/21,Damenmode,Computer,5,2.25,0,0.0,5,2.25
+26/11/21,Damenmode,Mobile,14,4.725,0,0.0,14,4.725
+26/11/21,Sonnenbrillen,Computer,1,0.45,0,0.0,1,0.45
+26/11/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+26/11/21,"Sportbekleidung Damen",Computer,7,3.1500000000000004,0,0.0,7,3.1500000000000004
+26/11/21,"Sportbekleidung Damen",Mobile,5,1.6875000000000002,0,0.0,5,1.6875000000000002
+26/11/21,"Sportbekleidung Herren",Computer,114,51.30000000000006,1,184.88,114,51.30000000000006
+26/11/21,"Sportbekleidung Herren",Mobile,33,11.137500000000003,0,0.0,33,11.137500000000003
+26/11/21,"Fahrradteile & Fahrradzubehör",Computer,3,1.35,0,0.0,3,1.35
+26/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+26/11/21,"Sportschuhe Herren",Computer,3,1.35,0,0.0,3,1.35
+27/11/21,Links,Computer,45,20.249999999999982,0,0.0,45,20.249999999999982
+27/11/21,Links,Mobile,5,2.25,0,0.0,5,2.25
+27/11/21,Herrenmode,Computer,6,2.7,0,0.0,6,2.7
+27/11/21,Herrenmode,Mobile,2,0.675,0,0.0,2,0.675
+27/11/21,Damenmode,Computer,10,4.500000000000001,0,0.0,10,4.500000000000001
+27/11/21,Damenmode,Mobile,7,2.3625000000000003,0,0.0,7,2.3625000000000003
+27/11/21,"Sportbekleidung Damen",Computer,29,13.049999999999997,2,261.34000000000003,29,13.049999999999997
+27/11/21,"Sportbekleidung Damen",Mobile,2,0.675,0,0.0,2,0.675
+27/11/21,"Sportbekleidung Herren",Computer,186,83.70000000000017,0,0.0,186,83.70000000000017
+27/11/21,"Sportbekleidung Herren",Mobile,17,5.737500000000002,0,0.0,17,5.737500000000002
+27/11/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+27/11/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+27/11/21,"Sportschuhe Herren",Mobile,2,0.675,0,0.0,2,0.675
+28/11/21,Links,Computer,74,33.29999999999997,0,0.0,74,33.29999999999997
+28/11/21,Links,Mobile,7,3.1500000000000004,0,0.0,7,3.1500000000000004
+28/11/21,Herrenmode,Computer,5,2.25,1,168.07,5,2.25
+28/11/21,Herrenmode,Mobile,4,1.35,0,0.0,4,1.35
+28/11/21,Damenmode,Computer,13,5.850000000000001,0,0.0,13,5.850000000000001
+28/11/21,Damenmode,Mobile,13,4.3875,0,0.0,13,4.3875
+28/11/21,"Sportbekleidung Damen",Computer,25,11.249999999999998,0,0.0,25,11.249999999999998
+28/11/21,"Sportbekleidung Damen",Mobile,9,3.0374999999999996,0,0.0,9,3.0374999999999996
+28/11/21,"Sportbekleidung Herren",Computer,136,61.2000000000001,4,464.70000000000005,136,61.2000000000001
+28/11/21,"Sportbekleidung Herren",Mobile,22,7.425000000000002,2,337.82000000000005,22,7.425000000000002
+28/11/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+28/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+28/11/21,"Sportschuhe Herren",Computer,4,1.8,0,0.0,4,1.8
+28/11/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+29/11/21,Links,Computer,722,324.8999999999956,0,0.0,722,324.8999999999956
+29/11/21,Links,Mobile,42,18.899999999999984,1,94.12,42,18.899999999999984
+29/11/21,Herrenmode,Computer,8,3.6,0,0.0,8,3.6
+29/11/21,Herrenmode,Mobile,8,2.7,0,0.0,8,2.7
+29/11/21,Damenmode,Computer,12,5.400000000000001,2,229.42000000000002,12,5.400000000000001
+29/11/21,Damenmode,Mobile,4,1.35,0,0.0,4,1.35
+29/11/21,"Sportbekleidung Damen",Computer,11,4.950000000000001,0,0.0,11,4.950000000000001
+29/11/21,"Sportbekleidung Damen",Mobile,8,2.6999999999999997,0,0.0,8,2.6999999999999997
+29/11/21,"Sportbekleidung Herren",Computer,155,69.75000000000009,1,76.47,155,69.75000000000009
+29/11/21,"Sportbekleidung Herren",Mobile,12,4.05,0,0.0,12,4.05
+29/11/21,"Fahrradteile & Fahrradzubehör",Computer,6,2.7,0,0.0,6,2.7
+29/11/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+29/11/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+23/11/21,Links,Computer,1896,853.2000000000254,0,0.0,1896,853.2000000000254
+23/11/21,Links,Mobile,2218,998.10000000004,0,0.0,2218,998.10000000004
+23/11/21,Herrenmode,Computer,7,3.1500000000000004,0,0.0,7,3.1500000000000004
+23/11/21,Herrenmode,Mobile,2,0.675,0,0.0,2,0.675
+23/11/21,Damenmode,Computer,11,4.950000000000001,0,0.0,11,4.950000000000001
+23/11/21,Damenmode,Mobile,5,1.6875,0,0.0,5,1.6875
+23/11/21,"Sportbekleidung Damen",Computer,20,9.000000000000002,0,0.0,20,9.000000000000002
+23/11/21,"Sportbekleidung Damen",Mobile,2,0.675,0,0.0,2,0.675
+23/11/21,"Sportbekleidung Herren",Computer,157,70.6500000000001,2,109.23,157,70.6500000000001
+23/11/21,"Sportbekleidung Herren",Mobile,9,3.0374999999999996,0,0.0,9,3.0374999999999996
+23/11/21,"Sportschuhe Herren",Computer,4,1.8,0,0.0,4,1.8
+25/11/21,Links,Computer,11,4.950000000000001,1,566.38,11,4.950000000000001
+25/11/21,Links,Mobile,1,0.45,0,0.0,1,0.45
+25/11/21,Herrenmode,Computer,1,0.45,0,0.0,1,0.45
+25/11/21,Damenmode,Computer,1,0.45,0,0.0,1,0.45
+25/11/21,Sonnenbrillen,Computer,1,0.45,0,0.0,1,0.45
+25/11/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+25/11/21,"Sportbekleidung Herren",Computer,13,5.8500000000000005,1,249.9,13,5.8500000000000005
+25/11/21,"Sportbekleidung Herren",Mobile,2,0.675,0,0.0,2,0.675
+30/11/21,Links,Computer,699,314.54999999999586,0,0.0,699,314.54999999999586
+30/11/21,Links,Mobile,49,22.04999999999998,0,0.0,49,22.04999999999998
+30/11/21,Herrenmode,Computer,3,1.35,0,0.0,3,1.35
+30/11/21,Damenmode,Computer,5,2.25,0,0.0,5,2.25
+30/11/21,Damenmode,Mobile,23,7.7625,0,0.0,23,7.7625
+30/11/21,"Sportbekleidung Damen",Computer,20,9.0,0,0.0,20,9.0
+30/11/21,"Sportbekleidung Damen",Mobile,9,3.0375,1,34.91,9,3.0375
+30/11/21,"Sportbekleidung Herren",Computer,116,52.20000000000002,0,0.0,116,52.20000000000002
+30/11/21,"Sportbekleidung Herren",Mobile,17,5.737500000000002,0,0.0,17,5.737500000000002
+30/11/21,"Fahrradteile & Fahrradzubehör",Computer,4,1.8,0,0.0,4,1.8
+30/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+30/11/21,"Sportschuhe Herren",Computer,4,1.8,0,0.0,4,1.8
+12/11/21,Links,Computer,31,13.949999999999992,0,0.0,31,13.949999999999992
+12/11/21,Links,Mobile,6,2.7,0,0.0,6,2.7
+12/11/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+12/11/21,Damenmode,Computer,8,3.6,0,0.0,8,3.6
+12/11/21,"Sportbekleidung Damen",Computer,11,4.95,0,0.0,11,4.95
+12/11/21,"Sportbekleidung Herren",Computer,76,34.19999999999998,0,0.0,76,34.19999999999998
+12/11/21,"Sportbekleidung Herren",Mobile,13,4.3875,0,0.0,13,4.3875
+12/11/21,Taschen,Mobile,1,0.3375,0,0.0,1,0.3375
+12/11/21,"Sportschuhe Herren",Computer,5,2.25,0,0.0,5,2.25
+14/11/21,Links,Computer,32,14.399999999999991,0,0.0,32,14.399999999999991
+14/11/21,Links,Mobile,16,7.200000000000002,0,0.0,16,7.200000000000002
+14/11/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+14/11/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+14/11/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+14/11/21,"Sportbekleidung Damen",Computer,14,6.300000000000001,1,391.58,14,6.300000000000001
+14/11/21,"Sportbekleidung Damen",Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+14/11/21,"Sportbekleidung Herren",Computer,118,53.10000000000003,0,0.0,118,53.10000000000003
+14/11/21,"Sportbekleidung Herren",Mobile,17,5.737500000000001,0,0.0,17,5.737500000000001
+14/11/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+14/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+17/11/21,Links,Computer,7,3.1500000000000004,0,0.0,7,3.1500000000000004
+17/11/21,Links,Mobile,1,0.45,0,0.0,1,0.45
+17/11/21,Herrenmode,Computer,3,1.35,0,0.0,3,1.35
+17/11/21,Damenmode,Computer,3,1.35,1,193.28,3,1.35
+17/11/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+17/11/21,"Sportbekleidung Damen",Computer,12,5.400000000000001,0,0.0,12,5.400000000000001
+17/11/21,"Sportbekleidung Damen",Mobile,2,0.675,0,0.0,2,0.675
+17/11/21,"Sportbekleidung Herren",Computer,44,19.79999999999999,0,0.0,44,19.79999999999999
+17/11/21,"Sportbekleidung Herren",Mobile,10,3.3749999999999996,0,0.0,10,3.3749999999999996
+17/11/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+17/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+17/11/21,"Sportschuhe Herren",Computer,5,2.25,0,0.0,5,2.25
+19/11/21,Links,Computer,477,214.64999999999839,0,0.0,477,214.64999999999839
+19/11/21,Links,Mobile,524,235.79999999999785,0,0.0,524,235.79999999999785
+19/11/21,Herrenmode,Computer,5,2.25,1,168.07,5,2.25
+19/11/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+19/11/21,Damenmode,Computer,8,3.6,0,0.0,8,3.6
+19/11/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+19/11/21,Sonnenbrillen,Computer,1,0.45,0,0.0,1,0.45
+19/11/21,"Sportbekleidung Damen",Computer,15,6.750000000000001,0,0.0,15,6.750000000000001
+19/11/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+19/11/21,"Sportbekleidung Herren",Computer,100,45.000000000000036,0,0.0,100,45.000000000000036
+19/11/21,"Sportbekleidung Herren",Mobile,8,2.6999999999999997,1,55.92,8,2.6999999999999997
+19/11/21,"Fahrradteile & Fahrradzubehör",Computer,2,0.9,0,0.0,2,0.9
+19/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+19/11/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+20/11/21,Links,Computer,204,91.80000000000034,0,0.0,204,91.80000000000034
+20/11/21,Links,Mobile,206,92.70000000000034,0,0.0,206,92.70000000000034
+20/11/21,Herrenmode,Computer,5,2.25,0,0.0,5,2.25
+20/11/21,Damenmode,Computer,16,7.200000000000001,0,0.0,16,7.200000000000001
+20/11/21,Damenmode,Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+20/11/21,Sonnenbrillen,Computer,1,0.45,0,0.0,1,0.45
+20/11/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+20/11/21,"Sportbekleidung Damen",Computer,27,12.149999999999997,0,0.0,27,12.149999999999997
+20/11/21,"Sportbekleidung Herren",Computer,124,55.80000000000005,0,0.0,124,55.80000000000005
+20/11/21,"Sportbekleidung Herren",Mobile,9,3.0374999999999996,0,0.0,9,3.0374999999999996
+20/11/21,"Fahrradteile & Fahrradzubehör",Computer,5,2.25,0,0.0,5,2.25
+20/11/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.675,0,0.0,2,0.675
+20/11/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+20/11/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+01/11/21,Links,Computer,263,118.3500000000005,1,470.58,263,118.3500000000005
+01/11/21,Links,Mobile,211,94.95000000000036,0,0.0,211,94.95000000000036
+01/11/21,Herrenmode,Computer,1,0.45,0,0.0,1,0.45
+01/11/21,Herrenmode,Mobile,2,0.675,0,0.0,2,0.675
+01/11/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+01/11/21,Damenmode,Mobile,16,5.4,0,0.0,16,5.4
+01/11/21,"Sportbekleidung Damen",Computer,11,4.95,1,105.04,11,4.95
+01/11/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+01/11/21,"Sportbekleidung Herren",Computer,65,29.02499999999998,0,0.0,65,29.02499999999998
+01/11/21,"Sportbekleidung Herren",Mobile,12,4.05,1,43.32,12,4.05
+01/11/21,"Fahrradteile & Fahrradzubehör",Computer,3,1.35,0,0.0,3,1.35
+01/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+01/11/21,"Sportschuhe Herren",Computer,3,1.35,0,0.0,3,1.35
+01/11/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+04/11/21,Links,Computer,415,186.7499999999991,0,0.0,415,186.7499999999991
+04/11/21,Links,Mobile,467,210.1499999999985,0,0.0,467,210.1499999999985
+04/11/21,Herrenmode,Computer,1,0.45,0,0.0,1,0.45
+04/11/21,Herrenmode,Mobile,4,1.35,0,0.0,4,1.35
+04/11/21,Damenmode,Computer,8,3.6000000000000005,0,0.0,8,3.6000000000000005
+04/11/21,Damenmode,Mobile,12,4.050000000000001,1,235.29,12,4.050000000000001
+04/11/21,"Sportbekleidung Damen",Computer,7,3.1500000000000004,0,0.0,7,3.1500000000000004
+04/11/21,"Sportbekleidung Herren",Computer,22,9.899999999999999,3,638.65,22,9.899999999999999
+04/11/21,"Sportbekleidung Herren",Mobile,10,3.375,0,0.0,10,3.375
+04/11/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+04/11/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+06/11/21,Links,Computer,147,66.15000000000018,0,0.0,147,66.15000000000018
+06/11/21,Links,Mobile,263,118.3500000000005,1,168.06,263,118.3500000000005
+06/11/21,Damenmode,Computer,5,2.25,0,0.0,5,2.25
+06/11/21,Damenmode,Mobile,4,1.35,0,0.0,4,1.35
+06/11/21,"Sportbekleidung Damen",Computer,5,2.25,1,151.26,5,2.25
+06/11/21,"Sportbekleidung Damen",Mobile,2,0.675,0,0.0,2,0.675
+06/11/21,"Sportbekleidung Herren",Computer,28,12.599999999999996,0,0.0,28,12.599999999999996
+06/11/21,"Sportbekleidung Herren",Mobile,30,10.125000000000005,0,0.0,30,10.125000000000005
+06/11/21,Taschen,Mobile,1,0.3375,0,0.0,1,0.3375
+08/11/21,Links,Computer,63,28.34999999999997,0,0.0,63,28.34999999999997
+08/11/21,Links,Mobile,4,1.8,0,0.0,4,1.8
+08/11/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+08/11/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+08/11/21,Damenmode,Computer,3,1.35,0,0.0,3,1.35
+08/11/21,Damenmode,Mobile,1,0.3375,1,235.29,1,0.3375
+08/11/21,"Sportbekleidung Damen",Computer,18,8.100000000000001,0,0.0,18,8.100000000000001
+08/11/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+08/11/21,"Sportbekleidung Herren",Computer,85,38.25000000000001,0,0.0,85,38.25000000000001
+08/11/21,"Sportbekleidung Herren",Mobile,11,3.7125,0,0.0,11,3.7125
+08/11/21,"Fahrradteile & Fahrradzubehör",Computer,4,1.8,0,0.0,4,1.8
+08/11/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+08/11/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+10/11/21,Links,Computer,47,21.14999999999998,0,0.0,47,21.14999999999998
+10/11/21,Links,Mobile,5,2.25,0,0.0,5,2.25
+10/11/21,Damenmode,Computer,5,2.25,0,0.0,5,2.25
+10/11/21,"Sportbekleidung Damen",Computer,9,4.050000000000001,0,0.0,9,4.050000000000001
+10/11/21,"Sportbekleidung Herren",Computer,52,23.399999999999988,0,0.0,52,23.399999999999988
+10/11/21,"Sportbekleidung Herren",Mobile,7,2.3625,0,0.0,7,2.3625
+10/11/21,Taschen,Computer,1,0.45,0,0.0,1,0.45
+10/11/21,Taschen,Mobile,1,0.3375,0,0.0,1,0.3375
+10/11/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,1,193.28,1,0.45
+10/11/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+10/11/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+11/11/21,Links,Computer,37,16.649999999999988,0,0.0,37,16.649999999999988
+11/11/21,Links,Mobile,14,6.300000000000002,0,0.0,14,6.300000000000002
+11/11/21,Herrenmode,Computer,3,1.35,0,0.0,3,1.35
+11/11/21,Damenmode,Computer,4,1.8,0,0.0,4,1.8
+11/11/21,Damenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+11/11/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+11/11/21,"Sportbekleidung Damen",Computer,18,8.100000000000001,0,0.0,18,8.100000000000001
+11/11/21,"Sportbekleidung Herren",Computer,57,25.649999999999984,2,245.0,57,25.649999999999984
+11/11/21,"Sportbekleidung Herren",Mobile,4,1.35,0,0.0,4,1.35
+11/11/21,"Fahrradteile & Fahrradzubehör",Computer,2,0.9,0,0.0,2,0.9
+11/11/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+11/11/21,"Sportschuhe Herren",Computer,4,1.8,0,0.0,4,1.8
+02/10/21,"Sportbekleidung Damen",Computer,13,3.5100000000000002,0,0.0,13,3.5100000000000002
+02/10/21,"Sportbekleidung Herren",Computer,40,10.799999999999994,0,0.0,40,10.799999999999994
+02/10/21,"Sportbekleidung Herren",Mobile,6,1.2150000000000003,0,0.0,6,1.2150000000000003
+02/10/21,"Fahrradteile & Fahrradzubehör",Computer,70,35.0,0,0.0,70,35.0
+02/10/21,"Fahrradteile & Fahrradzubehör",Mobile,3,1.125,0,0.0,3,1.125
+05/10/21,Herrenmode,Mobile,3,0.6975,0,0.0,3,0.6975
+05/10/21,Damenmode,Computer,5,1.55,0,0.0,5,1.55
+05/10/21,Damenmode,Mobile,4,0.93,0,0.0,4,0.93
+05/10/21,Damenunterwäsche,Computer,1,0.31,0,0.0,1,0.31
+05/10/21,Sonnenbrillen,Mobile,1,0.2325,0,0.0,1,0.2325
+05/10/21,"Sportbekleidung Damen",Computer,16,4.959999999999999,1,168.07,16,4.959999999999999
+05/10/21,"Sportbekleidung Damen",Mobile,18,4.185,1,386.55,18,4.185
+05/10/21,"Sportbekleidung Herren",Computer,105,32.54999999999998,2,310.91999999999996,105,32.54999999999998
+05/10/21,"Sportbekleidung Herren",Mobile,59,13.717499999999998,3,191.67,59,13.717499999999998
+05/10/21,"Fahrradteile & Fahrradzubehör",Computer,58,17.980000000000004,0,0.0,58,17.980000000000004
+05/10/21,"Sportschuhe Herren",Computer,1,0.31,0,0.0,1,0.31
+05/10/21,"Sportschuhe Herren",Mobile,1,0.2325,0,0.0,1,0.2325
+06/10/21,Herrenmode,Computer,9,2.79,0,0.0,9,2.79
+06/10/21,Herrenmode,Mobile,2,0.465,0,0.0,2,0.465
+06/10/21,Damenmode,Computer,17,5.27,0,0.0,17,5.27
+06/10/21,Damenmode,Mobile,5,1.1625,1,478.98,5,1.1625
+06/10/21,Sonnenbrillen,Computer,1,0.31,0,0.0,1,0.31
+06/10/21,Sonnenbrillen,Mobile,2,0.465,1,84.03,2,0.465
+06/10/21,"Sportbekleidung Damen",Computer,15,4.6499999999999995,0,0.0,15,4.6499999999999995
+06/10/21,"Sportbekleidung Damen",Mobile,11,2.5574999999999997,3,488.69,11,2.5574999999999997
+06/10/21,"Sportbekleidung Herren",Computer,96,29.75999999999998,0,0.0,96,29.75999999999998
+06/10/21,"Sportbekleidung Herren",Mobile,55,12.787499999999998,2,823.52,55,12.787499999999998
+06/10/21,Taschen,Computer,1,0.31,0,0.0,1,0.31
+06/10/21,"Fahrradteile & Fahrradzubehör",Computer,53,16.430000000000007,0,0.0,53,16.430000000000007
+06/10/21,"Fahrradteile & Fahrradzubehör",Mobile,3,0.6975,0,0.0,3,0.6975
+06/10/21,"Sportschuhe Herren",Computer,2,0.62,0,0.0,2,0.62
+06/10/21,"Sportschuhe Herren",Mobile,2,0.465,0,0.0,2,0.465
+07/10/21,Herrenmode,Computer,3,0.99,0,0.0,3,0.99
+07/10/21,Herrenmode,Mobile,2,0.495,0,0.0,2,0.495
+07/10/21,Damenmode,Computer,9,2.97,0,0.0,9,2.97
+07/10/21,Damenmode,Mobile,3,0.7424999999999999,1,147.06,3,0.7424999999999999
+07/10/21,"Sportbekleidung Damen",Computer,33,10.89,0,0.0,33,10.89
+07/10/21,"Sportbekleidung Damen",Mobile,15,3.7125000000000004,0,0.0,15,3.7125000000000004
+07/10/21,"Sportbekleidung Herren",Computer,64,21.11999999999999,1,68.53,64,21.11999999999999
+07/10/21,"Sportbekleidung Herren",Mobile,48,11.879999999999999,2,357.13,48,11.879999999999999
+07/10/21,Taschen,Computer,1,0.33,0,0.0,1,0.33
+07/10/21,Taschen,Mobile,1,0.2475,0,0.0,1,0.2475
+07/10/21,"Fahrradteile & Fahrradzubehör",Computer,31,10.23,0,0.0,31,10.23
+07/10/21,"Sportschuhe Herren",Computer,1,0.33,0,0.0,1,0.33
+09/10/21,Herrenmode,Computer,4,1.32,0,0.0,4,1.32
+09/10/21,Herrenmode,Mobile,2,0.495,0,0.0,2,0.495
+09/10/21,Damenmode,Computer,5,1.6500000000000001,0,0.0,5,1.6500000000000001
+09/10/21,Damenmode,Mobile,2,0.495,0,0.0,2,0.495
+09/10/21,"Sportbekleidung Damen",Computer,7,2.31,0,0.0,7,2.31
+09/10/21,"Sportbekleidung Damen",Mobile,5,1.2375,2,282.81,5,1.2375
+09/10/21,"Sportbekleidung Herren",Computer,52,17.159999999999997,1,109.24,52,17.159999999999997
+09/10/21,"Sportbekleidung Herren",Mobile,50,12.374999999999998,2,244.95999999999998,50,12.374999999999998
+09/10/21,Taschen,Computer,1,0.33,0,0.0,1,0.33
+09/10/21,"Fahrradteile & Fahrradzubehör",Computer,52,17.159999999999997,0,0.0,52,17.159999999999997
+09/10/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.495,0,0.0,2,0.495
+11/10/21,Herrenmode,Computer,4,1.32,0,0.0,4,1.32
+11/10/21,Herrenmode,Mobile,1,0.2475,0,0.0,1,0.2475
+11/10/21,Damenmode,Computer,4,1.32,0,0.0,4,1.32
+11/10/21,Damenmode,Mobile,5,1.2375,0,0.0,5,1.2375
+11/10/21,Sonnenbrillen,Computer,1,0.33,0,0.0,1,0.33
+11/10/21,"Sportbekleidung Damen",Computer,23,7.590000000000001,0,0.0,23,7.590000000000001
+11/10/21,"Sportbekleidung Damen",Mobile,1,0.2475,0,0.0,1,0.2475
+11/10/21,"Sportbekleidung Herren",Computer,88,29.039999999999974,0,0.0,88,29.039999999999974
+11/10/21,"Sportbekleidung Herren",Mobile,23,5.692499999999999,1,92.44,23,5.692499999999999
+11/10/21,Taschen,Computer,1,0.33,0,0.0,1,0.33
+11/10/21,"Fahrradteile & Fahrradzubehör",Computer,42,13.860000000000001,0,0.0,42,13.860000000000001
+11/10/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2475,0,0.0,1,0.2475
+11/10/21,"Sportschuhe Herren",Computer,6,1.98,0,0.0,6,1.98
+12/10/21,Herrenmode,Computer,9,2.97,0,0.0,9,2.97
+12/10/21,Herrenmode,Mobile,3,0.7424999999999999,0,0.0,3,0.7424999999999999
+12/10/21,Damenmode,Computer,4,1.32,0,0.0,4,1.32
+12/10/21,Damenmode,Mobile,2,0.495,0,0.0,2,0.495
+12/10/21,"Sportbekleidung Damen",Computer,21,6.930000000000001,0,0.0,21,6.930000000000001
+12/10/21,"Sportbekleidung Damen",Mobile,11,2.7225,1,235.29,11,2.7225
+12/10/21,"Sportbekleidung Herren",Computer,114,37.619999999999955,1,151.26,114,37.619999999999955
+12/10/21,"Sportbekleidung Herren",Mobile,35,8.662499999999996,1,260.5,35,8.662499999999996
+12/10/21,"Fahrradteile & Fahrradzubehör",Computer,78,25.73999999999996,0,0.0,78,25.73999999999996
+12/10/21,"Fahrradteile & Fahrradzubehör",Mobile,6,1.4849999999999999,0,0.0,6,1.4849999999999999
+12/10/21,"Sportschuhe Herren",Computer,1,0.33,0,0.0,1,0.33
+12/10/21,"Sportschuhe Herren",Mobile,3,0.7424999999999999,0,0.0,3,0.7424999999999999
+13/10/21,Herrenmode,Computer,5,1.6500000000000001,0,0.0,5,1.6500000000000001
+13/10/21,Herrenmode,Mobile,1,0.2475,0,0.0,1,0.2475
+13/10/21,Damenmode,Computer,11,3.6300000000000003,0,0.0,11,3.6300000000000003
+13/10/21,Damenmode,Mobile,3,0.7424999999999999,0,0.0,3,0.7424999999999999
+13/10/21,"Sportbekleidung Damen",Computer,22,7.260000000000001,0,0.0,22,7.260000000000001
+13/10/21,"Sportbekleidung Damen",Mobile,6,1.485,0,0.0,6,1.485
+13/10/21,"Sportbekleidung Herren",Computer,117,38.609999999999935,0,0.0,117,38.609999999999935
+13/10/21,"Sportbekleidung Herren",Mobile,33,8.167499999999995,0,0.0,33,8.167499999999995
+13/10/21,Taschen,Computer,2,0.66,0,0.0,2,0.66
+13/10/21,"Fahrradteile & Fahrradzubehör",Computer,49,16.17,0,0.0,49,16.17
+13/10/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2475,0,0.0,1,0.2475
+13/10/21,"Sportschuhe Herren",Computer,1,0.33,0,0.0,1,0.33
+15/10/21,Herrenmode,Computer,4,1.32,0,0.0,4,1.32
+15/10/21,Damenmode,Computer,4,1.32,0,0.0,4,1.32
+15/10/21,Damenmode,Mobile,1,0.2475,0,0.0,1,0.2475
+15/10/21,"Sportbekleidung Damen",Computer,30,9.9,0,0.0,30,9.9
+15/10/21,"Sportbekleidung Damen",Mobile,1,0.2475,0,0.0,1,0.2475
+15/10/21,"Sportbekleidung Herren",Computer,94,31.01999999999996,0,0.0,94,31.01999999999996
+15/10/21,"Sportbekleidung Herren",Mobile,15,3.7125000000000004,0,0.0,15,3.7125000000000004
+15/10/21,"Fahrradteile & Fahrradzubehör",Computer,47,15.510000000000002,0,0.0,47,15.510000000000002
+15/10/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.2375,0,0.0,5,1.2375
+15/10/21,"Sportschuhe Herren",Computer,4,1.32,0,0.0,4,1.32
+15/10/21,"Sportschuhe Herren",Mobile,1,0.2475,0,0.0,1,0.2475
+17/10/21,Herrenmode,Computer,5,1.6500000000000001,0,0.0,5,1.6500000000000001
+17/10/21,Herrenmode,Mobile,4,0.99,0,0.0,4,0.99
+17/10/21,Damenmode,Computer,4,1.32,0,0.0,4,1.32
+17/10/21,"Sportbekleidung Damen",Computer,26,8.58,0,0.0,26,8.58
+17/10/21,"Sportbekleidung Damen",Mobile,3,0.7424999999999999,0,0.0,3,0.7424999999999999
+17/10/21,"Sportbekleidung Herren",Computer,123,40.58999999999993,0,0.0,123,40.58999999999993
+17/10/21,"Sportbekleidung Herren",Mobile,21,5.1975,1,403.36,21,5.1975
+17/10/21,"Fahrradteile & Fahrradzubehör",Computer,44,14.520000000000001,0,0.0,44,14.520000000000001
+17/10/21,"Sportschuhe Herren",Computer,4,1.32,0,0.0,4,1.32
+19/10/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+19/10/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+19/10/21,Damenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+19/10/21,"Sportbekleidung Damen",Computer,34,15.299999999999997,0,0.0,34,15.299999999999997
+19/10/21,"Sportbekleidung Damen",Mobile,4,1.35,0,0.0,4,1.35
+19/10/21,"Sportbekleidung Herren",Computer,76,34.19999999999999,1,235.29,76,34.19999999999999
+19/10/21,"Sportbekleidung Herren",Mobile,9,3.0374999999999996,0,0.0,9,3.0374999999999996
+19/10/21,"Fahrradteile & Fahrradzubehör",Computer,22,9.9,1,243.69,22,9.9
+19/10/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.675,0,0.0,2,0.675
+19/10/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+21/10/21,Herrenmode,Computer,10,4.5,0,0.0,10,4.5
+21/10/21,Herrenmode,Mobile,8,2.7,0,0.0,8,2.7
+21/10/21,Damenmode,Computer,12,5.4,0,0.0,12,5.4
+21/10/21,Damenmode,Mobile,5,1.6875000000000002,0,0.0,5,1.6875000000000002
+21/10/21,"Sportbekleidung Damen",Computer,64,28.8,1,210.08,64,28.8
+21/10/21,"Sportbekleidung Damen",Mobile,4,1.35,0,0.0,4,1.35
+21/10/21,"Sportbekleidung Herren",Computer,210,94.50000000000007,1,134.45,210,94.50000000000007
+21/10/21,"Sportbekleidung Herren",Mobile,26,8.775000000000002,0,0.0,26,8.775000000000002
+21/10/21,Taschen,Computer,1,0.45,0,0.0,1,0.45
+21/10/21,Taschen,Mobile,1,0.3375,0,0.0,1,0.3375
+21/10/21,"Fahrradteile & Fahrradzubehör",Computer,15,6.750000000000002,0,0.0,15,6.750000000000002
+21/10/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.675,0,0.0,2,0.675
+21/10/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+21/10/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+23/10/21,Herrenmode,Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+23/10/21,Damenmode,Computer,8,3.6,0,0.0,8,3.6
+23/10/21,Damenmode,Mobile,5,1.6875,0,0.0,5,1.6875
+23/10/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+23/10/21,"Sportbekleidung Damen",Computer,36,16.199999999999996,0,0.0,36,16.199999999999996
+23/10/21,"Sportbekleidung Damen",Mobile,5,1.6875000000000002,0,0.0,5,1.6875000000000002
+23/10/21,"Sportbekleidung Herren",Computer,59,26.54999999999998,0,0.0,59,26.54999999999998
+23/10/21,"Sportbekleidung Herren",Mobile,15,5.062500000000001,0,0.0,15,5.062500000000001
+23/10/21,"Fahrradteile & Fahrradzubehör",Computer,14,6.300000000000002,0,0.0,14,6.300000000000002
+23/10/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.675,0,0.0,2,0.675
+23/10/21,"Sportschuhe Herren",Computer,3,1.35,0,0.0,3,1.35
+24/10/21,Herrenmode,Computer,5,2.25,0,0.0,5,2.25
+24/10/21,Herrenmode,Mobile,6,2.025,0,0.0,6,2.025
+24/10/21,Damenmode,Computer,3,1.35,0,0.0,3,1.35
+24/10/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+24/10/21,"Sportbekleidung Damen",Computer,37,16.649999999999995,0,0.0,37,16.649999999999995
+24/10/21,"Sportbekleidung Damen",Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+24/10/21,"Sportbekleidung Herren",Computer,94,42.3,1,243.7,94,42.3
+24/10/21,"Sportbekleidung Herren",Mobile,17,5.7375,0,0.0,17,5.7375
+24/10/21,"Fahrradteile & Fahrradzubehör",Computer,18,8.100000000000001,0,0.0,18,8.100000000000001
+24/10/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+24/10/21,"Sportschuhe Herren",Computer,5,2.25,0,0.0,5,2.25
+24/10/21,"Sportschuhe Herren",Mobile,5,1.6875000000000002,0,0.0,5,1.6875000000000002
+27/10/21,Links,Computer,57,25.649999999999974,1,352.93,57,25.649999999999974
+27/10/21,Links,Mobile,20,9.0,0,0.0,20,9.0
+27/10/21,Herrenmode,Computer,6,2.7,0,0.0,6,2.7
+27/10/21,Herrenmode,Mobile,4,1.35,0,0.0,4,1.35
+27/10/21,Damenmode,Computer,10,4.5,0,0.0,10,4.5
+27/10/21,Damenmode,Mobile,5,1.6875,0,0.0,5,1.6875
+27/10/21,"Sportbekleidung Damen",Computer,17,7.65,0,0.0,17,7.65
+27/10/21,"Sportbekleidung Damen",Mobile,4,1.35,0,0.0,4,1.35
+27/10/21,"Sportbekleidung Herren",Computer,73,32.84999999999997,0,0.0,73,32.84999999999997
+27/10/21,"Sportbekleidung Herren",Mobile,10,3.3749999999999996,1,857.14,10,3.3749999999999996
+27/10/21,Taschen,Mobile,1,0.3375,0,0.0,1,0.3375
+27/10/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+27/10/21,"Sportschuhe Herren",Computer,3,1.35,0,0.0,3,1.35
+27/10/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+30/10/21,Links,Computer,50,22.49999999999998,0,0.0,50,22.49999999999998
+30/10/21,Links,Mobile,11,4.950000000000001,0,0.0,11,4.950000000000001
+30/10/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+30/10/21,Herrenmode,Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+30/10/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+30/10/21,Damenmode,Mobile,6,2.025,0,0.0,6,2.025
+30/10/21,"Sportbekleidung Damen",Computer,13,5.8500000000000005,0,0.0,13,5.8500000000000005
+30/10/21,"Sportbekleidung Damen",Mobile,2,0.675,0,0.0,2,0.675
+30/10/21,"Sportbekleidung Herren",Computer,95,42.75,0,0.0,95,42.75
+30/10/21,"Sportbekleidung Herren",Mobile,19,6.4125000000000005,2,428.57000000000005,19,6.4125000000000005
+30/10/21,Taschen,Mobile,1,0.3375,0,0.0,1,0.3375
+30/10/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+30/10/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+30/10/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+31/10/21,Links,Computer,43,19.349999999999984,0,0.0,43,19.349999999999984
+31/10/21,Links,Mobile,11,4.950000000000001,1,205.88,11,4.950000000000001
+31/10/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+31/10/21,Herrenmode,Mobile,4,1.35,0,0.0,4,1.35
+31/10/21,Damenmode,Computer,8,3.6000000000000005,0,0.0,8,3.6000000000000005
+31/10/21,Damenmode,Mobile,5,1.6875,0,0.0,5,1.6875
+31/10/21,Sonnenbrillen,Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+31/10/21,"Sportbekleidung Damen",Computer,14,6.300000000000002,0,0.0,14,6.300000000000002
+31/10/21,"Sportbekleidung Herren",Computer,79,35.54999999999998,1,218.48,79,35.54999999999998
+31/10/21,"Sportbekleidung Herren",Mobile,14,4.7250000000000005,0,0.0,14,4.7250000000000005
+31/10/21,"Fahrradteile & Fahrradzubehör",Computer,2,0.9,0,0.0,2,0.9
+31/10/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+31/10/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+31/10/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+01/10/21,Herrenmode,Computer,1,0.25,0,0.0,1,0.25
+01/10/21,Damenmode,Computer,1,0.25,0,0.0,1,0.25
+01/10/21,Damenmode,Mobile,2,0.375,0,0.0,2,0.375
+01/10/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,1,0.1875
+01/10/21,"Sportbekleidung Damen",Computer,18,4.859999999999999,0,0.0,18,4.859999999999999
+01/10/21,"Sportbekleidung Herren",Computer,50,13.49999999999999,0,0.0,50,13.49999999999999
+01/10/21,"Sportbekleidung Herren",Mobile,2,0.405,0,0.0,2,0.405
+01/10/21,"Fahrradteile & Fahrradzubehör",Computer,72,36.0,0,0.0,72,36.0
+01/10/21,"Fahrradteile & Fahrradzubehör",Mobile,6,2.25,0,0.0,6,2.25
+03/10/21,Herrenmode,Mobile,1,0.1875,0,0.0,1,0.1875
+03/10/21,Damenmode,Computer,3,0.75,0,0.0,3,0.75
+03/10/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,1,0.1875
+03/10/21,"Sportbekleidung Damen",Computer,9,2.43,0,0.0,9,2.43
+03/10/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,2,0.405
+03/10/21,"Sportbekleidung Herren",Computer,47,12.689999999999994,1,218.48,47,12.689999999999994
+03/10/21,"Sportbekleidung Herren",Mobile,14,2.8350000000000013,0,0.0,14,2.8350000000000013
+03/10/21,"Fahrradteile & Fahrradzubehör",Computer,63,31.5,1,176.47,63,31.5
+03/10/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.375,0,0.0,1,0.375
+03/10/21,"Sportschuhe Herren",Computer,2,0.5,0,0.0,2,0.5
+04/10/21,Herrenmode,Computer,2,0.62,1,168.07,2,0.62
+04/10/21,Damenmode,Computer,3,0.9299999999999999,1,168.07,3,0.9299999999999999
+04/10/21,Damenmode,Mobile,2,0.465,0,0.0,2,0.465
+04/10/21,"Sportbekleidung Damen",Computer,14,4.34,0,0.0,14,4.34
+04/10/21,"Sportbekleidung Damen",Mobile,3,0.6975,0,0.0,3,0.6975
+04/10/21,"Sportbekleidung Herren",Computer,69,21.389999999999993,0,0.0,69,21.389999999999993
+04/10/21,"Sportbekleidung Herren",Mobile,19,4.4174999999999995,1,109.24,19,4.4174999999999995
+04/10/21,"Fahrradteile & Fahrradzubehör",Computer,37,11.469999999999999,0,0.0,37,11.469999999999999
+04/10/21,"Fahrradteile & Fahrradzubehör",Mobile,3,0.6975,0,0.0,3,0.6975
+04/10/21,"Sportschuhe Herren",Computer,3,0.9299999999999999,0,0.0,3,0.9299999999999999
+08/10/21,Herrenmode,Computer,5,1.6500000000000001,0,0.0,5,1.6500000000000001
+08/10/21,Herrenmode,Mobile,1,0.2475,0,0.0,1,0.2475
+08/10/21,Damenmode,Computer,8,2.64,0,0.0,8,2.64
+08/10/21,Damenmode,Mobile,1,0.2475,0,0.0,1,0.2475
+08/10/21,Sonnenbrillen,Mobile,1,0.2475,0,0.0,1,0.2475
+08/10/21,"Sportbekleidung Damen",Computer,9,2.97,1,92.44,9,2.97
+08/10/21,"Sportbekleidung Damen",Mobile,4,0.99,0,0.0,4,0.99
+08/10/21,"Sportbekleidung Herren",Computer,70,23.099999999999977,2,521.01,70,23.099999999999977
+08/10/21,"Sportbekleidung Herren",Mobile,45,11.137500000000001,6,1260.49,45,11.137500000000001
+08/10/21,"Fahrradteile & Fahrradzubehör",Computer,43,14.190000000000001,0,0.0,43,14.190000000000001
+08/10/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.495,0,0.0,2,0.495
+10/10/21,Herrenmode,Computer,1,0.33,0,0.0,1,0.33
+10/10/21,Herrenmode,Mobile,7,1.7325000000000002,0,0.0,7,1.7325000000000002
+10/10/21,Damenmode,Computer,7,2.31,0,0.0,7,2.31
+10/10/21,Damenmode,Mobile,6,1.485,1,218.48,6,1.485
+10/10/21,"Sportbekleidung Damen",Computer,19,6.2700000000000005,0,0.0,19,6.2700000000000005
+10/10/21,"Sportbekleidung Damen",Mobile,10,2.475,2,483.18,10,2.475
+10/10/21,"Sportbekleidung Herren",Computer,73,24.08999999999998,3,1237.68,73,24.08999999999998
+10/10/21,"Sportbekleidung Herren",Mobile,81,20.04749999999999,8,2118.92,81,20.04749999999999
+10/10/21,"Fahrradteile & Fahrradzubehör",Computer,19,6.2700000000000005,0,0.0,19,6.2700000000000005
+10/10/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2475,0,0.0,1,0.2475
+10/10/21,"Sportschuhe Herren",Mobile,2,0.495,0,0.0,2,0.495
+29/10/21,Links,Computer,41,18.449999999999985,0,0.0,41,18.449999999999985
+29/10/21,Links,Mobile,16,7.200000000000002,1,235.29,16,7.200000000000002
+29/10/21,Herrenmode,Computer,2,0.9,0,0.0,2,0.9
+29/10/21,Herrenmode,Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+29/10/21,Damenmode,Computer,6,2.7,0,0.0,6,2.7
+29/10/21,Damenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+29/10/21,Sonnenbrillen,Mobile,1,0.3375,0,0.0,1,0.3375
+29/10/21,"Sportbekleidung Damen",Computer,13,5.8500000000000005,0,0.0,13,5.8500000000000005
+29/10/21,"Sportbekleidung Damen",Mobile,2,0.675,0,0.0,2,0.675
+29/10/21,"Sportbekleidung Herren",Computer,59,26.549999999999976,1,184.88,59,26.549999999999976
+29/10/21,"Sportbekleidung Herren",Mobile,9,3.0375,0,0.0,9,3.0375
+29/10/21,Taschen,Computer,2,0.9,0,0.0,2,0.9
+29/10/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+29/10/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.675,0,0.0,2,0.675
+29/10/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+14/10/21,Herrenmode,Computer,4,1.32,0,0.0,4,1.32
+14/10/21,Damenmode,Computer,5,1.65,0,0.0,5,1.65
+14/10/21,Damenmode,Mobile,2,0.495,0,0.0,2,0.495
+14/10/21,"Sportbekleidung Damen",Computer,35,11.55,0,0.0,35,11.55
+14/10/21,"Sportbekleidung Damen",Mobile,1,0.2475,1,235.29,1,0.2475
+14/10/21,"Sportbekleidung Herren",Computer,109,35.969999999999956,0,0.0,109,35.969999999999956
+14/10/21,"Sportbekleidung Herren",Mobile,33,8.1675,1,268.91,33,8.1675
+14/10/21,Taschen,Mobile,1,0.2475,0,0.0,1,0.2475
+14/10/21,"Fahrradteile & Fahrradzubehör",Computer,50,16.5,0,0.0,50,16.5
+14/10/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.495,0,0.0,2,0.495
+14/10/21,"Sportschuhe Herren",Computer,3,0.99,0,0.0,3,0.99
+16/10/21,Herrenmode,Computer,6,1.98,0,0.0,6,1.98
+16/10/21,Herrenmode,Mobile,2,0.495,0,0.0,2,0.495
+16/10/21,Damenmode,Computer,3,0.99,0,0.0,3,0.99
+16/10/21,Damenmode,Mobile,2,0.495,0,0.0,2,0.495
+16/10/21,"Sportbekleidung Damen",Computer,26,8.58,0,0.0,26,8.58
+16/10/21,"Sportbekleidung Damen",Mobile,8,1.98,0,0.0,8,1.98
+16/10/21,"Sportbekleidung Herren",Computer,72,23.759999999999973,0,0.0,72,23.759999999999973
+16/10/21,"Sportbekleidung Herren",Mobile,34,8.414999999999996,0,0.0,34,8.414999999999996
+16/10/21,"Fahrradteile & Fahrradzubehör",Computer,59,19.469999999999985,1,193.28,59,19.469999999999985
+16/10/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.495,0,0.0,2,0.495
+16/10/21,"Sportschuhe Herren",Computer,2,0.66,0,0.0,2,0.66
+16/10/21,"Sportschuhe Herren",Mobile,2,0.495,0,0.0,2,0.495
+18/10/21,Herrenmode,Computer,5,1.6500000000000001,0,0.0,5,1.6500000000000001
+18/10/21,Herrenmode,Mobile,1,0.2475,0,0.0,1,0.2475
+18/10/21,Damenmode,Computer,5,1.6500000000000001,0,0.0,5,1.6500000000000001
+18/10/21,Damenmode,Mobile,2,0.495,0,0.0,2,0.495
+18/10/21,Sonnenbrillen,Computer,1,0.33,0,0.0,1,0.33
+18/10/21,"Sportbekleidung Damen",Computer,27,8.91,0,0.0,27,8.91
+18/10/21,"Sportbekleidung Damen",Mobile,2,0.495,0,0.0,2,0.495
+18/10/21,"Sportbekleidung Herren",Computer,83,27.389999999999972,0,0.0,83,27.389999999999972
+18/10/21,"Sportbekleidung Herren",Mobile,18,4.455,0,0.0,18,4.455
+18/10/21,"Fahrradteile & Fahrradzubehör",Computer,25,8.25,0,0.0,25,8.25
+18/10/21,"Fahrradteile & Fahrradzubehör",Mobile,4,0.99,0,0.0,4,0.99
+18/10/21,"Sportschuhe Herren",Computer,2,0.66,0,0.0,2,0.66
+20/10/21,Herrenmode,Computer,6,2.7,0,0.0,6,2.7
+20/10/21,Herrenmode,Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+20/10/21,Damenmode,Computer,10,4.5,0,0.0,10,4.5
+20/10/21,"Sportbekleidung Damen",Computer,61,27.450000000000006,0,0.0,61,27.450000000000006
+20/10/21,"Sportbekleidung Damen",Mobile,3,1.0125000000000002,0,0.0,3,1.0125000000000002
+20/10/21,"Sportbekleidung Herren",Computer,146,65.70000000000005,0,0.0,146,65.70000000000005
+20/10/21,"Sportbekleidung Herren",Mobile,14,4.7250000000000005,0,0.0,14,4.7250000000000005
+20/10/21,"Fahrradteile & Fahrradzubehör",Computer,28,12.599999999999996,0,0.0,28,12.599999999999996
+20/10/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.3375,0,0.0,1,0.3375
+20/10/21,"Sportschuhe Herren",Computer,3,1.35,0,0.0,3,1.35
+20/10/21,"Sportschuhe Herren",Mobile,2,0.675,0,0.0,2,0.675
+22/10/21,Herrenmode,Computer,5,2.25,0,0.0,5,2.25
+22/10/21,Herrenmode,Mobile,2,0.675,0,0.0,2,0.675
+22/10/21,Damenmode,Computer,12,5.4,1,26.51,12,5.4
+22/10/21,Damenmode,Mobile,5,1.6875,0,0.0,5,1.6875
+22/10/21,"Sportbekleidung Damen",Computer,43,19.350000000000005,0,0.0,43,19.350000000000005
+22/10/21,"Sportbekleidung Damen",Mobile,9,3.0374999999999996,0,0.0,9,3.0374999999999996
+22/10/21,"Sportbekleidung Herren",Computer,124,55.80000000000006,0,0.0,124,55.80000000000006
+22/10/21,"Sportbekleidung Herren",Mobile,26,8.775000000000002,0,0.0,26,8.775000000000002
+22/10/21,"Fahrradteile & Fahrradzubehör",Computer,30,13.499999999999995,0,0.0,30,13.499999999999995
+22/10/21,"Fahrradteile & Fahrradzubehör",Mobile,4,1.35,0,0.0,4,1.35
+22/10/21,"Sportschuhe Herren",Computer,1,0.45,0,0.0,1,0.45
+22/10/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+25/10/21,Herrenmode,Computer,3,1.35,0,0.0,3,1.35
+25/10/21,Damenmode,Computer,5,2.25,0,0.0,5,2.25
+25/10/21,Damenmode,Mobile,5,1.6875,0,0.0,5,1.6875
+25/10/21,"Sportbekleidung Damen",Computer,46,20.700000000000003,1,34.91,46,20.700000000000003
+25/10/21,"Sportbekleidung Damen",Mobile,10,3.375,0,0.0,10,3.375
+25/10/21,"Sportbekleidung Herren",Computer,133,59.85000000000007,1,71.43,133,59.85000000000007
+25/10/21,"Sportbekleidung Herren",Mobile,13,4.3875,0,0.0,13,4.3875
+25/10/21,Taschen,Mobile,1,0.3375,0,0.0,1,0.3375
+25/10/21,"Fahrradteile & Fahrradzubehör",Computer,20,9.0,0,0.0,20,9.0
+25/10/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.675,0,0.0,2,0.675
+25/10/21,"Sportschuhe Herren",Computer,4,1.8,0,0.0,4,1.8
+26/10/21,Links,Computer,42,18.899999999999984,0,0.0,42,18.899999999999984
+26/10/21,Links,Mobile,24,10.799999999999997,0,0.0,24,10.799999999999997
+26/10/21,Herrenmode,Computer,4,1.8,0,0.0,4,1.8
+26/10/21,Damenmode,Computer,1,0.45,0,0.0,1,0.45
+26/10/21,Damenmode,Mobile,2,0.675,0,0.0,2,0.675
+26/10/21,Sonnenbrillen,Computer,1,0.45,0,0.0,1,0.45
+26/10/21,"Sportbekleidung Damen",Computer,20,9.0,0,0.0,20,9.0
+26/10/21,"Sportbekleidung Damen",Mobile,4,1.35,0,0.0,4,1.35
+26/10/21,"Sportbekleidung Herren",Computer,72,32.39999999999998,0,0.0,72,32.39999999999998
+26/10/21,"Sportbekleidung Herren",Mobile,7,2.3625,0,0.0,7,2.3625
+26/10/21,"Fahrradteile & Fahrradzubehör",Computer,9,4.050000000000001,0,0.0,9,4.050000000000001
+26/10/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+26/10/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+28/10/21,Links,Computer,32,14.399999999999991,0,0.0,32,14.399999999999991
+28/10/21,Links,Mobile,9,4.050000000000001,0,0.0,9,4.050000000000001
+28/10/21,Herrenmode,Computer,1,0.45,0,0.0,1,0.45
+28/10/21,Herrenmode,Mobile,1,0.3375,0,0.0,1,0.3375
+28/10/21,Damenmode,Computer,2,0.9,0,0.0,2,0.9
+28/10/21,Damenmode,Mobile,4,1.35,0,0.0,4,1.35
+28/10/21,"Sportbekleidung Damen",Computer,7,3.1500000000000004,0,0.0,7,3.1500000000000004
+28/10/21,"Sportbekleidung Damen",Mobile,1,0.3375,0,0.0,1,0.3375
+28/10/21,"Sportbekleidung Herren",Computer,69,31.049999999999972,0,0.0,69,31.049999999999972
+28/10/21,"Sportbekleidung Herren",Mobile,10,3.3749999999999996,0,0.0,10,3.3749999999999996
+28/10/21,Taschen,Computer,1,0.45,0,0.0,1,0.45
+28/10/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.45,0,0.0,1,0.45
+28/10/21,"Sportschuhe Herren",Computer,2,0.9,0,0.0,2,0.9
+28/10/21,"Sportschuhe Herren",Mobile,1,0.3375,0,0.0,1,0.3375
+02/09/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+02/09/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+02/09/21,"Sportbekleidung Herren",Computer,14,3.7800000000000002,0,0.0,0,0.0
+02/09/21,"Sportbekleidung Herren",Mobile,6,1.2150000000000003,0,0.0,0,0.0
+02/09/21,"Fahrradteile & Fahrradzubehör",Computer,126,63.0,0,0.0,0,0.0
+02/09/21,"Fahrradteile & Fahrradzubehör",Mobile,37,13.875,0,0.0,0,0.0
+03/09/21,Herrenmode,Computer,2,0.5,0,0.0,0,0.0
+03/09/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+03/09/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+03/09/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+03/09/21,"Sportbekleidung Herren",Computer,10,2.7,0,0.0,0,0.0
+03/09/21,"Sportbekleidung Herren",Mobile,6,1.2150000000000003,0,0.0,0,0.0
+03/09/21,"Fahrradteile & Fahrradzubehör",Computer,135,67.5,0,0.0,0,0.0
+03/09/21,"Fahrradteile & Fahrradzubehör",Mobile,41,15.375,0,0.0,0,0.0
+03/09/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+03/09/21,"Sportbekleidung Kinder",Computer,1,0.27,0,0.0,0,0.0
+06/09/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+06/09/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+06/09/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+06/09/21,"Sportbekleidung Herren",Computer,29,7.8299999999999965,0,0.0,0,0.0
+06/09/21,"Sportbekleidung Herren",Mobile,12,2.430000000000001,0,0.0,0,0.0
+06/09/21,Taschen,Computer,3,0.75,0,0.0,0,0.0
+06/09/21,"Fahrradteile & Fahrradzubehör",Computer,129,64.5,0,0.0,0,0.0
+06/09/21,"Fahrradteile & Fahrradzubehör",Mobile,51,19.125,0,0.0,0,0.0
+07/09/21,"Sportbekleidung Damen",Computer,9,2.43,0,0.0,0,0.0
+07/09/21,"Sportbekleidung Herren",Computer,64,17.279999999999987,0,0.0,0,0.0
+07/09/21,"Sportbekleidung Herren",Mobile,4,0.81,0,0.0,0,0.0
+07/09/21,Taschen,Computer,1,0.25,0,0.0,0,0.0
+07/09/21,"Fahrradteile & Fahrradzubehör",Computer,11,5.5,0,0.0,0,0.0
+09/09/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+09/09/21,"Sportbekleidung Damen",Computer,6,1.62,0,0.0,0,0.0
+09/09/21,"Sportbekleidung Herren",Computer,39,10.529999999999998,0,0.0,0,0.0
+09/09/21,"Sportbekleidung Herren",Mobile,4,0.81,0,0.0,0,0.0
+09/09/21,"Fahrradteile & Fahrradzubehör",Computer,7,3.5,0,0.0,0,0.0
+12/09/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+12/09/21,"Sportbekleidung Damen",Computer,6,1.62,0,0.0,0,0.0
+12/09/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+12/09/21,"Sportbekleidung Herren",Computer,72,19.439999999999987,0,0.0,0,0.0
+12/09/21,"Sportbekleidung Herren",Mobile,8,1.6200000000000006,0,0.0,0,0.0
+12/09/21,"Fahrradteile & Fahrradzubehör",Computer,5,2.5,0,0.0,0,0.0
+12/09/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.375,0,0.0,0,0.0
+14/09/21,Herrenmode,Computer,2,0.5,0,0.0,0,0.0
+14/09/21,"Sportbekleidung Damen",Computer,14,3.7800000000000002,0,0.0,0,0.0
+14/09/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+14/09/21,"Sportbekleidung Herren",Computer,64,17.27999999999999,0,0.0,0,0.0
+14/09/21,"Sportbekleidung Herren",Mobile,7,1.4175000000000004,0,0.0,0,0.0
+14/09/21,"Fahrradteile & Fahrradzubehör",Computer,8,4.0,0,0.0,0,0.0
+14/09/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.875,0,0.0,0,0.0
+15/09/21,"Sportbekleidung Damen",Computer,17,4.59,0,0.0,0,0.0
+15/09/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+15/09/21,"Sportbekleidung Herren",Computer,72,19.439999999999994,0,0.0,0,0.0
+15/09/21,"Sportbekleidung Herren",Mobile,3,0.6075,0,0.0,0,0.0
+15/09/21,"Fahrradteile & Fahrradzubehör",Computer,10,5.0,0,0.0,0,0.0
+15/09/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+19/09/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+19/09/21,"Sportbekleidung Damen",Computer,5,1.35,0,0.0,0,0.0
+19/09/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+19/09/21,"Sportbekleidung Herren",Computer,73,19.70999999999999,0,0.0,0,0.0
+19/09/21,"Sportbekleidung Herren",Mobile,7,1.4175000000000004,0,0.0,0,0.0
+19/09/21,"Fahrradteile & Fahrradzubehör",Computer,39,19.5,0,0.0,0,0.0
+19/09/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.375,0,0.0,0,0.0
+21/09/21,Damenmode,Mobile,1,0.1875,0,0.0,1,0.1875
+21/09/21,Damenunterwäsche,Computer,1,0.25,0,0.0,1,0.25
+21/09/21,"Sportbekleidung Damen",Computer,7,1.8900000000000001,0,0.0,7,1.8900000000000001
+21/09/21,"Sportbekleidung Damen",Mobile,3,0.6075,0,0.0,3,0.6075
+21/09/21,"Sportbekleidung Herren",Computer,66,17.81999999999999,0,0.0,66,17.81999999999999
+21/09/21,"Sportbekleidung Herren",Mobile,9,1.8225000000000007,0,0.0,9,1.8225000000000007
+21/09/21,"Fahrradteile & Fahrradzubehör",Computer,27,13.5,0,0.0,27,13.5
+21/09/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,1,0.25
+22/09/21,"Sportbekleidung Damen",Computer,7,1.8900000000000001,0,0.0,7,1.8900000000000001
+22/09/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,1,0.2025
+22/09/21,"Sportbekleidung Herren",Computer,64,17.279999999999994,1,260.5,64,17.279999999999994
+22/09/21,"Sportbekleidung Herren",Mobile,10,2.025000000000001,0,0.0,10,2.025000000000001
+22/09/21,"Fahrradteile & Fahrradzubehör",Computer,25,12.5,0,0.0,25,12.5
+23/09/21,Sonnenbrillen,Computer,1,0.25,0,0.0,1,0.25
+23/09/21,"Sportbekleidung Damen",Computer,14,3.7800000000000002,0,0.0,14,3.7800000000000002
+23/09/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,1,0.2025
+23/09/21,"Sportbekleidung Herren",Computer,40,10.799999999999992,0,0.0,40,10.799999999999992
+23/09/21,"Sportbekleidung Herren",Mobile,10,2.0250000000000004,0,0.0,10,2.0250000000000004
+23/09/21,"Fahrradteile & Fahrradzubehör",Computer,27,13.5,0,0.0,27,13.5
+23/09/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.375,0,0.0,1,0.375
+27/09/21,Damenmode,Computer,2,0.5,0,0.0,2,0.5
+27/09/21,Damenunterwäsche,Computer,1,0.25,0,0.0,1,0.25
+27/09/21,"Sportbekleidung Damen",Computer,21,5.670000000000001,0,0.0,21,5.670000000000001
+27/09/21,"Sportbekleidung Damen",Mobile,5,1.0125000000000002,0,0.0,5,1.0125000000000002
+27/09/21,"Sportbekleidung Herren",Computer,53,14.309999999999988,0,0.0,53,14.309999999999988
+27/09/21,"Sportbekleidung Herren",Mobile,6,1.2150000000000003,0,0.0,6,1.2150000000000003
+27/09/21,"Fahrradteile & Fahrradzubehör",Computer,52,26.0,1,184.88,52,26.0
+27/09/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.875,0,0.0,5,1.875
+27/09/21,"Sportschuhe Herren",Mobile,1,0.1875,0,0.0,1,0.1875
+28/09/21,Herrenmode,Computer,2,0.5,0,0.0,2,0.5
+28/09/21,Damenmode,Computer,3,0.75,0,0.0,3,0.75
+28/09/21,Damenmode,Mobile,1,0.1875,0,0.0,1,0.1875
+28/09/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,1,0.1875
+28/09/21,"Sportbekleidung Damen",Computer,12,3.24,0,0.0,12,3.24
+28/09/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,2,0.405
+28/09/21,"Sportbekleidung Herren",Computer,56,15.11999999999999,0,0.0,56,15.11999999999999
+28/09/21,"Sportbekleidung Herren",Mobile,9,1.8225000000000007,0,0.0,9,1.8225000000000007
+28/09/21,"Fahrradteile & Fahrradzubehör",Computer,43,21.5,0,0.0,43,21.5
+28/09/21,"Fahrradteile & Fahrradzubehör",Mobile,24,9.0,0,0.0,24,9.0
+28/09/21,"Sportschuhe Herren",Mobile,1,0.1875,0,0.0,1,0.1875
+29/09/21,Herrenmode,Computer,4,1.0,0,0.0,4,1.0
+29/09/21,Damenmode,Computer,2,0.5,0,0.0,2,0.5
+29/09/21,Damenmode,Mobile,3,0.5625,0,0.0,3,0.5625
+29/09/21,"Sportbekleidung Damen",Computer,17,4.59,0,0.0,17,4.59
+29/09/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,2,0.405
+29/09/21,"Sportbekleidung Herren",Computer,33,8.909999999999995,0,0.0,33,8.909999999999995
+29/09/21,"Sportbekleidung Herren",Mobile,11,2.2275000000000005,0,0.0,11,2.2275000000000005
+29/09/21,"Fahrradteile & Fahrradzubehör",Computer,44,22.0,0,0.0,44,22.0
+29/09/21,"Fahrradteile & Fahrradzubehör",Mobile,9,3.375,0,0.0,9,3.375
+30/09/21,Herrenmode,Mobile,1,0.1875,0,0.0,1,0.1875
+30/09/21,Damenmode,Computer,1,0.25,1,109.24,1,0.25
+30/09/21,"Sportbekleidung Damen",Computer,21,5.67,0,0.0,21,5.67
+30/09/21,"Sportbekleidung Damen",Mobile,3,0.6075,0,0.0,3,0.6075
+30/09/21,"Sportbekleidung Herren",Computer,47,12.689999999999998,0,0.0,47,12.689999999999998
+30/09/21,"Sportbekleidung Herren",Mobile,13,2.6325000000000007,1,302.52,13,2.6325000000000007
+30/09/21,"Fahrradteile & Fahrradzubehör",Computer,52,26.0,0,0.0,52,26.0
+30/09/21,"Fahrradteile & Fahrradzubehör",Mobile,6,2.25,0,0.0,6,2.25
+13/09/21,"Sportbekleidung Damen",Computer,11,2.97,0,0.0,0,0.0
+13/09/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+13/09/21,"Sportbekleidung Herren",Computer,67,18.089999999999993,0,0.0,0,0.0
+13/09/21,"Sportbekleidung Herren",Mobile,11,2.2275000000000005,0,0.0,0,0.0
+13/09/21,"Fahrradteile & Fahrradzubehör",Computer,11,5.5,0,0.0,0,0.0
+13/09/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.375,0,0.0,0,0.0
+16/09/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+16/09/21,"Sportbekleidung Damen",Computer,7,1.8900000000000001,0,0.0,0,0.0
+16/09/21,"Sportbekleidung Herren",Computer,79,21.329999999999995,0,0.0,0,0.0
+16/09/21,"Sportbekleidung Herren",Mobile,11,2.227500000000001,0,0.0,0,0.0
+16/09/21,"Fahrradteile & Fahrradzubehör",Computer,7,3.5,0,0.0,0,0.0
+17/09/21,"Sportbekleidung Damen",Computer,8,2.16,0,0.0,0,0.0
+17/09/21,"Sportbekleidung Herren",Computer,70,18.899999999999988,0,0.0,0,0.0
+17/09/21,"Sportbekleidung Herren",Mobile,3,0.6075,0,0.0,0,0.0
+17/09/21,Taschen,Computer,1,0.25,0,0.0,0,0.0
+17/09/21,"Fahrradteile & Fahrradzubehör",Computer,36,18.0,0,0.0,0,0.0
+18/09/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+18/09/21,"Sportbekleidung Damen",Computer,4,1.08,0,0.0,0,0.0
+18/09/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+18/09/21,"Sportbekleidung Herren",Computer,56,15.11999999999999,0,0.0,0,0.0
+18/09/21,"Sportbekleidung Herren",Mobile,12,2.4300000000000006,0,0.0,0,0.0
+18/09/21,"Fahrradteile & Fahrradzubehör",Computer,39,19.5,0,0.0,0,0.0
+20/09/21,Sonnenbrillen,Computer,2,0.5,0,0.0,2,0.5
+20/09/21,"Sportbekleidung Damen",Computer,7,1.8900000000000001,0,0.0,7,1.8900000000000001
+20/09/21,"Sportbekleidung Herren",Computer,82,22.139999999999986,0,0.0,82,22.139999999999986
+20/09/21,"Sportbekleidung Herren",Mobile,14,2.8350000000000013,0,0.0,14,2.8350000000000013
+20/09/21,Taschen,Computer,1,0.25,0,0.0,1,0.25
+20/09/21,"Fahrradteile & Fahrradzubehör",Computer,18,9.0,0,0.0,18,9.0
+20/09/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.375,0,0.0,1,0.375
+24/09/21,Herrenmode,Computer,1,0.25,0,0.0,1,0.25
+24/09/21,Damenmode,Mobile,1,0.1875,0,0.0,1,0.1875
+24/09/21,"Sportbekleidung Damen",Computer,7,1.8900000000000001,0,0.0,7,1.8900000000000001
+24/09/21,"Sportbekleidung Herren",Computer,42,11.339999999999996,0,0.0,42,11.339999999999996
+24/09/21,"Sportbekleidung Herren",Mobile,11,2.2275000000000005,0,0.0,11,2.2275000000000005
+24/09/21,"Fahrradteile & Fahrradzubehör",Computer,28,14.0,0,0.0,28,14.0
+24/09/21,"Fahrradteile & Fahrradzubehör",Mobile,7,2.625,0,0.0,7,2.625
+25/09/21,Sonnenbrillen,Computer,2,0.5,0,0.0,2,0.5
+25/09/21,"Sportbekleidung Damen",Computer,9,2.43,0,0.0,9,2.43
+25/09/21,"Sportbekleidung Herren",Computer,38,10.259999999999994,0,0.0,38,10.259999999999994
+25/09/21,"Sportbekleidung Herren",Mobile,9,1.8225000000000007,0,0.0,9,1.8225000000000007
+25/09/21,"Fahrradteile & Fahrradzubehör",Computer,47,23.5,0,0.0,47,23.5
+25/09/21,"Fahrradteile & Fahrradzubehör",Mobile,3,1.125,0,0.0,3,1.125
+25/09/21,"Sportschuhe Herren",Mobile,1,0.1875,0,0.0,1,0.1875
+26/09/21,Damenmode,Computer,1,0.25,0,0.0,1,0.25
+26/09/21,"Sportbekleidung Damen",Computer,20,5.4,0,0.0,20,5.4
+26/09/21,"Sportbekleidung Damen",Mobile,2,0.405,1,121.85,2,0.405
+26/09/21,"Sportbekleidung Herren",Computer,48,12.959999999999994,0,0.0,48,12.959999999999994
+26/09/21,"Sportbekleidung Herren",Mobile,10,2.025000000000001,0,0.0,10,2.025000000000001
+26/09/21,Taschen,Computer,1,0.25,0,0.0,1,0.25
+26/09/21,"Fahrradteile & Fahrradzubehör",Computer,26,13.0,1,55.92,26,13.0
+26/09/21,"Fahrradteile & Fahrradzubehör",Mobile,7,2.625,0,0.0,7,2.625
+01/09/21,"Sportbekleidung Herren",Computer,6,1.62,0,0.0,0,0.0
+01/09/21,"Sportbekleidung Herren",Mobile,2,0.405,0,0.0,0,0.0
+01/09/21,"Fahrradteile & Fahrradzubehör",Computer,60,30.0,0,0.0,0,0.0
+01/09/21,"Fahrradteile & Fahrradzubehör",Mobile,14,5.25,0,0.0,0,0.0
+04/09/21,"Baby- & Kindermode",Mobile,1,0.1875,0,0.0,0,0.0
+04/09/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+04/09/21,"Sportbekleidung Herren",Computer,8,2.16,0,0.0,0,0.0
+04/09/21,"Sportbekleidung Herren",Mobile,11,2.2275000000000005,0,0.0,0,0.0
+04/09/21,Taschen,Computer,2,0.5,0,0.0,0,0.0
+04/09/21,Taschen,Mobile,1,0.1875,0,0.0,0,0.0
+04/09/21,"Fahrradteile & Fahrradzubehör",Computer,111,55.5,0,0.0,0,0.0
+04/09/21,"Fahrradteile & Fahrradzubehör",Mobile,121,45.375,0,0.0,0,0.0
+05/09/21,Sonnenbrillen,Mobile,2,0.375,0,0.0,0,0.0
+05/09/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+05/09/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+05/09/21,"Sportbekleidung Herren",Computer,17,4.59,0,0.0,0,0.0
+05/09/21,"Sportbekleidung Herren",Mobile,17,3.4425000000000003,0,0.0,0,0.0
+05/09/21,Taschen,Mobile,1,0.1875,0,0.0,0,0.0
+05/09/21,"Fahrradteile & Fahrradzubehör",Computer,146,73.0,0,0.0,0,0.0
+05/09/21,"Fahrradteile & Fahrradzubehör",Mobile,94,35.25,0,0.0,0,0.0
+08/09/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+08/09/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+08/09/21,"Sportbekleidung Damen",Computer,6,1.62,0,0.0,0,0.0
+08/09/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+08/09/21,"Sportbekleidung Herren",Computer,39,10.529999999999998,0,0.0,0,0.0
+08/09/21,"Sportbekleidung Herren",Mobile,6,1.2150000000000003,0,0.0,0,0.0
+08/09/21,"Fahrradteile & Fahrradzubehör",Computer,3,1.5,0,0.0,0,0.0
+10/09/21,"Sportbekleidung Damen",Computer,6,1.62,0,0.0,0,0.0
+10/09/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+10/09/21,"Sportbekleidung Herren",Computer,50,13.499999999999993,0,0.0,0,0.0
+10/09/21,"Sportbekleidung Herren",Mobile,8,1.6200000000000006,0,0.0,0,0.0
+10/09/21,"Fahrradteile & Fahrradzubehör",Computer,9,4.5,0,0.0,0,0.0
+11/09/21,"Sportbekleidung Damen",Computer,11,2.97,0,0.0,0,0.0
+11/09/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+11/09/21,"Sportbekleidung Herren",Computer,41,11.069999999999997,0,0.0,0,0.0
+11/09/21,"Sportbekleidung Herren",Mobile,4,0.81,0,0.0,0,0.0
+11/09/21,"Fahrradteile & Fahrradzubehör",Computer,7,3.5,0,0.0,0,0.0
+01/08/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+01/08/21,"Sportbekleidung Herren",Computer,2,0.54,0,0.0,0,0.0
+01/08/21,"Sportbekleidung Herren",Mobile,7,1.4175000000000004,0,0.0,0,0.0
+01/08/21,"Fahrradteile & Fahrradzubehör",Computer,51,25.5,0,0.0,0,0.0
+01/08/21,"Fahrradteile & Fahrradzubehör",Mobile,36,13.5,0,0.0,0,0.0
+01/08/21,Rucksäcke,Computer,3,1.5,0,0.0,0,0.0
+01/08/21,Rucksäcke,Mobile,5,1.875,0,0.0,0,0.0
+02/08/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+02/08/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+02/08/21,"Sportbekleidung Herren",Computer,17,4.59,0,0.0,0,0.0
+02/08/21,"Sportbekleidung Herren",Mobile,16,3.2400000000000007,0,0.0,0,0.0
+02/08/21,"Fahrradteile & Fahrradzubehör",Computer,89,44.5,0,0.0,0,0.0
+02/08/21,"Fahrradteile & Fahrradzubehör",Mobile,40,15.0,0,0.0,0,0.0
+02/08/21,Rucksäcke,Computer,7,3.5,0,0.0,0,0.0
+02/08/21,Rucksäcke,Mobile,3,1.125,0,0.0,0,0.0
+03/08/21,"Sportbekleidung Damen",Computer,3,0.81,0,0.0,0,0.0
+03/08/21,"Sportbekleidung Herren",Computer,15,4.050000000000001,0,0.0,0,0.0
+03/08/21,"Sportbekleidung Herren",Mobile,26,5.265000000000001,0,0.0,0,0.0
+03/08/21,"Fahrradteile & Fahrradzubehör",Computer,108,54.0,0,0.0,0,0.0
+03/08/21,"Fahrradteile & Fahrradzubehör",Mobile,38,14.25,0,0.0,0,0.0
+03/08/21,Rucksäcke,Computer,8,4.0,0,0.0,0,0.0
+03/08/21,Rucksäcke,Mobile,3,1.125,0,0.0,0,0.0
+05/08/21,"Sportbekleidung Herren",Computer,15,4.050000000000001,0,0.0,0,0.0
+05/08/21,"Sportbekleidung Herren",Mobile,12,2.4300000000000006,0,0.0,0,0.0
+05/08/21,Taschen,Computer,2,0.5,0,0.0,0,0.0
+05/08/21,"Fahrradteile & Fahrradzubehör",Computer,67,33.5,0,0.0,0,0.0
+05/08/21,"Fahrradteile & Fahrradzubehör",Mobile,54,20.25,0,0.0,0,0.0
+05/08/21,Rucksäcke,Computer,5,2.5,0,0.0,0,0.0
+05/08/21,Rucksäcke,Mobile,6,2.25,0,0.0,0,0.0
+05/08/21,"Sportbekleidung Kinder",Computer,1,0.27,0,0.0,0,0.0
+08/08/21,"Sportbekleidung Herren",Computer,8,2.16,0,0.0,0,0.0
+08/08/21,"Sportbekleidung Herren",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+08/08/21,"Fahrradteile & Fahrradzubehör",Computer,117,58.5,0,0.0,0,0.0
+08/08/21,"Fahrradteile & Fahrradzubehör",Mobile,184,69.0,0,0.0,0,0.0
+09/08/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+09/08/21,"Sportbekleidung Herren",Computer,12,3.24,0,0.0,0,0.0
+09/08/21,"Sportbekleidung Herren",Mobile,13,2.6325000000000007,0,0.0,0,0.0
+09/08/21,Taschen,Computer,2,0.5,0,0.0,0,0.0
+09/08/21,"Fahrradteile & Fahrradzubehör",Computer,184,92.0,0,0.0,0,0.0
+09/08/21,"Fahrradteile & Fahrradzubehör",Mobile,116,43.5,0,0.0,0,0.0
+10/08/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+10/08/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+10/08/21,"Sportbekleidung Herren",Computer,18,4.859999999999999,0,0.0,0,0.0
+10/08/21,"Sportbekleidung Herren",Mobile,32,6.4799999999999995,0,0.0,0,0.0
+10/08/21,Taschen,Computer,5,1.25,0,0.0,0,0.0
+10/08/21,"Fahrradteile & Fahrradzubehör",Computer,146,73.0,0,0.0,0,0.0
+10/08/21,"Fahrradteile & Fahrradzubehör",Mobile,160,60.0,0,0.0,0,0.0
+12/08/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+12/08/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+12/08/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+12/08/21,"Sportbekleidung Herren",Computer,11,2.97,0,0.0,0,0.0
+12/08/21,"Sportbekleidung Herren",Mobile,11,2.2275000000000005,0,0.0,0,0.0
+12/08/21,"Fahrradteile & Fahrradzubehör",Computer,91,45.5,0,0.0,0,0.0
+12/08/21,"Fahrradteile & Fahrradzubehör",Mobile,30,11.25,0,0.0,0,0.0
+14/08/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+14/08/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+14/08/21,"Sportbekleidung Herren",Computer,8,2.16,0,0.0,0,0.0
+14/08/21,"Sportbekleidung Herren",Mobile,1,0.2025,0,0.0,0,0.0
+14/08/21,Taschen,Mobile,2,0.375,0,0.0,0,0.0
+14/08/21,"Fahrradteile & Fahrradzubehör",Computer,115,57.5,0,0.0,0,0.0
+14/08/21,"Fahrradteile & Fahrradzubehör",Mobile,54,20.25,0,0.0,0,0.0
+15/08/21,"Sportbekleidung Herren",Computer,9,2.43,0,0.0,0,0.0
+15/08/21,"Sportbekleidung Herren",Mobile,3,0.6075,0,0.0,0,0.0
+15/08/21,Taschen,Mobile,2,0.375,0,0.0,0,0.0
+15/08/21,"Fahrradteile & Fahrradzubehör",Computer,95,47.5,0,0.0,0,0.0
+15/08/21,"Fahrradteile & Fahrradzubehör",Mobile,52,19.5,0,0.0,0,0.0
+15/08/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+19/08/21,Sonnenbrillen,Mobile,2,0.375,0,0.0,0,0.0
+19/08/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+19/08/21,"Sportbekleidung Herren",Computer,10,2.7,0,0.0,0,0.0
+19/08/21,"Sportbekleidung Herren",Mobile,6,1.2150000000000003,0,0.0,0,0.0
+19/08/21,Taschen,Computer,1,0.25,0,0.0,0,0.0
+19/08/21,Taschen,Mobile,1,0.1875,0,0.0,0,0.0
+19/08/21,"Fahrradteile & Fahrradzubehör",Computer,100,50.0,0,0.0,0,0.0
+19/08/21,"Fahrradteile & Fahrradzubehör",Mobile,16,6.0,0,0.0,0,0.0
+20/08/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+20/08/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+20/08/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+20/08/21,"Sportbekleidung Herren",Computer,13,3.5100000000000002,0,0.0,0,0.0
+20/08/21,"Sportbekleidung Herren",Mobile,16,3.240000000000001,0,0.0,0,0.0
+20/08/21,Taschen,Computer,2,0.5,0,0.0,0,0.0
+20/08/21,Taschen,Mobile,1,0.1875,0,0.0,0,0.0
+20/08/21,"Fahrradteile & Fahrradzubehör",Computer,93,46.5,0,0.0,0,0.0
+20/08/21,"Fahrradteile & Fahrradzubehör",Mobile,32,12.0,0,0.0,0,0.0
+20/08/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+21/08/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+21/08/21,"Sportbekleidung Herren",Computer,8,2.16,0,0.0,0,0.0
+21/08/21,"Sportbekleidung Herren",Mobile,3,0.6075,0,0.0,0,0.0
+21/08/21,Taschen,Computer,1,0.25,0,0.0,0,0.0
+21/08/21,"Fahrradteile & Fahrradzubehör",Computer,69,34.5,0,0.0,0,0.0
+21/08/21,"Fahrradteile & Fahrradzubehör",Mobile,23,8.625,0,0.0,0,0.0
+04/08/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+04/08/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+04/08/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+04/08/21,"Sportbekleidung Damen",Mobile,3,0.6075,0,0.0,0,0.0
+04/08/21,"Sportbekleidung Herren",Computer,13,3.5100000000000002,0,0.0,0,0.0
+04/08/21,"Sportbekleidung Herren",Mobile,11,2.2275000000000005,0,0.0,0,0.0
+04/08/21,Taschen,Computer,1,0.25,0,0.0,0,0.0
+04/08/21,Taschen,Mobile,3,0.5625,0,0.0,0,0.0
+04/08/21,"Fahrradteile & Fahrradzubehör",Computer,70,35.0,0,0.0,0,0.0
+04/08/21,"Fahrradteile & Fahrradzubehör",Mobile,103,38.625,0,0.0,0,0.0
+04/08/21,Rucksäcke,Computer,13,6.5,0,0.0,0,0.0
+04/08/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+06/08/21,"Sportbekleidung Damen",Computer,5,1.35,0,0.0,0,0.0
+06/08/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+06/08/21,"Sportbekleidung Herren",Computer,12,3.24,0,0.0,0,0.0
+06/08/21,"Sportbekleidung Herren",Mobile,13,2.6325000000000003,0,0.0,0,0.0
+06/08/21,Taschen,Computer,4,1.0,0,0.0,0,0.0
+06/08/21,"Fahrradteile & Fahrradzubehör",Computer,81,40.5,0,0.0,0,0.0
+06/08/21,"Fahrradteile & Fahrradzubehör",Mobile,142,53.25,0,0.0,0,0.0
+06/08/21,Rucksäcke,Computer,9,4.5,0,0.0,0,0.0
+06/08/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+07/08/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+07/08/21,Sonnenbrillen,Computer,2,0.5,0,0.0,0,0.0
+07/08/21,Sonnenbrillen,Mobile,2,0.375,0,0.0,0,0.0
+07/08/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+07/08/21,"Sportbekleidung Herren",Computer,22,5.939999999999998,0,0.0,0,0.0
+07/08/21,"Sportbekleidung Herren",Mobile,6,1.215,0,0.0,0,0.0
+07/08/21,Taschen,Computer,5,1.25,0,0.0,0,0.0
+07/08/21,"Fahrradteile & Fahrradzubehör",Computer,157,78.5,0,0.0,0,0.0
+07/08/21,"Fahrradteile & Fahrradzubehör",Mobile,91,34.125,0,0.0,0,0.0
+11/08/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+11/08/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+11/08/21,"Sportbekleidung Herren",Computer,10,2.7,0,0.0,0,0.0
+11/08/21,"Sportbekleidung Herren",Mobile,12,2.4300000000000006,0,0.0,0,0.0
+11/08/21,Taschen,Mobile,4,0.75,0,0.0,0,0.0
+11/08/21,"Fahrradteile & Fahrradzubehör",Computer,174,87.0,0,0.0,0,0.0
+11/08/21,"Fahrradteile & Fahrradzubehör",Mobile,116,43.5,0,0.0,0,0.0
+13/08/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+13/08/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+13/08/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+13/08/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+13/08/21,"Sportbekleidung Herren",Computer,27,7.289999999999996,0,0.0,0,0.0
+13/08/21,"Sportbekleidung Herren",Mobile,4,0.81,0,0.0,0,0.0
+13/08/21,Taschen,Computer,1,0.25,0,0.0,0,0.0
+13/08/21,"Fahrradteile & Fahrradzubehör",Computer,122,61.0,0,0.0,0,0.0
+13/08/21,"Fahrradteile & Fahrradzubehör",Mobile,65,24.375,0,0.0,0,0.0
+16/08/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+16/08/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+16/08/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+16/08/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+16/08/21,"Sportbekleidung Herren",Computer,12,3.24,0,0.0,0,0.0
+16/08/21,"Sportbekleidung Herren",Mobile,6,1.215,0,0.0,0,0.0
+16/08/21,Taschen,Computer,5,1.25,0,0.0,0,0.0
+16/08/21,Taschen,Mobile,1,0.1875,0,0.0,0,0.0
+16/08/21,"Fahrradteile & Fahrradzubehör",Computer,113,56.5,0,0.0,0,0.0
+16/08/21,"Fahrradteile & Fahrradzubehör",Mobile,23,8.625,0,0.0,0,0.0
+17/08/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+17/08/21,"Sportbekleidung Herren",Computer,10,2.7,0,0.0,0,0.0
+17/08/21,"Sportbekleidung Herren",Mobile,19,3.847500000000001,0,0.0,0,0.0
+17/08/21,Taschen,Computer,1,0.25,0,0.0,0,0.0
+17/08/21,Taschen,Mobile,1,0.1875,0,0.0,0,0.0
+17/08/21,"Fahrradteile & Fahrradzubehör",Computer,99,49.5,0,0.0,0,0.0
+17/08/21,"Fahrradteile & Fahrradzubehör",Mobile,34,12.75,0,0.0,0,0.0
+17/08/21,"Sportschuhe Herren",Mobile,1,0.1875,0,0.0,0,0.0
+18/08/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+18/08/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+18/08/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+18/08/21,"Sportbekleidung Herren",Computer,14,3.7800000000000002,0,0.0,0,0.0
+18/08/21,"Sportbekleidung Herren",Mobile,3,0.6075,0,0.0,0,0.0
+18/08/21,Taschen,Computer,1,0.25,0,0.0,0,0.0
+18/08/21,"Fahrradteile & Fahrradzubehör",Computer,104,52.0,0,0.0,0,0.0
+18/08/21,"Fahrradteile & Fahrradzubehör",Mobile,40,15.0,0,0.0,0,0.0
+18/08/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+22/08/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+22/08/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+22/08/21,"Sportbekleidung Herren",Computer,1,0.27,0,0.0,0,0.0
+22/08/21,"Fahrradteile & Fahrradzubehör",Computer,35,17.5,0,0.0,0,0.0
+22/08/21,"Fahrradteile & Fahrradzubehör",Mobile,7,2.625,0,0.0,0,0.0
+02/07/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+02/07/21,"Sportbekleidung Herren",Computer,7,1.8900000000000001,0,0.0,0,0.0
+02/07/21,"Sportbekleidung Herren",Mobile,2,0.405,0,0.0,0,0.0
+02/07/21,"Fahrradteile & Fahrradzubehör",Computer,45,22.5,0,0.0,0,0.0
+02/07/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.375,0,0.0,0,0.0
+02/07/21,Rucksäcke,Computer,27,13.5,0,0.0,0,0.0
+05/07/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+05/07/21,Herrenmode,Mobile,1,0.1875,0,0.0,0,0.0
+05/07/21,Damenmode,Mobile,2,0.375,0,0.0,0,0.0
+05/07/21,"Sportbekleidung Damen",Computer,3,0.81,0,0.0,0,0.0
+05/07/21,"Sportbekleidung Herren",Computer,18,4.859999999999999,0,0.0,0,0.0
+05/07/21,"Sportbekleidung Herren",Mobile,44,8.910000000000004,0,0.0,0,0.0
+05/07/21,"Fahrradteile & Fahrradzubehör",Computer,64,31.875,0,0.0,0,0.0
+05/07/21,"Fahrradteile & Fahrradzubehör",Mobile,31,11.625,0,0.0,0,0.0
+05/07/21,Rucksäcke,Computer,75,37.5,0,0.0,0,0.0
+05/07/21,Rucksäcke,Mobile,6,2.25,0,0.0,0,0.0
+07/07/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+07/07/21,Sonnenbrillen,Mobile,2,0.375,0,0.0,0,0.0
+07/07/21,"Sportbekleidung Herren",Computer,18,4.859999999999999,0,0.0,0,0.0
+07/07/21,"Sportbekleidung Herren",Mobile,12,2.4300000000000006,0,0.0,0,0.0
+07/07/21,"Fahrradteile & Fahrradzubehör",Computer,56,28.0,0,0.0,0,0.0
+07/07/21,"Fahrradteile & Fahrradzubehör",Mobile,68,25.5,0,0.0,0,0.0
+07/07/21,Rucksäcke,Computer,13,6.5,0,0.0,0,0.0
+07/07/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+10/07/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+10/07/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+10/07/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+10/07/21,"Sportbekleidung Herren",Computer,8,2.0925000000000002,0,0.0,0,0.0
+10/07/21,"Sportbekleidung Herren",Mobile,7,1.4175000000000004,0,0.0,0,0.0
+10/07/21,"Fahrradteile & Fahrradzubehör",Computer,28,14.0,0,0.0,0,0.0
+10/07/21,"Fahrradteile & Fahrradzubehör",Mobile,44,16.5,0,0.0,0,0.0
+10/07/21,Rucksäcke,Computer,13,6.5,0,0.0,0,0.0
+10/07/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+12/07/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+12/07/21,"Sportbekleidung Herren",Computer,23,6.209999999999997,0,0.0,0,0.0
+12/07/21,"Sportbekleidung Herren",Mobile,8,1.62,0,0.0,0,0.0
+12/07/21,"Fahrradteile & Fahrradzubehör",Computer,39,19.5,0,0.0,0,0.0
+12/07/21,"Fahrradteile & Fahrradzubehör",Mobile,18,6.75,0,0.0,0,0.0
+12/07/21,Rucksäcke,Computer,14,7.0,0,0.0,0,0.0
+12/07/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+12/07/21,"Sportbekleidung Kinder",Computer,1,0.27,0,0.0,0,0.0
+13/07/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+13/07/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+13/07/21,"Sportbekleidung Herren",Computer,18,4.7925,0,0.0,0,0.0
+13/07/21,"Sportbekleidung Herren",Mobile,4,0.81,0,0.0,0,0.0
+13/07/21,"Fahrradteile & Fahrradzubehör",Computer,54,27.0,0,0.0,0,0.0
+13/07/21,"Fahrradteile & Fahrradzubehör",Mobile,51,19.125,0,0.0,0,0.0
+13/07/21,Rucksäcke,Computer,13,6.5,0,0.0,0,0.0
+15/07/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+15/07/21,"Sportbekleidung Herren",Computer,27,7.289999999999997,0,0.0,0,0.0
+15/07/21,"Sportbekleidung Herren",Mobile,30,6.074999999999999,0,0.0,0,0.0
+15/07/21,"Autoteile & Zubehör",Computer,1,0.25,0,0.0,0,0.0
+15/07/21,"Fahrradteile & Fahrradzubehör",Computer,96,48.0,0,0.0,0,0.0
+15/07/21,"Fahrradteile & Fahrradzubehör",Mobile,116,43.5,0,0.0,0,0.0
+15/07/21,Rucksäcke,Computer,19,9.5,0,0.0,0,0.0
+15/07/21,Rucksäcke,Mobile,4,1.5,0,0.0,0,0.0
+16/07/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+16/07/21,"Sportbekleidung Herren",Computer,15,4.050000000000001,0,0.0,0,0.0
+16/07/21,"Sportbekleidung Herren",Mobile,37,7.492500000000001,0,0.0,0,0.0
+16/07/21,Taschen,Mobile,1,0.1875,0,0.0,0,0.0
+16/07/21,Fahrräder,Mobile,1,0.2025,0,0.0,0,0.0
+16/07/21,"Fahrradteile & Fahrradzubehör",Computer,90,44.75,0,0.0,0,0.0
+16/07/21,"Fahrradteile & Fahrradzubehör",Mobile,81,30.375,0,0.0,0,0.0
+16/07/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+16/07/21,Rucksäcke,Computer,6,3.0,0,0.0,0,0.0
+16/07/21,Rucksäcke,Mobile,7,2.625,0,0.0,0,0.0
+18/07/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+18/07/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+18/07/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+18/07/21,"Sportbekleidung Herren",Computer,10,2.7,0,0.0,0,0.0
+18/07/21,"Sportbekleidung Herren",Mobile,10,2.0250000000000004,0,0.0,0,0.0
+18/07/21,Taschen,Computer,1,0.25,0,0.0,0,0.0
+18/07/21,Kindersitze,Computer,1,0.25,0,0.0,0,0.0
+18/07/21,Fahrräder,Mobile,2,0.405,0,0.0,0,0.0
+18/07/21,"Fahrradteile & Fahrradzubehör",Computer,123,61.5,0,0.0,0,0.0
+18/07/21,"Fahrradteile & Fahrradzubehör",Mobile,121,45.375,0,0.0,0,0.0
+18/07/21,Rucksäcke,Computer,8,4.0,0,0.0,0,0.0
+18/07/21,Rucksäcke,Mobile,4,1.5,0,0.0,0,0.0
+19/07/21,"Sportbekleidung Herren",Computer,10,2.7,0,0.0,0,0.0
+19/07/21,"Sportbekleidung Herren",Mobile,4,0.81,0,0.0,0,0.0
+19/07/21,Gartenmaschinen,Computer,1,0.25,0,0.0,0,0.0
+19/07/21,Fahrräder,Computer,1,0.27,0,0.0,0,0.0
+19/07/21,"Fahrradteile & Fahrradzubehör",Computer,87,43.5,0,0.0,0,0.0
+19/07/21,"Fahrradteile & Fahrradzubehör",Mobile,82,30.75,0,0.0,0,0.0
+19/07/21,Rucksäcke,Computer,21,10.5,0,0.0,0,0.0
+19/07/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+20/07/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+20/07/21,"Sportbekleidung Herren",Computer,7,1.8900000000000001,0,0.0,0,0.0
+20/07/21,"Sportbekleidung Herren",Mobile,9,1.8225000000000002,0,0.0,0,0.0
+20/07/21,Kindersitze,Mobile,2,0.375,0,0.0,0,0.0
+20/07/21,"Fahrradteile & Fahrradzubehör",Computer,71,35.5,0,0.0,0,0.0
+20/07/21,"Fahrradteile & Fahrradzubehör",Mobile,87,32.625,0,0.0,0,0.0
+20/07/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+20/07/21,Rucksäcke,Computer,12,6.0,0,0.0,0,0.0
+20/07/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+26/07/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+26/07/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+26/07/21,"Sportbekleidung Herren",Computer,13,3.5100000000000002,0,0.0,0,0.0
+26/07/21,"Sportbekleidung Herren",Mobile,8,1.6200000000000006,0,0.0,0,0.0
+26/07/21,"Fahrradteile & Fahrradzubehör",Computer,59,29.5,0,0.0,0,0.0
+26/07/21,"Fahrradteile & Fahrradzubehör",Mobile,22,8.25,0,0.0,0,0.0
+26/07/21,"Sportschuhe Herren",Mobile,1,0.1875,0,0.0,0,0.0
+26/07/21,Rucksäcke,Computer,25,12.5,0,0.0,0,0.0
+26/07/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+27/07/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+27/07/21,"Baby- & Kindermode",Mobile,1,0.1875,0,0.0,0,0.0
+27/07/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+27/07/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+27/07/21,"Sportbekleidung Herren",Computer,12,3.24,0,0.0,0,0.0
+27/07/21,"Sportbekleidung Herren",Mobile,14,2.835000000000001,0,0.0,0,0.0
+27/07/21,Taschen,Computer,3,0.75,0,0.0,0,0.0
+27/07/21,"Fahrradteile & Fahrradzubehör",Computer,49,24.5,0,0.0,0,0.0
+27/07/21,"Fahrradteile & Fahrradzubehör",Mobile,56,21.0,0,0.0,0,0.0
+27/07/21,Rucksäcke,Computer,67,33.5,0,0.0,0,0.0
+29/07/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+29/07/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+29/07/21,"Sportbekleidung Damen",Computer,3,0.81,0,0.0,0,0.0
+29/07/21,"Sportbekleidung Herren",Computer,8,2.16,0,0.0,0,0.0
+29/07/21,"Fahrradteile & Fahrradzubehör",Computer,70,35.0,0,0.0,0,0.0
+29/07/21,"Fahrradteile & Fahrradzubehör",Mobile,15,5.625,0,0.0,0,0.0
+29/07/21,Rucksäcke,Computer,8,4.0,0,0.0,0,0.0
+01/07/21,Herrenmode,Mobile,2,0.375,0,0.0,0,0.0
+01/07/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+01/07/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+01/07/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+01/07/21,"Sportbekleidung Herren",Computer,8,2.16,0,0.0,0,0.0
+01/07/21,"Fahrradteile & Fahrradzubehör",Computer,15,7.5,0,0.0,0,0.0
+01/07/21,Rucksäcke,Computer,6,3.0,0,0.0,0,0.0
+03/07/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+03/07/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+03/07/21,"Sportbekleidung Herren",Computer,5,1.35,0,0.0,0,0.0
+03/07/21,"Sportbekleidung Herren",Mobile,10,2.025000000000001,0,0.0,0,0.0
+03/07/21,"Fahrradteile & Fahrradzubehör",Computer,46,23.0,0,0.0,0,0.0
+03/07/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.75,0,0.0,0,0.0
+03/07/21,Rucksäcke,Computer,23,11.5,0,0.0,0,0.0
+03/07/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+04/07/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+04/07/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+04/07/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+04/07/21,"Sportbekleidung Herren",Computer,33,8.909999999999997,0,0.0,0,0.0
+04/07/21,"Sportbekleidung Herren",Mobile,41,8.3025,0,0.0,0,0.0
+04/07/21,"Fahrradteile & Fahrradzubehör",Computer,61,30.5,0,0.0,0,0.0
+04/07/21,"Fahrradteile & Fahrradzubehör",Mobile,35,13.125,0,0.0,0,0.0
+04/07/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+04/07/21,Rucksäcke,Computer,27,13.5,0,0.0,0,0.0
+04/07/21,Rucksäcke,Mobile,6,2.25,0,0.0,0,0.0
+06/07/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+06/07/21,Accessoires,Mobile,1,0.1875,0,0.0,0,0.0
+06/07/21,Herrenmode,Mobile,1,0.1875,0,0.0,0,0.0
+06/07/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+06/07/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+06/07/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+06/07/21,"Sportbekleidung Herren",Computer,18,4.859999999999999,0,0.0,0,0.0
+06/07/21,"Sportbekleidung Herren",Mobile,7,1.4175000000000004,0,0.0,0,0.0
+06/07/21,"Fahrradteile & Fahrradzubehör",Computer,72,36.0,0,0.0,0,0.0
+06/07/21,"Fahrradteile & Fahrradzubehör",Mobile,32,12.0,0,0.0,0,0.0
+06/07/21,Rucksäcke,Computer,15,7.5,0,0.0,0,0.0
+06/07/21,Rucksäcke,Mobile,3,1.125,0,0.0,0,0.0
+08/07/21,Accessoires,Mobile,2,0.375,0,0.0,0,0.0
+08/07/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+08/07/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+08/07/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+08/07/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+08/07/21,"Sportbekleidung Herren",Computer,22,5.939999999999998,0,0.0,0,0.0
+08/07/21,"Sportbekleidung Herren",Mobile,12,2.4300000000000006,0,0.0,0,0.0
+08/07/21,"Fahrradteile & Fahrradzubehör",Computer,43,21.5,0,0.0,0,0.0
+08/07/21,"Fahrradteile & Fahrradzubehör",Mobile,61,22.875,0,0.0,0,0.0
+08/07/21,Rucksäcke,Computer,17,8.5,0,0.0,0,0.0
+08/07/21,Rucksäcke,Mobile,4,1.5,0,0.0,0,0.0
+09/07/21,Accessoires,Mobile,1,0.1875,0,0.0,0,0.0
+09/07/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+09/07/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+09/07/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+09/07/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+09/07/21,"Sportbekleidung Herren",Computer,16,4.32,0,0.0,0,0.0
+09/07/21,"Sportbekleidung Herren",Mobile,24,4.859999999999999,0,0.0,0,0.0
+09/07/21,"Fahrradteile & Fahrradzubehör",Computer,48,24.0,0,0.0,0,0.0
+09/07/21,"Fahrradteile & Fahrradzubehör",Mobile,47,17.625,0,0.0,0,0.0
+09/07/21,Rucksäcke,Computer,26,13.0,0,0.0,0,0.0
+09/07/21,"Sportbekleidung Kinder",Computer,1,0.27,0,0.0,0,0.0
+11/07/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+11/07/21,"Sportbekleidung Herren",Computer,24,6.479999999999997,0,0.0,0,0.0
+11/07/21,"Sportbekleidung Herren",Mobile,8,1.6200000000000006,0,0.0,0,0.0
+11/07/21,"Fahrradteile & Fahrradzubehör",Computer,47,23.5,0,0.0,0,0.0
+11/07/21,"Fahrradteile & Fahrradzubehör",Mobile,37,13.875,0,0.0,0,0.0
+11/07/21,"Sportschuhe Herren",Mobile,1,0.1875,0,0.0,0,0.0
+11/07/21,Rucksäcke,Computer,16,8.0,0,0.0,0,0.0
+11/07/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+14/07/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+14/07/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+14/07/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+14/07/21,Sonnenbrillen,Computer,2,0.5,0,0.0,0,0.0
+14/07/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+14/07/21,"Sportbekleidung Herren",Computer,19,5.129999999999999,0,0.0,0,0.0
+14/07/21,"Sportbekleidung Herren",Mobile,25,5.062499999999999,0,0.0,0,0.0
+14/07/21,Taschen,Computer,1,0.25,0,0.0,0,0.0
+14/07/21,"Fahrradteile & Fahrradzubehör",Computer,137,68.5,0,0.0,0,0.0
+14/07/21,"Fahrradteile & Fahrradzubehör",Mobile,228,85.5,0,0.0,0,0.0
+14/07/21,Rucksäcke,Computer,15,7.5,0,0.0,0,0.0
+14/07/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+17/07/21,Damenmode,Mobile,3,0.5625,0,0.0,0,0.0
+17/07/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+17/07/21,"Sportbekleidung Herren",Computer,9,2.43,0,0.0,0,0.0
+17/07/21,"Sportbekleidung Herren",Mobile,3,0.6075,0,0.0,0,0.0
+17/07/21,Taschen,Mobile,1,0.1875,0,0.0,0,0.0
+17/07/21,"Fahrradteile & Fahrradzubehör",Computer,116,58.0,0,0.0,0,0.0
+17/07/21,"Fahrradteile & Fahrradzubehör",Mobile,178,66.75,0,0.0,0,0.0
+17/07/21,Rucksäcke,Computer,9,4.5,0,0.0,0,0.0
+21/07/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+21/07/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+21/07/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+21/07/21,"Sportbekleidung Herren",Computer,14,3.7800000000000002,0,0.0,0,0.0
+21/07/21,"Sportbekleidung Herren",Mobile,7,1.4175000000000004,0,0.0,0,0.0
+21/07/21,"Fahrradteile & Fahrradzubehör",Computer,58,29.0,0,0.0,0,0.0
+21/07/21,"Fahrradteile & Fahrradzubehör",Mobile,38,14.25,0,0.0,0,0.0
+21/07/21,Rucksäcke,Computer,12,6.0,0,0.0,0,0.0
+22/07/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+22/07/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+22/07/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+22/07/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+22/07/21,"Sportbekleidung Herren",Computer,11,2.97,0,0.0,0,0.0
+22/07/21,"Sportbekleidung Herren",Mobile,10,2.025000000000001,0,0.0,0,0.0
+22/07/21,"Fahrradteile & Fahrradzubehör",Computer,60,30.0,0,0.0,0,0.0
+22/07/21,"Fahrradteile & Fahrradzubehör",Mobile,34,12.75,0,0.0,0,0.0
+22/07/21,"Sportschuhe Herren",Computer,2,0.5,0,0.0,0,0.0
+22/07/21,Rucksäcke,Computer,15,7.5,0,0.0,0,0.0
+22/07/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+23/07/21,Sonnenbrillen,Computer,2,0.5,0,0.0,0,0.0
+23/07/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+23/07/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+23/07/21,"Sportbekleidung Herren",Computer,14,3.7800000000000002,0,0.0,0,0.0
+23/07/21,"Sportbekleidung Herren",Mobile,25,5.062499999999998,0,0.0,0,0.0
+23/07/21,"Fahrradteile & Fahrradzubehör",Computer,54,27.0,0,0.0,0,0.0
+23/07/21,"Fahrradteile & Fahrradzubehör",Mobile,42,15.75,0,0.0,0,0.0
+23/07/21,Rucksäcke,Computer,15,7.5,0,0.0,0,0.0
+23/07/21,Rucksäcke,Mobile,5,1.875,0,0.0,0,0.0
+24/07/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+24/07/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+24/07/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+24/07/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+24/07/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+24/07/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+24/07/21,"Sportbekleidung Herren",Computer,15,4.050000000000001,0,0.0,0,0.0
+24/07/21,"Sportbekleidung Herren",Mobile,14,2.835000000000001,0,0.0,0,0.0
+24/07/21,Taschen,Computer,1,0.25,0,0.0,0,0.0
+24/07/21,"Fahrradteile & Fahrradzubehör",Computer,50,25.0,0,0.0,0,0.0
+24/07/21,"Fahrradteile & Fahrradzubehör",Mobile,59,22.125,0,0.0,0,0.0
+24/07/21,Rucksäcke,Computer,25,12.5,0,0.0,0,0.0
+24/07/21,Rucksäcke,Mobile,4,1.5,0,0.0,0,0.0
+25/07/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+25/07/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+25/07/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+25/07/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+25/07/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+25/07/21,"Sportbekleidung Herren",Computer,13,3.5100000000000002,0,0.0,0,0.0
+25/07/21,"Sportbekleidung Herren",Mobile,17,3.442500000000001,0,0.0,0,0.0
+25/07/21,"Fahrradteile & Fahrradzubehör",Computer,49,24.5,0,0.0,0,0.0
+25/07/21,"Fahrradteile & Fahrradzubehör",Mobile,70,26.25,0,0.0,0,0.0
+25/07/21,Rucksäcke,Computer,70,35.0,0,0.0,0,0.0
+25/07/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+28/07/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+28/07/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+28/07/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+28/07/21,"Sportbekleidung Herren",Computer,13,3.5100000000000002,0,0.0,0,0.0
+28/07/21,"Sportbekleidung Herren",Mobile,2,0.405,0,0.0,0,0.0
+28/07/21,"Fahrradteile & Fahrradzubehör",Computer,37,18.5,0,0.0,0,0.0
+28/07/21,"Fahrradteile & Fahrradzubehör",Mobile,30,11.25,0,0.0,0,0.0
+28/07/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+28/07/21,Rucksäcke,Computer,3,1.5,0,0.0,0,0.0
+05/06/21,Accessoires,Mobile,1,0.1875,0,0.0,0,0.0
+05/06/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+05/06/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+05/06/21,"Sportbekleidung Damen",Computer,4,1.08,0,0.0,0,0.0
+05/06/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+05/06/21,"Sportbekleidung Herren",Computer,19,5.129999999999999,0,0.0,0,0.0
+05/06/21,"Sportbekleidung Herren",Mobile,31,6.277499999999998,0,0.0,0,0.0
+05/06/21,"Fahrradteile & Fahrradzubehör",Computer,105,52.5,0,0.0,0,0.0
+05/06/21,"Fahrradteile & Fahrradzubehör",Mobile,42,15.75,0,0.0,0,0.0
+05/06/21,Rucksäcke,Computer,26,13.0,0,0.0,0,0.0
+05/06/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+07/06/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+07/06/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+07/06/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+07/06/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+07/06/21,"Sportbekleidung Herren",Computer,23,6.209999999999999,0,0.0,0,0.0
+07/06/21,"Sportbekleidung Herren",Mobile,15,3.037500000000001,0,0.0,0,0.0
+07/06/21,"Fahrradteile & Fahrradzubehör",Computer,101,50.5,0,0.0,0,0.0
+07/06/21,"Fahrradteile & Fahrradzubehör",Mobile,24,9.0,0,0.0,0,0.0
+07/06/21,Rucksäcke,Computer,31,15.375,0,0.0,0,0.0
+07/06/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+08/06/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+08/06/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+08/06/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+08/06/21,"Sportbekleidung Herren",Computer,13,3.5100000000000002,0,0.0,0,0.0
+08/06/21,"Sportbekleidung Herren",Mobile,13,2.6325000000000007,0,0.0,0,0.0
+08/06/21,"Fahrradteile & Fahrradzubehör",Computer,42,21.0,0,0.0,0,0.0
+08/06/21,"Fahrradteile & Fahrradzubehör",Mobile,25,9.375,0,0.0,0,0.0
+08/06/21,Rucksäcke,Computer,17,8.5,0,0.0,0,0.0
+08/06/21,Rucksäcke,Mobile,4,1.5,0,0.0,0,0.0
+09/06/21,Damenunterwäsche,Computer,3,0.75,0,0.0,0,0.0
+09/06/21,"Sportbekleidung Damen",Computer,3,0.81,0,0.0,0,0.0
+09/06/21,"Sportbekleidung Herren",Computer,17,4.59,0,0.0,0,0.0
+09/06/21,"Sportbekleidung Herren",Mobile,11,2.2275000000000005,0,0.0,0,0.0
+09/06/21,"Fahrradteile & Fahrradzubehör",Computer,67,33.5,0,0.0,0,0.0
+09/06/21,"Fahrradteile & Fahrradzubehör",Mobile,65,24.375,0,0.0,0,0.0
+09/06/21,Rucksäcke,Computer,19,9.5,0,0.0,0,0.0
+09/06/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+11/06/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+11/06/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+11/06/21,"Sportbekleidung Damen",Computer,3,0.81,0,0.0,0,0.0
+11/06/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+11/06/21,"Sportbekleidung Herren",Computer,18,4.859999999999999,0,0.0,0,0.0
+11/06/21,"Sportbekleidung Herren",Mobile,7,1.4175000000000004,0,0.0,0,0.0
+11/06/21,"Fahrradteile & Fahrradzubehör",Computer,53,26.5,0,0.0,0,0.0
+11/06/21,"Fahrradteile & Fahrradzubehör",Mobile,35,13.125,0,0.0,0,0.0
+11/06/21,Rucksäcke,Computer,13,6.5,0,0.0,0,0.0
+12/06/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+12/06/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+12/06/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+12/06/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+12/06/21,"Sportbekleidung Herren",Computer,13,3.5100000000000002,0,0.0,0,0.0
+12/06/21,"Sportbekleidung Herren",Mobile,7,1.4175000000000004,0,0.0,0,0.0
+12/06/21,"Fahrradteile & Fahrradzubehör",Computer,48,24.0,0,0.0,0,0.0
+12/06/21,"Fahrradteile & Fahrradzubehör",Mobile,38,14.25,0,0.0,0,0.0
+12/06/21,Rucksäcke,Computer,24,12.0,0,0.0,0,0.0
+12/06/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+13/06/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+13/06/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+13/06/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+13/06/21,"Sportbekleidung Herren",Computer,18,4.859999999999999,0,0.0,0,0.0
+13/06/21,"Sportbekleidung Herren",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+13/06/21,"Fahrradteile & Fahrradzubehör",Computer,49,24.5,0,0.0,0,0.0
+13/06/21,"Fahrradteile & Fahrradzubehör",Mobile,18,6.75,0,0.0,0,0.0
+13/06/21,Rucksäcke,Computer,24,12.0,0,0.0,0,0.0
+13/06/21,Rucksäcke,Mobile,3,1.125,0,0.0,0,0.0
+13/06/21,"Sportbekleidung Kinder",Computer,1,0.27,0,0.0,0,0.0
+15/06/21,Herrenmode,Computer,2,0.5,0,0.0,0,0.0
+15/06/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+15/06/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+15/06/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+15/06/21,"Sportbekleidung Herren",Computer,16,4.32,0,0.0,0,0.0
+15/06/21,"Sportbekleidung Herren",Mobile,12,2.43,0,0.0,0,0.0
+15/06/21,"Fahrradteile & Fahrradzubehör",Computer,34,17.0,0,0.0,0,0.0
+15/06/21,"Fahrradteile & Fahrradzubehör",Mobile,40,15.0,0,0.0,0,0.0
+15/06/21,Rucksäcke,Computer,24,12.0,0,0.0,0,0.0
+15/06/21,Rucksäcke,Mobile,9,3.375,0,0.0,0,0.0
+18/06/21,"Sportbekleidung Herren",Computer,14,3.7800000000000002,0,0.0,0,0.0
+18/06/21,"Sportbekleidung Herren",Mobile,4,0.81,0,0.0,0,0.0
+18/06/21,"Fahrradteile & Fahrradzubehör",Computer,77,38.5,0,0.0,0,0.0
+18/06/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.875,0,0.0,0,0.0
+18/06/21,Rucksäcke,Computer,36,18.0,0,0.0,0,0.0
+18/06/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+01/06/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+01/06/21,Herrenmode,Mobile,1,0.1875,0,0.0,0,0.0
+01/06/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+01/06/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+01/06/21,"Sportbekleidung Herren",Computer,20,5.4,0,0.0,0,0.0
+01/06/21,"Sportbekleidung Herren",Mobile,15,3.0375000000000005,0,0.0,0,0.0
+01/06/21,"Fahrradteile & Fahrradzubehör",Computer,20,10.0,0,0.0,0,0.0
+01/06/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.375,0,0.0,0,0.0
+01/06/21,Rucksäcke,Computer,4,2.0,0,0.0,0,0.0
+02/06/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+02/06/21,"Sportbekleidung Herren",Computer,14,3.7800000000000002,0,0.0,0,0.0
+02/06/21,"Sportbekleidung Herren",Mobile,6,1.2150000000000003,0,0.0,0,0.0
+02/06/21,"Fahrradteile & Fahrradzubehör",Computer,67,33.5,0,0.0,0,0.0
+02/06/21,"Fahrradteile & Fahrradzubehör",Mobile,9,3.375,0,0.0,0,0.0
+02/06/21,Rucksäcke,Computer,26,13.0,0,0.0,0,0.0
+03/06/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+03/06/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+03/06/21,"Sportbekleidung Herren",Computer,9,2.43,0,0.0,0,0.0
+03/06/21,"Sportbekleidung Herren",Mobile,9,1.8225000000000002,0,0.0,0,0.0
+03/06/21,"Fahrradteile & Fahrradzubehör",Computer,39,19.5,0,0.0,0,0.0
+03/06/21,"Fahrradteile & Fahrradzubehör",Mobile,64,24.0,0,0.0,0,0.0
+03/06/21,Rucksäcke,Computer,5,2.5,0,0.0,0,0.0
+03/06/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+04/06/21,"Sportbekleidung Damen",Computer,3,0.81,0,0.0,0,0.0
+04/06/21,"Sportbekleidung Herren",Computer,12,3.24,0,0.0,0,0.0
+04/06/21,"Sportbekleidung Herren",Mobile,17,3.442500000000001,0,0.0,0,0.0
+04/06/21,"Fahrradteile & Fahrradzubehör",Computer,93,46.5,0,0.0,0,0.0
+04/06/21,"Fahrradteile & Fahrradzubehör",Mobile,23,8.625,0,0.0,0,0.0
+04/06/21,Rucksäcke,Computer,34,17.0,0,0.0,0,0.0
+04/06/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+04/06/21,"Sportbekleidung Kinder",Computer,2,0.54,0,0.0,0,0.0
+06/06/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+06/06/21,"Sportbekleidung Herren",Computer,23,6.209999999999999,0,0.0,0,0.0
+06/06/21,"Sportbekleidung Herren",Mobile,11,2.2275000000000005,0,0.0,0,0.0
+06/06/21,"Fahrradteile & Fahrradzubehör",Computer,92,46.0,0,0.0,0,0.0
+06/06/21,"Fahrradteile & Fahrradzubehör",Mobile,49,18.375,0,0.0,0,0.0
+06/06/21,Rucksäcke,Computer,30,15.0,0,0.0,0,0.0
+06/06/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+10/06/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+10/06/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+10/06/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+10/06/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+10/06/21,"Sportbekleidung Herren",Computer,20,5.399999999999999,0,0.0,0,0.0
+10/06/21,"Sportbekleidung Herren",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+10/06/21,"Fahrradteile & Fahrradzubehör",Computer,48,24.0,0,0.0,0,0.0
+10/06/21,"Fahrradteile & Fahrradzubehör",Mobile,31,11.625,0,0.0,0,0.0
+10/06/21,Rucksäcke,Computer,12,6.0,0,0.0,0,0.0
+10/06/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+10/06/21,"Sportbekleidung Kinder",Computer,1,0.27,0,0.0,0,0.0
+14/06/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+14/06/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+14/06/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+14/06/21,"Sportbekleidung Herren",Computer,26,7.019999999999996,0,0.0,0,0.0
+14/06/21,"Sportbekleidung Herren",Mobile,2,0.405,0,0.0,0,0.0
+14/06/21,"Fahrradteile & Fahrradzubehör",Computer,65,32.5,0,0.0,0,0.0
+14/06/21,"Fahrradteile & Fahrradzubehör",Mobile,8,3.0,0,0.0,0,0.0
+14/06/21,Rucksäcke,Computer,21,10.5,0,0.0,0,0.0
+14/06/21,Rucksäcke,Mobile,6,2.25,0,0.0,0,0.0
+16/06/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+16/06/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+16/06/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+16/06/21,"Sportbekleidung Herren",Computer,19,5.129999999999999,0,0.0,0,0.0
+16/06/21,"Sportbekleidung Herren",Mobile,6,1.2150000000000003,0,0.0,0,0.0
+16/06/21,"Fahrradteile & Fahrradzubehör",Computer,51,25.5,0,0.0,0,0.0
+16/06/21,"Fahrradteile & Fahrradzubehör",Mobile,13,4.875,0,0.0,0,0.0
+16/06/21,"Sportschuhe Herren",Mobile,1,0.1875,0,0.0,0,0.0
+16/06/21,Rucksäcke,Computer,22,11.0,0,0.0,0,0.0
+17/06/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+17/06/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+17/06/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+17/06/21,"Sportbekleidung Herren",Computer,21,5.67,0,0.0,0,0.0
+17/06/21,"Sportbekleidung Herren",Mobile,6,1.215,0,0.0,0,0.0
+17/06/21,"Fahrradteile & Fahrradzubehör",Computer,83,41.5,0,0.0,0,0.0
+17/06/21,"Fahrradteile & Fahrradzubehör",Mobile,14,5.25,0,0.0,0,0.0
+17/06/21,Rucksäcke,Computer,14,7.0,0,0.0,0,0.0
+17/06/21,Rucksäcke,Mobile,3,1.125,0,0.0,0,0.0
+01/05/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+01/05/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+01/05/21,"Sportbekleidung Herren",Computer,28,7.559999999999997,0,0.0,0,0.0
+01/05/21,"Sportbekleidung Herren",Mobile,6,1.2150000000000003,0,0.0,0,0.0
+01/05/21,"Fahrradteile & Fahrradzubehör",Computer,120,60.0,0,0.0,0,0.0
+01/05/21,"Fahrradteile & Fahrradzubehör",Mobile,6,2.25,0,0.0,0,0.0
+01/05/21,Rucksäcke,Computer,99,49.5,0,0.0,0,0.0
+03/05/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+03/05/21,"Sportbekleidung Damen",Mobile,4,0.81,0,0.0,0,0.0
+03/05/21,"Sportbekleidung Herren",Computer,31,8.302499999999997,0,0.0,0,0.0
+03/05/21,"Sportbekleidung Herren",Mobile,45,9.112500000000002,0,0.0,0,0.0
+03/05/21,"Fahrradteile & Fahrradzubehör",Computer,108,54.0,0,0.0,0,0.0
+03/05/21,"Fahrradteile & Fahrradzubehör",Mobile,29,10.875,0,0.0,0,0.0
+03/05/21,Rucksäcke,Computer,61,30.5,0,0.0,0,0.0
+03/05/21,Rucksäcke,Mobile,3,1.125,0,0.0,0,0.0
+03/05/21,"Sportbekleidung Kinder",Computer,1,0.27,0,0.0,0,0.0
+05/05/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+05/05/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+05/05/21,"Sportbekleidung Damen",Computer,3,0.81,0,0.0,0,0.0
+05/05/21,"Sportbekleidung Herren",Computer,32,8.572499999999996,0,0.0,0,0.0
+05/05/21,"Sportbekleidung Herren",Mobile,16,3.2400000000000007,0,0.0,0,0.0
+05/05/21,"Fahrradteile & Fahrradzubehör",Computer,152,75.875,0,0.0,0,0.0
+05/05/21,"Fahrradteile & Fahrradzubehör",Mobile,26,9.75,0,0.0,0,0.0
+05/05/21,Rucksäcke,Computer,81,40.5,0,0.0,0,0.0
+05/05/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+07/05/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+07/05/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+07/05/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+07/05/21,"Sportbekleidung Herren",Computer,34,9.179999999999994,0,0.0,0,0.0
+07/05/21,"Sportbekleidung Herren",Mobile,6,1.2150000000000003,0,0.0,0,0.0
+07/05/21,"Fahrradteile & Fahrradzubehör",Computer,131,65.5,0,0.0,0,0.0
+07/05/21,"Fahrradteile & Fahrradzubehör",Mobile,10,3.75,0,0.0,0,0.0
+07/05/21,Rucksäcke,Computer,98,49.0,0,0.0,0,0.0
+07/05/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+09/05/21,"Sportbekleidung Herren",Computer,4,1.08,0,0.0,0,0.0
+09/05/21,"Sportbekleidung Herren",Mobile,2,0.405,0,0.0,0,0.0
+09/05/21,"Fahrradteile & Fahrradzubehör",Computer,97,48.5,0,0.0,0,0.0
+09/05/21,"Fahrradteile & Fahrradzubehör",Mobile,4,1.5,0,0.0,0,0.0
+09/05/21,Rucksäcke,Computer,74,37.0,0,0.0,0,0.0
+09/05/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+02/05/21,Accessoires,Computer,3,0.75,0,0.0,0,0.0
+02/05/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+02/05/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+02/05/21,"Sportbekleidung Damen",Computer,3,0.81,0,0.0,0,0.0
+02/05/21,"Sportbekleidung Damen",Mobile,9,1.8225,0,0.0,0,0.0
+02/05/21,"Sportbekleidung Herren",Computer,39,10.53,0,0.0,0,0.0
+02/05/21,"Sportbekleidung Herren",Mobile,42,8.505000000000004,0,0.0,0,0.0
+02/05/21,"Fahrradteile & Fahrradzubehör",Computer,82,40.875,0,0.0,0,0.0
+02/05/21,"Fahrradteile & Fahrradzubehör",Mobile,16,6.0,0,0.0,0,0.0
+02/05/21,Rucksäcke,Computer,41,20.5,0,0.0,0,0.0
+02/05/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+04/05/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+04/05/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+04/05/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+04/05/21,"Sportbekleidung Herren",Computer,39,10.529999999999998,0,0.0,0,0.0
+04/05/21,"Sportbekleidung Herren",Mobile,14,2.835,0,0.0,0,0.0
+04/05/21,"Fahrradteile & Fahrradzubehör",Computer,115,57.5,0,0.0,0,0.0
+04/05/21,"Fahrradteile & Fahrradzubehör",Mobile,30,11.25,0,0.0,0,0.0
+04/05/21,Rucksäcke,Computer,87,43.5,0,0.0,0,0.0
+04/05/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+06/05/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+06/05/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+06/05/21,"Sportbekleidung Herren",Computer,39,10.462499999999997,0,0.0,0,0.0
+06/05/21,"Sportbekleidung Herren",Mobile,21,4.252500000000001,0,0.0,0,0.0
+06/05/21,"Fahrradteile & Fahrradzubehör",Computer,153,76.5,0,0.0,0,0.0
+06/05/21,"Fahrradteile & Fahrradzubehör",Mobile,13,4.875,0,0.0,0,0.0
+06/05/21,Rucksäcke,Computer,90,45.0,0,0.0,0,0.0
+06/05/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+06/05/21,"Sportbekleidung Kinder",Computer,1,0.27,0,0.0,0,0.0
+08/05/21,Herrenmode,Computer,2,0.5,0,0.0,0,0.0
+08/05/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+08/05/21,"Sportbekleidung Damen",Mobile,8,1.62,0,0.0,0,0.0
+08/05/21,"Sportbekleidung Herren",Computer,23,6.209999999999997,0,0.0,0,0.0
+08/05/21,"Sportbekleidung Herren",Mobile,9,1.8225000000000002,0,0.0,0,0.0
+08/05/21,"Fahrradteile & Fahrradzubehör",Computer,160,80.0,0,0.0,0,0.0
+08/05/21,"Fahrradteile & Fahrradzubehör",Mobile,13,4.875,0,0.0,0,0.0
+08/05/21,Rucksäcke,Computer,97,48.5,0,0.0,0,0.0
+08/05/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+01/04/21,"Sportbekleidung Herren",Computer,10,2.7,0,0.0,0,0.0
+01/04/21,"Sportbekleidung Herren",Mobile,8,1.62,0,0.0,0,0.0
+01/04/21,"Fahrradteile & Fahrradzubehör",Computer,46,23.0,0,0.0,0,0.0
+01/04/21,"Fahrradteile & Fahrradzubehör",Mobile,15,5.625,0,0.0,0,0.0
+01/04/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+01/04/21,Rucksäcke,Computer,4,2.0,0,0.0,0,0.0
+01/04/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+04/04/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+04/04/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+04/04/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+04/04/21,"Sportbekleidung Damen",Computer,4,1.08,0,0.0,0,0.0
+04/04/21,"Sportbekleidung Herren",Computer,52,14.039999999999992,0,0.0,0,0.0
+04/04/21,"Sportbekleidung Herren",Mobile,20,4.050000000000002,0,0.0,0,0.0
+04/04/21,"Fahrradteile & Fahrradzubehör",Computer,94,47.0,0,0.0,0,0.0
+04/04/21,"Fahrradteile & Fahrradzubehör",Mobile,81,30.375,0,0.0,0,0.0
+04/04/21,Rucksäcke,Computer,13,6.5,0,0.0,0,0.0
+07/04/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+07/04/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+07/04/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+07/04/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+07/04/21,"Sportbekleidung Herren",Computer,45,12.149999999999991,0,0.0,0,0.0
+07/04/21,"Sportbekleidung Herren",Mobile,17,3.4425000000000003,0,0.0,0,0.0
+07/04/21,"Fahrradteile & Fahrradzubehör",Computer,87,43.5,0,0.0,0,0.0
+07/04/21,"Fahrradteile & Fahrradzubehör",Mobile,28,10.5,0,0.0,0,0.0
+07/04/21,"Sportschuhe Herren",Computer,2,0.5,0,0.0,0,0.0
+07/04/21,Rucksäcke,Computer,20,10.0,0,0.0,0,0.0
+07/04/21,Rucksäcke,Mobile,5,1.875,0,0.0,0,0.0
+09/04/21,Accessoires,Computer,2,0.5,0,0.0,0,0.0
+09/04/21,Accessoires,Mobile,1,0.1875,0,0.0,0,0.0
+09/04/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+09/04/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+09/04/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+09/04/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+09/04/21,"Sportbekleidung Herren",Computer,69,18.62999999999999,0,0.0,0,0.0
+09/04/21,"Sportbekleidung Herren",Mobile,31,6.277500000000001,0,0.0,0,0.0
+09/04/21,"Fahrradteile & Fahrradzubehör",Computer,144,72.0,0,0.0,0,0.0
+09/04/21,"Fahrradteile & Fahrradzubehör",Mobile,35,13.125,0,0.0,0,0.0
+09/04/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+09/04/21,Rucksäcke,Computer,25,12.5,0,0.0,0,0.0
+09/04/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+11/04/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+11/04/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+11/04/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+11/04/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+11/04/21,"Sportbekleidung Herren",Computer,27,7.289999999999996,0,0.0,0,0.0
+11/04/21,"Sportbekleidung Herren",Mobile,23,4.6575,0,0.0,0,0.0
+11/04/21,"Fahrradteile & Fahrradzubehör",Computer,126,63.0,0,0.0,0,0.0
+11/04/21,"Fahrradteile & Fahrradzubehör",Mobile,14,5.25,0,0.0,0,0.0
+11/04/21,"Sportschuhe Herren",Computer,3,0.75,0,0.0,0,0.0
+11/04/21,Rucksäcke,Computer,24,12.0,0,0.0,0,0.0
+11/04/21,Rucksäcke,Mobile,3,1.125,0,0.0,0,0.0
+02/04/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+02/04/21,"Sportbekleidung Herren",Computer,16,4.32,0,0.0,0,0.0
+02/04/21,"Sportbekleidung Herren",Mobile,16,3.240000000000001,0,0.0,0,0.0
+02/04/21,"Fahrradteile & Fahrradzubehör",Computer,59,29.5,0,0.0,0,0.0
+02/04/21,"Fahrradteile & Fahrradzubehör",Mobile,27,10.125,0,0.0,0,0.0
+02/04/21,"Sportschuhe Herren",Computer,3,0.75,0,0.0,0,0.0
+02/04/21,Rucksäcke,Computer,9,4.5,0,0.0,0,0.0
+02/04/21,Rucksäcke,Mobile,2,0.75,0,0.0,0,0.0
+03/04/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+03/04/21,"Sportbekleidung Damen",Computer,4,1.08,0,0.0,0,0.0
+03/04/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+03/04/21,"Sportbekleidung Herren",Computer,25,6.682499999999999,0,0.0,0,0.0
+03/04/21,"Sportbekleidung Herren",Mobile,30,6.074999999999999,0,0.0,0,0.0
+03/04/21,"Fahrradteile & Fahrradzubehör",Computer,149,74.5,0,0.0,0,0.0
+03/04/21,"Fahrradteile & Fahrradzubehör",Mobile,66,24.75,0,0.0,0,0.0
+03/04/21,"Sportschuhe Herren",Computer,3,0.75,0,0.0,0,0.0
+03/04/21,Rucksäcke,Computer,47,23.5,0,0.0,0,0.0
+03/04/21,Rucksäcke,Mobile,6,2.25,0,0.0,0,0.0
+05/04/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+05/04/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+05/04/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+05/04/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+05/04/21,"Sportbekleidung Damen",Mobile,3,0.6075,0,0.0,0,0.0
+05/04/21,"Sportbekleidung Herren",Computer,82,22.139999999999983,0,0.0,0,0.0
+05/04/21,"Sportbekleidung Herren",Mobile,16,3.2400000000000015,0,0.0,0,0.0
+05/04/21,"Fahrradteile & Fahrradzubehör",Computer,95,47.5,0,0.0,0,0.0
+05/04/21,"Fahrradteile & Fahrradzubehör",Mobile,65,24.375,0,0.0,0,0.0
+05/04/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+05/04/21,Rucksäcke,Computer,18,9.0,0,0.0,0,0.0
+05/04/21,Rucksäcke,Mobile,3,1.125,0,0.0,0,0.0
+06/04/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+06/04/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+06/04/21,"Sportbekleidung Herren",Computer,41,11.069999999999993,0,0.0,0,0.0
+06/04/21,"Sportbekleidung Herren",Mobile,14,2.835000000000001,0,0.0,0,0.0
+06/04/21,"Fahrradteile & Fahrradzubehör",Computer,149,74.5,0,0.0,0,0.0
+06/04/21,"Fahrradteile & Fahrradzubehör",Mobile,38,14.25,0,0.0,0,0.0
+06/04/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+06/04/21,"Sportschuhe Herren",Mobile,1,0.1875,0,0.0,0,0.0
+06/04/21,Rucksäcke,Computer,37,18.5,0,0.0,0,0.0
+06/04/21,Rucksäcke,Mobile,3,1.125,0,0.0,0,0.0
+08/04/21,Accessoires,Mobile,1,0.1875,0,0.0,0,0.0
+08/04/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+08/04/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+08/04/21,"Sportbekleidung Damen",Computer,2,0.54,0,0.0,0,0.0
+08/04/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+08/04/21,"Sportbekleidung Herren",Computer,49,13.162499999999993,0,0.0,0,0.0
+08/04/21,"Sportbekleidung Herren",Mobile,30,6.074999999999999,0,0.0,0,0.0
+08/04/21,"Fahrradteile & Fahrradzubehör",Computer,100,50.0,0,0.0,0,0.0
+08/04/21,"Fahrradteile & Fahrradzubehör",Mobile,30,11.25,0,0.0,0,0.0
+08/04/21,Rucksäcke,Computer,21,10.5,0,0.0,0,0.0
+08/04/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+10/04/21,Accessoires,Computer,2,0.5,0,0.0,0,0.0
+10/04/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+10/04/21,Damenmode,Mobile,2,0.375,0,0.0,0,0.0
+10/04/21,Damenunterwäsche,Mobile,2,0.375,0,0.0,0,0.0
+10/04/21,"Sportbekleidung Damen",Computer,4,1.08,0,0.0,0,0.0
+10/04/21,"Sportbekleidung Damen",Mobile,3,0.6075,0,0.0,0,0.0
+10/04/21,"Sportbekleidung Herren",Computer,53,14.309999999999988,0,0.0,0,0.0
+10/04/21,"Sportbekleidung Herren",Mobile,18,3.6450000000000014,0,0.0,0,0.0
+10/04/21,"Fahrradteile & Fahrradzubehör",Computer,151,75.5,0,0.0,0,0.0
+10/04/21,"Fahrradteile & Fahrradzubehör",Mobile,54,20.25,0,0.0,0,0.0
+10/04/21,Rucksäcke,Computer,41,20.5,0,0.0,0,0.0
+10/04/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+02/03/21,Accessoires,Computer,2,0.5,0,0.0,0,0.0
+02/03/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+02/03/21,Damenmode,Computer,6,1.5,0,0.0,0,0.0
+02/03/21,Damenunterwäsche,Computer,4,1.0,0,0.0,0,0.0
+02/03/21,Herrenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+02/03/21,Sonnenbrillen,Computer,4,1.0,0,0.0,0,0.0
+02/03/21,"Sportbekleidung Damen",Computer,18,4.860000000000001,0,0.0,0,0.0
+02/03/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+02/03/21,"Sportbekleidung Herren",Computer,415,112.05000000000001,0,0.0,0,0.0
+02/03/21,"Sportbekleidung Herren",Mobile,48,9.72,0,0.0,0,0.0
+02/03/21,"Fahrradteile & Fahrradzubehör",Computer,30,8.1,0,0.0,0,0.0
+02/03/21,"Fahrradteile & Fahrradzubehör",Mobile,4,0.81,0,0.0,0,0.0
+02/03/21,Rucksäcke,Computer,22,5.5,0,0.0,0,0.0
+03/03/21,Accessoires,Computer,2,0.5,0,0.0,0,0.0
+03/03/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+03/03/21,Damenmode,Computer,9,2.25,0,0.0,0,0.0
+03/03/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+03/03/21,Herrenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+03/03/21,"Sportbekleidung Damen",Computer,26,7.020000000000001,0,0.0,0,0.0
+03/03/21,"Sportbekleidung Herren",Computer,415,111.84750000000003,0,0.0,0,0.0
+03/03/21,"Sportbekleidung Herren",Mobile,24,4.86,0,0.0,0,0.0
+03/03/21,"Fahrradteile & Fahrradzubehör",Computer,27,7.290000000000001,0,0.0,0,0.0
+03/03/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+03/03/21,"Sportschuhe Herren",Mobile,1,0.1875,0,0.0,0,0.0
+03/03/21,Rucksäcke,Computer,15,3.75,0,0.0,0,0.0
+04/03/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+04/03/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+04/03/21,Damenunterwäsche,Computer,4,1.0,0,0.0,0,0.0
+04/03/21,Herrenunterwäsche,Computer,3,0.75,0,0.0,0,0.0
+04/03/21,"Sportbekleidung Damen",Computer,12,3.24,0,0.0,0,0.0
+04/03/21,"Sportbekleidung Herren",Computer,377,101.79,0,0.0,0,0.0
+04/03/21,"Sportbekleidung Herren",Mobile,20,4.050000000000001,0,0.0,0,0.0
+04/03/21,"Fahrradteile & Fahrradzubehör",Computer,42,11.272499999999999,0,0.0,0,0.0
+04/03/21,"Fahrradteile & Fahrradzubehör",Mobile,7,1.4175,0,0.0,0,0.0
+04/03/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+04/03/21,Rucksäcke,Computer,20,5.0,0,0.0,0,0.0
+05/03/21,"Sportbekleidung Damen",Computer,13,3.5100000000000002,0,0.0,0,0.0
+05/03/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+05/03/21,"Sportbekleidung Herren",Computer,215,58.05000000000006,0,0.0,0,0.0
+05/03/21,"Sportbekleidung Herren",Mobile,57,11.542500000000004,0,0.0,0,0.0
+05/03/21,"Fahrradteile & Fahrradzubehör",Computer,19,4.995,0,0.0,0,0.0
+05/03/21,"Fahrradteile & Fahrradzubehör",Mobile,6,1.2150000000000003,0,0.0,0,0.0
+05/03/21,Rucksäcke,Computer,1,0.25,0,0.0,0,0.0
+05/03/21,Rucksäcke,Mobile,1,0.1875,0,0.0,0,0.0
+07/03/21,Herrenmode,Mobile,1,0.1875,0,0.0,0,0.0
+07/03/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+07/03/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+07/03/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+07/03/21,"Sportbekleidung Damen",Computer,13,3.5100000000000002,0,0.0,0,0.0
+07/03/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+07/03/21,"Sportbekleidung Herren",Computer,200,54.000000000000064,0,0.0,0,0.0
+07/03/21,"Sportbekleidung Herren",Mobile,16,3.240000000000001,0,0.0,0,0.0
+07/03/21,"Fahrradteile & Fahrradzubehör",Computer,19,5.129999999999999,0,0.0,0,0.0
+07/03/21,"Fahrradteile & Fahrradzubehör",Mobile,3,0.6075,0,0.0,0,0.0
+08/03/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+08/03/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+08/03/21,Herrenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+08/03/21,"Sportbekleidung Damen",Computer,13,3.5100000000000002,0,0.0,0,0.0
+08/03/21,"Sportbekleidung Herren",Computer,189,51.03000000000005,0,0.0,0,0.0
+08/03/21,"Sportbekleidung Herren",Mobile,35,7.087499999999998,0,0.0,0,0.0
+08/03/21,"Fahrradteile & Fahrradzubehör",Computer,16,4.32,0,0.0,0,0.0
+08/03/21,"Fahrradteile & Fahrradzubehör",Mobile,6,1.2150000000000003,0,0.0,0,0.0
+08/03/21,"Sportschuhe Herren",Computer,2,0.5,0,0.0,0,0.0
+09/03/21,Accessoires,Computer,2,0.5,0,0.0,0,0.0
+09/03/21,Accessoires,Mobile,1,0.1875,0,0.0,0,0.0
+09/03/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+09/03/21,Damenmode,Computer,3,0.6875,0,0.0,0,0.0
+09/03/21,"Sportbekleidung Damen",Computer,8,2.16,0,0.0,0,0.0
+09/03/21,"Sportbekleidung Herren",Computer,180,48.60000000000004,0,0.0,0,0.0
+09/03/21,"Sportbekleidung Herren",Mobile,25,5.062500000000001,0,0.0,0,0.0
+09/03/21,"Fahrradteile & Fahrradzubehör",Computer,24,6.48,0,0.0,0,0.0
+09/03/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+09/03/21,Rucksäcke,Computer,3,0.75,0,0.0,0,0.0
+11/03/21,Accessoires,Computer,8,2.0,0,0.0,0,0.0
+11/03/21,Herrenmode,Computer,4,1.0,0,0.0,0,0.0
+11/03/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+11/03/21,"Sportbekleidung Damen",Computer,4,1.08,0,0.0,0,0.0
+11/03/21,"Sportbekleidung Herren",Computer,116,31.31999999999999,0,0.0,0,0.0
+11/03/21,"Sportbekleidung Herren",Mobile,4,0.81,0,0.0,0,0.0
+11/03/21,"Fahrradteile & Fahrradzubehör",Computer,81,40.5,0,0.0,0,0.0
+11/03/21,"Fahrradteile & Fahrradzubehör",Mobile,4,1.5,0,0.0,0,0.0
+11/03/21,Rucksäcke,Computer,44,22.0,0,0.0,0,0.0
+01/03/21,Herrenmode,Mobile,2,0.375,0,0.0,0,0.0
+01/03/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+01/03/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+01/03/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+01/03/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+01/03/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+01/03/21,"Sportbekleidung Damen",Computer,8,2.16,0,0.0,0,0.0
+01/03/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+01/03/21,"Sportbekleidung Herren",Computer,207,55.89000000000008,0,0.0,0,0.0
+01/03/21,"Sportbekleidung Herren",Mobile,24,4.860000000000001,0,0.0,0,0.0
+01/03/21,"Fahrradteile & Fahrradzubehör",Computer,19,5.130000000000001,0,0.0,0,0.0
+01/03/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+05/03/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+05/03/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+05/03/21,Damenmode,Mobile,2,0.375,0,0.0,0,0.0
+05/03/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+06/03/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+06/03/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+06/03/21,"Sportbekleidung Damen",Computer,19,5.13,0,0.0,0,0.0
+06/03/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+06/03/21,"Sportbekleidung Herren",Computer,171,46.17000000000001,0,0.0,0,0.0
+06/03/21,"Sportbekleidung Herren",Mobile,52,10.530000000000005,0,0.0,0,0.0
+06/03/21,"Fahrradteile & Fahrradzubehör",Computer,18,4.859999999999999,0,0.0,0,0.0
+06/03/21,"Fahrradteile & Fahrradzubehör",Mobile,10,2.0250000000000004,0,0.0,0,0.0
+06/03/21,Rucksäcke,Computer,4,1.0,0,0.0,0,0.0
+06/03/21,Rucksäcke,Mobile,1,0.1875,0,0.0,0,0.0
+10/03/21,Accessoires,Computer,2,0.5,0,0.0,0,0.0
+10/03/21,Herrenmode,Computer,5,1.25,0,0.0,0,0.0
+10/03/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+10/03/21,Herrenunterwäsche,Computer,13,3.25,0,0.0,0,0.0
+10/03/21,"Sportbekleidung Damen",Computer,16,4.32,0,0.0,0,0.0
+10/03/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+10/03/21,"Sportbekleidung Herren",Computer,400,107.99999999999999,0,0.0,0,0.0
+10/03/21,"Sportbekleidung Herren",Mobile,51,10.327500000000004,0,0.0,0,0.0
+10/03/21,"Fahrradteile & Fahrradzubehör",Computer,48,24.0,0,0.0,0,0.0
+10/03/21,"Fahrradteile & Fahrradzubehör",Mobile,8,3.0,0,0.0,0,0.0
+10/03/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+10/03/21,Rucksäcke,Computer,5,2.5,0,0.0,0,0.0
+10/03/21,Rucksäcke,Mobile,1,0.375,0,0.0,0,0.0
+01/02/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+01/02/21,Herrenmode,Computer,3,0.75,0,0.0,0,0.0
+01/02/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+01/02/21,Damenunterwäsche,Computer,3,0.75,0,0.0,0,0.0
+01/02/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+01/02/21,"Sportbekleidung Herren",Computer,142,38.34,0,0.0,0,0.0
+01/02/21,"Sportbekleidung Herren",Mobile,26,5.265000000000001,0,0.0,0,0.0
+01/02/21,"Fahrradteile & Fahrradzubehör",Computer,15,4.050000000000001,0,0.0,0,0.0
+01/02/21,"Fahrradteile & Fahrradzubehör",Mobile,4,0.81,0,0.0,0,0.0
+01/02/21,"Sportbekleidung Kinder",Mobile,1,0.2025,0,0.0,0,0.0
+02/02/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+02/02/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+02/02/21,Sonnenbrillen,Computer,3,0.75,0,0.0,0,0.0
+02/02/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+02/02/21,"Sportbekleidung Herren",Computer,121,32.66999999999998,0,0.0,0,0.0
+02/02/21,"Sportbekleidung Herren",Mobile,24,4.860000000000001,0,0.0,0,0.0
+02/02/21,"Fahrradteile & Fahrradzubehör",Computer,10,2.7,0,0.0,0,0.0
+02/02/21,"Fahrradteile & Fahrradzubehör",Mobile,3,0.6075,0,0.0,0,0.0
+06/02/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+06/02/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+06/02/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+06/02/21,Herrenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+06/02/21,"Sportbekleidung Herren",Computer,168,45.36000000000002,0,0.0,0,0.0
+06/02/21,"Sportbekleidung Herren",Mobile,36,7.290000000000001,0,0.0,0,0.0
+06/02/21,"Fahrradteile & Fahrradzubehör",Computer,31,8.370000000000001,0,0.0,0,0.0
+06/02/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+07/02/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+07/02/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+07/02/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+07/02/21,"Sportbekleidung Herren",Computer,133,35.91,0,0.0,0,0.0
+07/02/21,"Sportbekleidung Herren",Mobile,31,6.277499999999998,0,0.0,0,0.0
+07/02/21,"Fahrradteile & Fahrradzubehör",Computer,12,3.24,0,0.0,0,0.0
+07/02/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.405,0,0.0,0,0.0
+08/02/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+08/02/21,Damenmode,Computer,5,1.25,0,0.0,0,0.0
+08/02/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+08/02/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+08/02/21,Sonnenbrillen,Computer,2,0.5,0,0.0,0,0.0
+08/02/21,"Sportbekleidung Herren",Computer,146,39.42000000000002,0,0.0,0,0.0
+08/02/21,"Sportbekleidung Herren",Mobile,29,5.872500000000002,0,0.0,0,0.0
+08/02/21,"Fahrradteile & Fahrradzubehör",Computer,14,3.7800000000000002,0,0.0,0,0.0
+08/02/21,"Fahrradteile & Fahrradzubehör",Mobile,8,1.62,0,0.0,0,0.0
+11/02/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+11/02/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+11/02/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+11/02/21,Herrenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+11/02/21,"Sportbekleidung Damen",Computer,7,1.8900000000000001,0,0.0,0,0.0
+11/02/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+11/02/21,"Sportbekleidung Herren",Computer,150,40.500000000000014,0,0.0,0,0.0
+11/02/21,"Sportbekleidung Herren",Mobile,8,1.6200000000000003,0,0.0,0,0.0
+11/02/21,"Fahrradteile & Fahrradzubehör",Computer,6,1.62,0,0.0,0,0.0
+11/02/21,"Fahrradteile & Fahrradzubehör",Mobile,6,1.215,0,0.0,0,0.0
+11/02/21,Rucksäcke,Computer,2,0.5,0,0.0,0,0.0
+11/02/21,"Sportbekleidung Kinder",Mobile,1,0.2025,0,0.0,0,0.0
+12/02/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+12/02/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+12/02/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+12/02/21,Herrenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+12/02/21,"Sportbekleidung Damen",Computer,6,1.62,0,0.0,0,0.0
+12/02/21,"Sportbekleidung Damen",Mobile,3,0.6075,0,0.0,0,0.0
+12/02/21,"Sportbekleidung Herren",Computer,138,37.26000000000001,0,0.0,0,0.0
+12/02/21,"Sportbekleidung Herren",Mobile,25,5.0625,0,0.0,0,0.0
+12/02/21,"Fahrradteile & Fahrradzubehör",Computer,12,3.24,0,0.0,0,0.0
+12/02/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+13/02/21,Herrenmode,Computer,2,0.5,0,0.0,0,0.0
+13/02/21,Herrenmode,Mobile,1,0.1875,0,0.0,0,0.0
+13/02/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+13/02/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+13/02/21,"Sportbekleidung Damen",Computer,15,4.050000000000001,0,0.0,0,0.0
+13/02/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+13/02/21,"Sportbekleidung Herren",Computer,170,45.90000000000002,0,0.0,0,0.0
+13/02/21,"Sportbekleidung Herren",Mobile,30,6.075000000000001,0,0.0,0,0.0
+13/02/21,"Fahrradteile & Fahrradzubehör",Computer,5,1.35,0,0.0,0,0.0
+13/02/21,"Fahrradteile & Fahrradzubehör",Mobile,3,0.6075,0,0.0,0,0.0
+13/02/21,Rucksäcke,Computer,2,0.5,0,0.0,0,0.0
+13/02/21,Rucksäcke,Mobile,1,0.1875,0,0.0,0,0.0
+13/02/21,"Sportbekleidung Kinder",Computer,1,0.27,0,0.0,0,0.0
+16/02/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+16/02/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+16/02/21,Damenmode,Mobile,2,0.375,0,0.0,0,0.0
+16/02/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+16/02/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+16/02/21,"Sportbekleidung Damen",Computer,7,1.8900000000000001,0,0.0,0,0.0
+16/02/21,"Sportbekleidung Herren",Computer,187,50.49000000000003,0,0.0,0,0.0
+16/02/21,"Sportbekleidung Herren",Mobile,11,2.227500000000001,0,0.0,0,0.0
+16/02/21,"Fahrradteile & Fahrradzubehör",Computer,11,2.97,0,0.0,0,0.0
+16/02/21,Rucksäcke,Computer,1,0.25,0,0.0,0,0.0
+18/02/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+18/02/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+18/02/21,"Sportbekleidung Damen",Computer,5,1.35,0,0.0,0,0.0
+18/02/21,"Sportbekleidung Herren",Computer,199,53.73000000000002,0,0.0,0,0.0
+18/02/21,"Sportbekleidung Herren",Mobile,17,3.4425000000000012,0,0.0,0,0.0
+18/02/21,"Fahrradteile & Fahrradzubehör",Computer,6,1.62,0,0.0,0,0.0
+18/02/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+19/02/21,Accessoires,Computer,2,0.5,0,0.0,0,0.0
+19/02/21,Damenmode,Computer,5,1.25,0,0.0,0,0.0
+19/02/21,Damenmode,Mobile,2,0.375,0,0.0,0,0.0
+19/02/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+19/02/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+19/02/21,"Sportbekleidung Damen",Computer,12,3.24,0,0.0,0,0.0
+19/02/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+19/02/21,"Sportbekleidung Herren",Computer,174,46.98000000000002,0,0.0,0,0.0
+19/02/21,"Sportbekleidung Herren",Mobile,27,5.467499999999999,0,0.0,0,0.0
+19/02/21,"Fahrradteile & Fahrradzubehör",Computer,20,5.4,0,0.0,0,0.0
+19/02/21,"Fahrradteile & Fahrradzubehör",Mobile,13,2.6325000000000007,0,0.0,0,0.0
+19/02/21,Rucksäcke,Computer,2,0.5,0,0.0,0,0.0
+20/02/21,Accessoires,Mobile,1,0.1875,0,0.0,0,0.0
+20/02/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+20/02/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+20/02/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+20/02/21,"Sportbekleidung Damen",Computer,10,2.7,0,0.0,0,0.0
+20/02/21,"Sportbekleidung Herren",Computer,179,48.195000000000014,0,0.0,0,0.0
+20/02/21,"Sportbekleidung Herren",Mobile,52,10.530000000000005,0,0.0,0,0.0
+20/02/21,"Fahrradteile & Fahrradzubehör",Computer,15,4.050000000000001,0,0.0,0,0.0
+20/02/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+21/02/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+21/02/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+21/02/21,"Sportbekleidung Herren",Computer,17,4.59,0,0.0,0,0.0
+21/02/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.27,0,0.0,0,0.0
+24/02/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+24/02/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+24/02/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+24/02/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+24/02/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+24/02/21,"Sportbekleidung Damen",Computer,7,1.8900000000000001,0,0.0,0,0.0
+24/02/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+24/02/21,"Sportbekleidung Herren",Computer,174,46.980000000000025,0,0.0,0,0.0
+24/02/21,"Sportbekleidung Herren",Mobile,13,2.632500000000001,0,0.0,0,0.0
+24/02/21,"Fahrradteile & Fahrradzubehör",Computer,17,4.590000000000001,0,0.0,0,0.0
+24/02/21,Rucksäcke,Computer,2,0.5,0,0.0,0,0.0
+25/02/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+25/02/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+25/02/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+25/02/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+25/02/21,"Sportbekleidung Damen",Computer,7,1.8900000000000001,0,0.0,0,0.0
+25/02/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+25/02/21,"Sportbekleidung Herren",Computer,177,47.790000000000035,0,0.0,0,0.0
+25/02/21,"Sportbekleidung Herren",Mobile,19,3.847500000000001,0,0.0,0,0.0
+25/02/21,"Fahrradteile & Fahrradzubehör",Computer,13,3.5100000000000002,0,0.0,0,0.0
+25/02/21,"Fahrradteile & Fahrradzubehör",Mobile,3,0.6075,0,0.0,0,0.0
+27/02/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+27/02/21,"Sportbekleidung Damen",Computer,7,1.8900000000000001,0,0.0,0,0.0
+27/02/21,"Sportbekleidung Damen",Mobile,3,0.6075,0,0.0,0,0.0
+27/02/21,"Sportbekleidung Herren",Computer,138,37.26000000000001,0,0.0,0,0.0
+27/02/21,"Sportbekleidung Herren",Mobile,33,6.682499999999998,0,0.0,0,0.0
+27/02/21,"Fahrradteile & Fahrradzubehör",Computer,13,3.5100000000000002,0,0.0,0,0.0
+27/02/21,"Fahrradteile & Fahrradzubehör",Mobile,12,2.4300000000000006,0,0.0,0,0.0
+27/02/21,Rucksäcke,Computer,1,0.25,0,0.0,0,0.0
+27/02/21,"Sportbekleidung Kinder",Mobile,1,0.2025,0,0.0,0,0.0
+28/02/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+28/02/21,"Sportbekleidung Herren",Computer,35,9.449999999999996,0,0.0,0,0.0
+28/02/21,"Sportbekleidung Herren",Mobile,4,0.81,0,0.0,0,0.0
+28/02/21,"Fahrradteile & Fahrradzubehör",Computer,1,0.27,0,0.0,0,0.0
+28/02/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+03/02/21,Damenmode,Computer,8,2.0,0,0.0,0,0.0
+03/02/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+03/02/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+03/02/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+03/02/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+03/02/21,"Sportbekleidung Herren",Computer,117,31.589999999999975,0,0.0,0,0.0
+03/02/21,"Sportbekleidung Herren",Mobile,30,6.074999999999999,0,0.0,0,0.0
+03/02/21,"Fahrradteile & Fahrradzubehör",Computer,16,4.32,0,0.0,0,0.0
+03/02/21,"Fahrradteile & Fahrradzubehör",Mobile,8,1.62,0,0.0,0,0.0
+04/02/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+04/02/21,"Sportbekleidung Herren",Computer,134,36.18,0,0.0,0,0.0
+04/02/21,"Sportbekleidung Herren",Mobile,7,1.4175000000000004,0,0.0,0,0.0
+04/02/21,"Fahrradteile & Fahrradzubehör",Computer,17,4.59,0,0.0,0,0.0
+04/02/21,"Fahrradteile & Fahrradzubehör",Mobile,8,1.62,0,0.0,0,0.0
+05/02/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+05/02/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+05/02/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+05/02/21,"Sportbekleidung Herren",Computer,133,35.90999999999998,0,0.0,0,0.0
+05/02/21,"Sportbekleidung Herren",Mobile,21,4.2525,0,0.0,0,0.0
+05/02/21,"Fahrradteile & Fahrradzubehör",Computer,16,4.32,0,0.0,0,0.0
+05/02/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+09/02/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+09/02/21,Herrenmode,Computer,4,1.0,0,0.0,0,0.0
+09/02/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+09/02/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+09/02/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+09/02/21,"Sportbekleidung Herren",Computer,132,35.63999999999999,0,0.0,0,0.0
+09/02/21,"Sportbekleidung Herren",Mobile,24,4.860000000000001,0,0.0,0,0.0
+09/02/21,"Fahrradteile & Fahrradzubehör",Computer,11,2.97,0,0.0,0,0.0
+09/02/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+10/02/21,Damenmode,Computer,4,1.0,0,0.0,0,0.0
+10/02/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+10/02/21,"Sportbekleidung Damen",Computer,5,1.35,0,0.0,0,0.0
+10/02/21,"Sportbekleidung Herren",Computer,143,38.609999999999985,0,0.0,0,0.0
+10/02/21,"Sportbekleidung Herren",Mobile,16,3.2400000000000007,0,0.0,0,0.0
+10/02/21,"Fahrradteile & Fahrradzubehör",Computer,12,3.24,0,0.0,0,0.0
+10/02/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.405,0,0.0,0,0.0
+10/02/21,Rucksäcke,Computer,2,0.5,0,0.0,0,0.0
+10/02/21,"Sportbekleidung Kinder",Computer,1,0.27,0,0.0,0,0.0
+14/02/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+14/02/21,Herrenmode,Mobile,1,0.1875,0,0.0,0,0.0
+14/02/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+14/02/21,Damenmode,Mobile,3,0.5625,0,0.0,0,0.0
+14/02/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+14/02/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+14/02/21,"Sportbekleidung Damen",Computer,11,2.97,0,0.0,0,0.0
+14/02/21,"Sportbekleidung Damen",Mobile,2,0.405,0,0.0,0,0.0
+14/02/21,"Sportbekleidung Herren",Computer,168,45.360000000000014,0,0.0,0,0.0
+14/02/21,"Sportbekleidung Herren",Mobile,10,2.025000000000001,0,0.0,0,0.0
+14/02/21,"Fahrradteile & Fahrradzubehör",Computer,14,3.7800000000000002,0,0.0,0,0.0
+14/02/21,"Fahrradteile & Fahrradzubehör",Mobile,3,0.6075,0,0.0,0,0.0
+14/02/21,Rucksäcke,Computer,1,0.25,0,0.0,0,0.0
+15/02/21,Damenmode,Computer,8,2.0,0,0.0,0,0.0
+15/02/21,"Sportbekleidung Damen",Computer,8,2.16,0,0.0,0,0.0
+15/02/21,"Sportbekleidung Herren",Computer,186,50.22000000000001,0,0.0,0,0.0
+15/02/21,"Sportbekleidung Herren",Mobile,20,4.050000000000002,0,0.0,0,0.0
+15/02/21,"Fahrradteile & Fahrradzubehör",Computer,14,3.7800000000000002,0,0.0,0,0.0
+15/02/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+17/02/21,Accessoires,Computer,3,0.75,0,0.0,0,0.0
+17/02/21,Accessoires,Mobile,1,0.1875,0,0.0,0,0.0
+17/02/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+17/02/21,Damenmode,Computer,7,1.75,0,0.0,0,0.0
+17/02/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+17/02/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+17/02/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+17/02/21,"Sportbekleidung Damen",Computer,8,2.16,0,0.0,0,0.0
+17/02/21,"Sportbekleidung Herren",Computer,205,55.28250000000005,0,0.0,0,0.0
+17/02/21,"Sportbekleidung Herren",Mobile,36,7.2899999999999965,0,0.0,0,0.0
+17/02/21,"Fahrradteile & Fahrradzubehör",Computer,17,4.59,0,0.0,0,0.0
+17/02/21,"Fahrradteile & Fahrradzubehör",Mobile,4,0.81,0,0.0,0,0.0
+22/02/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+22/02/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+22/02/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+22/02/21,"Sportbekleidung Herren",Computer,44,11.879999999999992,0,0.0,0,0.0
+22/02/21,"Sportbekleidung Herren",Mobile,2,0.405,0,0.0,0,0.0
+22/02/21,"Fahrradteile & Fahrradzubehör",Computer,2,0.54,0,0.0,0,0.0
+23/02/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+23/02/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+23/02/21,"Sportbekleidung Damen",Computer,9,2.43,0,0.0,0,0.0
+23/02/21,"Sportbekleidung Damen",Mobile,1,0.2025,0,0.0,0,0.0
+23/02/21,"Sportbekleidung Herren",Computer,163,44.01000000000004,0,0.0,0,0.0
+23/02/21,"Sportbekleidung Herren",Mobile,7,1.4175000000000004,0,0.0,0,0.0
+23/02/21,"Fahrradteile & Fahrradzubehör",Computer,16,4.32,0,0.0,0,0.0
+23/02/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+23/02/21,"Sportschuhe Herren",Computer,1,0.25,0,0.0,0,0.0
+23/02/21,Rucksäcke,Computer,1,0.25,0,0.0,0,0.0
+23/02/21,Rucksäcke,Mobile,2,0.375,0,0.0,0,0.0
+26/02/21,Damenunterwäsche,Computer,3,0.75,0,0.0,0,0.0
+26/02/21,"Sportbekleidung Damen",Computer,6,1.62,0,0.0,0,0.0
+26/02/21,"Sportbekleidung Herren",Computer,144,38.879999999999995,0,0.0,0,0.0
+26/02/21,"Sportbekleidung Herren",Mobile,23,4.6575000000000015,0,0.0,0,0.0
+26/02/21,"Fahrradteile & Fahrradzubehör",Computer,8,2.16,0,0.0,0,0.0
+26/02/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+26/02/21,Rucksäcke,Mobile,2,0.375,0,0.0,0,0.0
+01/01/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+01/01/21,Herrenmode,Mobile,2,0.375,0,0.0,0,0.0
+01/01/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+01/01/21,Damenunterwäsche,Mobile,3,0.5625,0,0.0,0,0.0
+01/01/21,"Sportbekleidung Herren",Computer,115,31.04999999999997,0,0.0,0,0.0
+01/01/21,"Sportbekleidung Herren",Mobile,32,6.48,0,0.0,0,0.0
+01/01/21,"Fahrradteile & Fahrradzubehör",Computer,5,1.35,0,0.0,0,0.0
+01/01/21,"Fahrradteile & Fahrradzubehör",Mobile,3,0.6075,0,0.0,0,0.0
+03/01/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+03/01/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+03/01/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+03/01/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+03/01/21,"Sportbekleidung Herren",Computer,97,26.12249999999999,0,0.0,0,0.0
+03/01/21,"Sportbekleidung Herren",Mobile,18,3.645000000000001,0,0.0,0,0.0
+03/01/21,"Fahrradteile & Fahrradzubehör",Computer,7,1.8900000000000001,0,0.0,0,0.0
+03/01/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+04/01/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+04/01/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+04/01/21,"Sportbekleidung Herren",Computer,136,36.72,0,0.0,0,0.0
+04/01/21,"Sportbekleidung Herren",Mobile,16,3.240000000000001,0,0.0,0,0.0
+04/01/21,"Fahrradteile & Fahrradzubehör",Computer,12,3.24,0,0.0,0,0.0
+04/01/21,"Fahrradteile & Fahrradzubehör",Mobile,4,0.81,0,0.0,0,0.0
+06/01/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+06/01/21,Damenmode,Mobile,4,0.75,0,0.0,0,0.0
+06/01/21,"Sportbekleidung Herren",Computer,113,30.509999999999966,0,0.0,0,0.0
+06/01/21,"Sportbekleidung Herren",Mobile,16,3.24,0,0.0,0,0.0
+06/01/21,"Fahrradteile & Fahrradzubehör",Computer,2,0.54,0,0.0,0,0.0
+06/01/21,"Fahrradteile & Fahrradzubehör",Mobile,7,1.4175,0,0.0,0,0.0
+08/01/21,Herrenmode,Computer,2,0.5,0,0.0,0,0.0
+08/01/21,Herrenmode,Mobile,1,0.1875,0,0.0,0,0.0
+08/01/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+08/01/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+08/01/21,"Sportbekleidung Herren",Computer,156,42.12000000000002,0,0.0,0,0.0
+08/01/21,"Sportbekleidung Herren",Mobile,15,3.037500000000001,0,0.0,0,0.0
+08/01/21,"Fahrradteile & Fahrradzubehör",Computer,9,2.43,0,0.0,0,0.0
+08/01/21,"Fahrradteile & Fahrradzubehör",Mobile,3,0.6075,0,0.0,0,0.0
+11/01/21,Herrenmode,Mobile,2,0.375,0,0.0,0,0.0
+11/01/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+11/01/21,Damenmode,Mobile,2,0.375,0,0.0,0,0.0
+11/01/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+11/01/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+11/01/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+11/01/21,"Sportbekleidung Herren",Computer,143,38.5425,0,0.0,0,0.0
+11/01/21,"Sportbekleidung Herren",Mobile,27,5.467499999999999,0,0.0,0,0.0
+11/01/21,"Fahrradteile & Fahrradzubehör",Computer,13,3.5100000000000002,0,0.0,0,0.0
+11/01/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+13/01/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+13/01/21,"Sportbekleidung Herren",Computer,133,35.90999999999998,0,0.0,0,0.0
+13/01/21,"Sportbekleidung Herren",Mobile,24,4.86,0,0.0,0,0.0
+13/01/21,"Fahrradteile & Fahrradzubehör",Computer,13,3.5100000000000002,0,0.0,0,0.0
+13/01/21,"Fahrradteile & Fahrradzubehör",Mobile,4,0.81,0,0.0,0,0.0
+15/01/21,"Sportbekleidung Herren",Computer,144,38.88000000000001,0,0.0,0,0.0
+15/01/21,"Sportbekleidung Herren",Mobile,16,3.240000000000001,0,0.0,0,0.0
+15/01/21,"Fahrradteile & Fahrradzubehör",Computer,6,1.62,0,0.0,0,0.0
+15/01/21,"Fahrradteile & Fahrradzubehör",Mobile,3,0.6075,0,0.0,0,0.0
+21/01/21,Herrenmode,Mobile,2,0.375,0,0.0,0,0.0
+21/01/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+21/01/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+21/01/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+21/01/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+21/01/21,"Sportbekleidung Herren",Computer,154,41.580000000000005,0,0.0,0,0.0
+21/01/21,"Sportbekleidung Herren",Mobile,22,4.455000000000001,0,0.0,0,0.0
+21/01/21,"Fahrradteile & Fahrradzubehör",Computer,12,3.24,0,0.0,0,0.0
+21/01/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.405,0,0.0,0,0.0
+22/01/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+22/01/21,Damenmode,Mobile,4,0.75,0,0.0,0,0.0
+22/01/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+22/01/21,"Sportbekleidung Damen",Mobile,3,0.6075,0,0.0,0,0.0
+22/01/21,"Sportbekleidung Herren",Computer,174,46.98000000000002,0,0.0,0,0.0
+22/01/21,"Sportbekleidung Herren",Mobile,119,24.097500000000018,0,0.0,0,0.0
+22/01/21,"Fahrradteile & Fahrradzubehör",Computer,16,4.32,0,0.0,0,0.0
+22/01/21,"Fahrradteile & Fahrradzubehör",Mobile,15,3.037500000000001,0,0.0,0,0.0
+24/01/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+24/01/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+24/01/21,"Sportbekleidung Herren",Computer,165,44.550000000000026,0,0.0,0,0.0
+24/01/21,"Sportbekleidung Herren",Mobile,24,4.86,0,0.0,0,0.0
+24/01/21,"Fahrradteile & Fahrradzubehör",Computer,13,3.5100000000000002,0,0.0,0,0.0
+28/01/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+28/01/21,Herrenmode,Mobile,1,0.1875,0,0.0,0,0.0
+28/01/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+28/01/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+28/01/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+28/01/21,"Sportbekleidung Herren",Computer,170,45.90000000000003,0,0.0,0,0.0
+28/01/21,"Sportbekleidung Herren",Mobile,26,5.265,0,0.0,0,0.0
+28/01/21,"Fahrradteile & Fahrradzubehör",Computer,6,1.62,0,0.0,0,0.0
+28/01/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+30/01/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+30/01/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+30/01/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+30/01/21,"Sportbekleidung Herren",Computer,149,40.23000000000001,0,0.0,0,0.0
+30/01/21,"Sportbekleidung Herren",Mobile,27,5.4675,0,0.0,0,0.0
+30/01/21,"Fahrradteile & Fahrradzubehör",Computer,11,2.97,0,0.0,0,0.0
+30/01/21,"Fahrradteile & Fahrradzubehör",Mobile,6,1.215,0,0.0,0,0.0
+29/01/21,Damenmode,Computer,6,1.5,0,0.0,0,0.0
+29/01/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+29/01/21,"Sportbekleidung Herren",Computer,241,65.07000000000005,0,0.0,0,0.0
+29/01/21,"Sportbekleidung Herren",Mobile,42,8.504999999999997,0,0.0,0,0.0
+29/01/21,"Fahrradteile & Fahrradzubehör",Computer,19,5.129999999999999,0,0.0,0,0.0
+29/01/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+31/01/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+31/01/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+31/01/21,Damenunterwäsche,Computer,3,0.75,0,0.0,0,0.0
+31/01/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+31/01/21,"Sportbekleidung Herren",Computer,181,48.870000000000054,0,0.0,0,0.0
+31/01/21,"Sportbekleidung Herren",Mobile,29,5.872500000000001,0,0.0,0,0.0
+31/01/21,"Fahrradteile & Fahrradzubehör",Computer,18,4.86,0,0.0,0,0.0
+31/01/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+02/01/21,Herrenmode,Mobile,1,0.1875,0,0.0,0,0.0
+02/01/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+02/01/21,"Sportbekleidung Herren",Computer,100,26.99999999999998,0,0.0,0,0.0
+02/01/21,"Sportbekleidung Herren",Mobile,17,3.442500000000001,0,0.0,0,0.0
+02/01/21,"Fahrradteile & Fahrradzubehör",Computer,9,2.43,0,0.0,0,0.0
+02/01/21,"Fahrradteile & Fahrradzubehör",Mobile,6,1.2150000000000003,0,0.0,0,0.0
+05/01/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+05/01/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+05/01/21,"Sportbekleidung Herren",Computer,121,32.602499999999985,0,0.0,0,0.0
+05/01/21,"Sportbekleidung Herren",Mobile,10,2.0250000000000004,0,0.0,0,0.0
+05/01/21,"Fahrradteile & Fahrradzubehör",Computer,6,1.62,0,0.0,0,0.0
+05/01/21,"Fahrradteile & Fahrradzubehör",Mobile,4,0.81,0,0.0,0,0.0
+07/01/21,Herrenmode,Mobile,2,0.375,0,0.0,0,0.0
+07/01/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+07/01/21,"Sportbekleidung Herren",Computer,132,35.639999999999986,0,0.0,0,0.0
+07/01/21,"Sportbekleidung Herren",Mobile,15,3.037500000000001,0,0.0,0,0.0
+07/01/21,"Fahrradteile & Fahrradzubehör",Computer,9,2.43,0,0.0,0,0.0
+07/01/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+18/01/21,Herrenmode,Computer,2,0.5,0,0.0,0,0.0
+18/01/21,Damenmode,Computer,5,1.25,0,0.0,0,0.0
+18/01/21,Damenmode,Mobile,2,0.375,0,0.0,0,0.0
+18/01/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+18/01/21,Sonnenbrillen,Computer,1,0.25,0,0.0,0,0.0
+18/01/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+18/01/21,"Sportbekleidung Herren",Computer,140,37.80000000000001,0,0.0,0,0.0
+18/01/21,"Sportbekleidung Herren",Mobile,18,3.6450000000000014,0,0.0,0,0.0
+18/01/21,"Fahrradteile & Fahrradzubehör",Computer,16,4.32,0,0.0,0,0.0
+18/01/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+19/01/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+19/01/21,"Sportbekleidung Herren",Computer,147,39.69,0,0.0,0,0.0
+19/01/21,"Sportbekleidung Herren",Mobile,20,4.050000000000001,0,0.0,0,0.0
+19/01/21,"Fahrradteile & Fahrradzubehör",Computer,6,1.62,0,0.0,0,0.0
+19/01/21,"Fahrradteile & Fahrradzubehör",Mobile,3,0.6075,0,0.0,0,0.0
+19/01/21,"Sportbekleidung Kinder",Computer,1,0.27,0,0.0,0,0.0
+20/01/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+20/01/21,Damenmode,Mobile,2,0.375,0,0.0,0,0.0
+20/01/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+20/01/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+20/01/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+20/01/21,"Sportbekleidung Herren",Computer,153,41.310000000000024,0,0.0,0,0.0
+20/01/21,"Sportbekleidung Herren",Mobile,24,4.860000000000002,0,0.0,0,0.0
+20/01/21,"Fahrradteile & Fahrradzubehör",Computer,3,0.81,0,0.0,0,0.0
+20/01/21,"Fahrradteile & Fahrradzubehör",Mobile,4,0.81,0,0.0,0,0.0
+23/01/21,Accessoires,Computer,1,0.25,0,0.0,0,0.0
+23/01/21,Damenmode,Computer,3,0.75,0,0.0,0,0.0
+23/01/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+23/01/21,Damenunterwäsche,Computer,2,0.5,0,0.0,0,0.0
+23/01/21,"Sportbekleidung Herren",Computer,146,39.352500000000006,0,0.0,0,0.0
+23/01/21,"Sportbekleidung Herren",Mobile,42,8.505,0,0.0,0,0.0
+23/01/21,"Fahrradteile & Fahrradzubehör",Computer,15,4.050000000000001,0,0.0,0,0.0
+23/01/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.405,0,0.0,0,0.0
+25/01/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+25/01/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+25/01/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+25/01/21,"Sportbekleidung Herren",Computer,146,39.42,0,0.0,0,0.0
+25/01/21,"Sportbekleidung Herren",Mobile,9,1.8225000000000007,0,0.0,0,0.0
+25/01/21,"Fahrradteile & Fahrradzubehör",Computer,14,3.7800000000000002,0,0.0,0,0.0
+26/01/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+26/01/21,Damenunterwäsche,Mobile,1,0.1875,0,0.0,0,0.0
+26/01/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+26/01/21,"Sportbekleidung Herren",Computer,140,37.8,0,0.0,0,0.0
+26/01/21,"Sportbekleidung Herren",Mobile,8,1.6200000000000006,0,0.0,0,0.0
+26/01/21,"Fahrradteile & Fahrradzubehör",Computer,11,2.97,0,0.0,0,0.0
+26/01/21,"Fahrradteile & Fahrradzubehör",Mobile,7,1.4175000000000004,0,0.0,0,0.0
+27/01/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+27/01/21,Herrenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+27/01/21,"Sportbekleidung Damen",Computer,1,0.27,0,0.0,0,0.0
+27/01/21,"Sportbekleidung Herren",Computer,157,42.390000000000015,0,0.0,0,0.0
+27/01/21,"Sportbekleidung Herren",Mobile,29,5.872499999999999,0,0.0,0,0.0
+27/01/21,"Fahrradteile & Fahrradzubehör",Computer,21,5.67,0,0.0,0,0.0
+27/01/21,"Fahrradteile & Fahrradzubehör",Mobile,8,1.62,0,0.0,0,0.0
+09/01/21,Accessoires,Mobile,1,0.1875,0,0.0,0,0.0
+09/01/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+09/01/21,Damenmode,Computer,2,0.5,0,0.0,0,0.0
+09/01/21,Damenmode,Mobile,1,0.1875,0,0.0,0,0.0
+09/01/21,Damenunterwäsche,Computer,1,0.25,0,0.0,0,0.0
+09/01/21,"Sportbekleidung Herren",Computer,124,33.47999999999997,0,0.0,0,0.0
+09/01/21,"Sportbekleidung Herren",Mobile,55,11.137500000000006,0,0.0,0,0.0
+09/01/21,"Fahrradteile & Fahrradzubehör",Computer,6,1.62,0,0.0,0,0.0
+09/01/21,"Fahrradteile & Fahrradzubehör",Mobile,4,0.81,0,0.0,0,0.0
+10/01/21,Herrenmode,Mobile,1,0.1875,0,0.0,0,0.0
+10/01/21,Damenmode,Mobile,3,0.5625,0,0.0,0,0.0
+10/01/21,"Sportbekleidung Herren",Computer,154,41.58000000000002,0,0.0,0,0.0
+10/01/21,"Sportbekleidung Herren",Mobile,53,10.732500000000002,0,0.0,0,0.0
+10/01/21,"Fahrradteile & Fahrradzubehör",Computer,5,1.35,0,0.0,0,0.0
+12/01/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+12/01/21,Damenmode,Computer,4,1.0,0,0.0,0,0.0
+12/01/21,"Sportbekleidung Herren",Computer,173,46.709999999999994,0,0.0,0,0.0
+12/01/21,"Sportbekleidung Herren",Mobile,28,5.67,0,0.0,0,0.0
+12/01/21,"Fahrradteile & Fahrradzubehör",Computer,8,2.16,0,0.0,0,0.0
+12/01/21,"Fahrradteile & Fahrradzubehör",Mobile,5,1.0125000000000002,0,0.0,0,0.0
+12/01/21,"Sportbekleidung Kinder",Mobile,1,0.2025,0,0.0,0,0.0
+14/01/21,Herrenmode,Computer,1,0.25,0,0.0,0,0.0
+14/01/21,Damenmode,Computer,6,1.5,0,0.0,0,0.0
+14/01/21,"Sportbekleidung Herren",Computer,152,41.040000000000006,0,0.0,0,0.0
+14/01/21,"Sportbekleidung Herren",Mobile,28,5.67,0,0.0,0,0.0
+14/01/21,"Fahrradteile & Fahrradzubehör",Computer,6,1.62,0,0.0,0,0.0
+14/01/21,"Fahrradteile & Fahrradzubehör",Mobile,1,0.2025,0,0.0,0,0.0
+16/01/21,"Sportbekleidung Herren",Computer,146,39.42000000000001,0,0.0,0,0.0
+16/01/21,"Sportbekleidung Herren",Mobile,31,6.277499999999998,0,0.0,0,0.0
+16/01/21,"Fahrradteile & Fahrradzubehör",Computer,20,5.4,0,0.0,0,0.0
+16/01/21,"Fahrradteile & Fahrradzubehör",Mobile,4,0.81,0,0.0,0,0.0
+17/01/21,Damenmode,Computer,1,0.25,0,0.0,0,0.0
+17/01/21,Sonnenbrillen,Mobile,1,0.1875,0,0.0,0,0.0
+17/01/21,"Sportbekleidung Herren",Computer,167,45.09000000000002,0,0.0,0,0.0
+17/01/21,"Sportbekleidung Herren",Mobile,53,10.732500000000002,0,0.0,0,0.0
+17/01/21,"Fahrradteile & Fahrradzubehör",Computer,7,1.8900000000000001,0,0.0,0,0.0
+17/01/21,"Fahrradteile & Fahrradzubehör",Mobile,2,0.405,0,0.0,0,0.0

@@ -1,0 +1,352 @@
+
+import simplejson as json
+import requests
+import re
+
+from requests.auth import HTTPBasicAuth
+
+from dotmailer import exceptions
+from dotmailer.constants import constants
+
+from dotmailer import Base
+from dotmailer.connection import connection
+
+"""
+class dotmailer.transactional_emails.TransactionEmail(**kwargs)
+classmethod get_stats(since_date, end_date, aggregate_by)
+This operation retrieves your transactional email reporting statistics (number sent, delivered, opens, clicks, ISP complaints and bounces) for a specified time period.
+
+This time period can be set with a specific end date, or statistics can be aggregated by all time, week, month or day.
+
+Parameters:	
+since_date – A date/datetime object which represents the start date for which transactional email reporting statistics will be returned.
+end_date – A date/datetime object which represents the end date up to which transactional email reporting wil be returned (inclusive).
+aggregate_by – The data aggregation period for transactional email reporting statistics
+
+"""
+
+
+
+class DotMailerConnection(object):
+    """
+    The DotMailerConnection provides a simply way to setup and call the
+    various DotMailer API endpoints with.  This class defines the
+    various methods GET, PUT, POST and DELETE which are used to
+    communicate with DotMailer.  To create an instance, simply provide
+    your DotMailer API user's username and password.
+    Please remember that even if you have an active DotMailer account,
+    this does not mean that your username is a valid API user.  Please
+    check DotMailer's documentation about setting up an API account to
+    use with this library (https://developer.dotmailer.com/docs/getting-started-with-the-api#section-setting-up-your-api-user)
+    """
+
+    url = constants.DEFAULT_ENDPOINT
+    username = None
+    password = None
+
+    _first_cap_re = re.compile('(.)([A-Z][a-z]+)')
+    _all_cap_re = re.compile('([a-z0-9])([A-Z])')
+
+
+    # TODO: This might be better off in some support file
+    def convert_camel_case_key(self, key):
+        stage1 = self._first_cap_re.sub(r'\1_\2', key)
+        return self._all_cap_re.sub(r'\1_\2', stage1).lower()
+
+    def convert_camel_case_dict(self, data_dict):
+        return {
+            self.convert_camel_case_key(key): val for key, val in
+            data_dict.items()
+        }
+
+    def _do_request(self, method, url, **kwargs):
+        """
+        This internal function provides the actual functionality to
+        call DotMailer's actual end point.  When performing a request,
+        this function will check the status code of the request
+        performed.  If everything was successful, then the function
+        will return either the JSON representation of the response (or
+        if that is not possible the raw text.  If the response status
+        code is not 200 then an appropriate exception will be raised to
+        inform the caller of the reason it failed.
+        :param method:
+        :param url:
+        :param kwargs:
+        :return:
+        """
+        request_method = getattr(requests, method)
+        response = request_method(
+            url,
+            auth=HTTPBasicAuth(self.username, self.password),
+            **kwargs
+        )
+
+        print "Raw response:", response.text
+
+        # The response status code was a success then process the
+        # response and return to the caller
+        if response.ok:
+
+            try:
+                json_data = response.json()
+
+                # Next convert the CamelCase variables back to underscore
+                # version to keep inline with PEP8 python, and return
+                if isinstance(json_data, dict):
+                    json_data = self.convert_camel_case_dict(json_data)
+                elif isinstance(json_data, list):
+                    json_data = [
+                        self.convert_camel_case_dict(entry)
+                        for entry in json_data
+                    ]
+
+                return json_data
+            except json.JSONDecodeError:
+                # If requests couldn't decode the JSON then just return
+                # the text output from the response.
+                return response.text
+
+        # Else the response code was not 200 then an exception has been
+        # raised and we need to pass that on.  This isn't pretty, but
+        # it should do for a first pass
+        if response.status_code == 401:
+            exception_class_name = 'ErrorAccountInvalid'
+        else:
+
+            message = response.json()['message']
+
+            # Currently aware of two type of error message formatting
+            # which we need to parse.  These are
+            #   'Address book cannot be written to via the API. ERROR_ADDRESSBOOK_NOTWRITABLE'
+            #   'Error: ERROR_ADDRESSBOOK_NOT_FOUND'
+            if message.startswith('Error: '):
+                message = message[7:]
+
+            exception_class_name = message[
+                message.rfind('.')+1:
+            ].strip().title().replace('_', '')
+        raise getattr(exceptions, exception_class_name)()
+
+    def put(self, end_point, payload, **kwargs):
+        kwargs['json'] = payload
+        return self._do_request(
+            'put',
+            self.url + end_point,
+            **kwargs
+        )
+
+    def post(self, end_point, payload, **kwargs):
+        kwargs['json'] = payload
+        return self._do_request(
+            'post',
+            self.url + end_point,
+            **kwargs
+        )
+
+    def delete(self, end_point):
+        return self._do_request(
+            'delete',
+            self.url + end_point,
+        )
+
+    def get(self, end_point, query_params=None):
+        return self._do_request(
+            'get',
+            self.url + end_point,
+            params=query_params
+        )
+
+
+connection = DotMailerConnection()
+
+
+class Campaign(Base):
+    """
+    
+    Required Values
+    name: The name of the campaign being created
+    
+    subject: The email subject line of the campaign
+    from_name: The from name of the campaign
+    
+    html_content: The HTML content of the campaign that lies between 
+        the opening <body> and the closing </body> only (the <body> tags 
+        themselves should not be used).
+    
+    plain_text_content: The plain text content of the campaign    
+    
+    Optional Values
+    from_address: The email of an existing custom from address you
+        wish to use, which needs to be included within the request body
+    reply_action: The required action to be taken when a reply to the 
+        campaign is sent by the recipient. Possible values for this
+        attribute are 'Unset', 'WebMailForward', 'Webmail', 'Delete'
+    reply_to_address: The email address that you would like replies to
+        be forwarded to, which needs to be included within the request 
+        body
+    
+    
+    """
+
+    end_point = '/v2/campaigns'
+    name = None
+    subject = None
+    from_name = None
+    from_address = None
+    html_content = None
+    plain_text_content = None
+    reply_action = constants.REPLY_ACTION_UNSET
+    reply_address = None
+    status = constants.CAMPAIGN_STATUS_UNSENT
+
+    sends = {}
+
+# jumps from the base campaign to the get all...
+
+   @classmethod
+    def get_all(cls):
+        """Gets all campaigns
+        :return: List of Campaigns
+        """
+        all_campaigns = []
+        select = 1000
+        skip = 0
+
+        while True:
+            response = connection.get(cls.end_point, query_params={'Select': select, 'Skip': skip})
+            campaigns = [cls(**campaign) for campaign in response]
+            all_campaigns.extend(campaigns)
+
+            if len(campaigns) < select:
+                # This means there are no more campaigns to fetch.
+                break
+
+            skip += select
+
+        return all_campaigns
+
+    def __eq__(self, other):
+        return (
+            self.id == other.id and
+            self.name == other.name and
+            self.subject == other.subject and
+            self.from_name == other.from_name and
+            self.from_address == other.from_address and
+            self.html_content == other.html_content and
+            self.plain_text_content == other.plain_text_content and
+            self.reply_action == other.reply_action and
+            self.reply_address == other.reply_address and
+            self.status == other.status
+        )
+
+
+
+class TransactionEmail(Base):
+    """
+    
+    """
+
+    end_point = '/v2/email'
+    to_addresses = []
+    cc_addresses = []
+    bcc_addresses = []
+    subject = None
+    from_address = None
+    html_content = None
+    plain_text_content = None
+
+    def __init__(self, **kwargs):
+        self.required_fields = [
+            'to_addresses', 'subject', 'from_address', 'html_content',
+            'plain_text_content'
+        ]
+        super(TransactionEmail, self).__init__(**kwargs)
+        self.to_addresses = self._split_addresses(self.to_addresses)
+        self.cc_addresses = self._split_addresses(self.cc_addresses)
+        self.bcc_addresses = self._split_addresses(self.bcc_addresses)
+
+    def _split_addresses(self, address_data):
+        if not isinstance(address_data, list):
+            address_data = address_data.split(',')
+        return address_data
+
+    def param_dict(self):
+        data = {
+            'ToAddresses': self.to_addresses,
+            'Subject': self.subject,
+            'FromAddress': self.from_address,
+            'HtmlContent': self.html_content,
+            'PlainTextContent': self.plain_text_content
+        }
+        if self.cc_addresses != []:
+            data['CCAddress'] = self.cc_addresses
+        if self.bcc_addresses != []:
+            data['BCCAddress'] = self.bcc_addresses,
+
+        return data
+
+    def send(self):
+        print self.param_dict()
+        response = connection.post(
+            self.end_point,
+            self.param_dict()
+        )
+        return response
+
+    @classmethod
+    def get_stats(cls, since_date, end_date, aggregate_by):
+        """
+        This operation retrieves your transactional email reporting 
+        statistics (number sent, delivered, opens, clicks, ISP 
+        complaints and bounces) for a specified time period.
+        This time period can be set with a specific end date, or 
+        statistics can be aggregated by all time, week, month or day.
+        
+        :param since_date: A date/datetime object which represents the
+            start date for which transactional email reporting 
+            statistics will be returned.
+        :param end_date: A date/datetime object which represents the end
+            date up to which transactional email reporting wil be 
+            returned (inclusive). 
+        :param aggregate_by: The data aggregation period for 
+            transactional email reporting statistics
+            
+        :return: 
+        """
+
+        return connection.get(
+            '{}/stats/since-date/{}'.format(
+                cls.end_point, since_date.strftime('%Y-%m-%d')
+            ),
+            query_params={
+                'EndDate': end_date.strftime('%Y-%m-%d'),
+                'AggregatedBy': aggregate_by
+            }
+        )
+
+    @classmethod
+    def send_transactional_triggered_campaign(cls, to_addresses, campaign_id, personalisation_values=None):
+        """
+        
+        :param to_addresses: A list of email addresses which the campaign should be sent to.
+        :param campaign_id: The DotMailer ID value of the campaign you wish to trigger.
+        :param personalisation_values: A dictionary of any personalisation values that should be used to fill in the
+         email.
+        :return: 
+        """
+
+
+        # TODO: Waiting to hear back from DotMailer to find out if you send multiple recipients how personalisation values are handled
+        param_data = {
+            'toAddresses': to_addresses,
+            'campaignId': campaign_id
+        }
+        if personalisation_values is not None:
+            param_data['personalizationValues'] = [
+                {'Name': key, 'Value': value} for key, value in personalisation_values.items()
+            ]
+
+        return connection.post(
+            '{}/triggered-campaign'.format(cls.end_point),
+            param_data
+        )
