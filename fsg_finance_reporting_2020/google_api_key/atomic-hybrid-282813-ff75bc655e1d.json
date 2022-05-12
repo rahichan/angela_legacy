@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "atomic-hybrid-282813",
+  "private_key_id": "ff75bc655e1d3d0ab58db60f940c6dccc099c189",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1QmWDQI0oBrqb\nwPCwPY8bl9EolEXZnflxghg4nIe3jWhVYNV9Af8WaZcYfHDNc0jG5lOu/EC0R2k3\nDA+WNURLMCGWkXew04ifcRYs42AmCk3XQY6rPlQHXbdPFi5crtJxlddsHwpc/QT9\nMLxRCtqjQQVSFS3MazAugPdA6EIH829FlMqo5QWd9m1dIY6ak+KE1i8zIHS+xX4h\nlwtfCa1pnPUwY3H3FgaWefIOGIwxGKOplmWzqYUzWQtyxGMNw+QWSF2pTZdLMZKO\niqvXBq44j39cnmh/d5uS/hlck87Ku9Qe3sEuGR8P8Mw2hy2Td3JorhXdEw0QL9Yk\njasp4ap3AgMBAAECggEAC4R84iUvkv6HzFkrMhex8zqSCMu7Jdklk4faYCaEx9i4\nFiIWuWBvbrjQ6Au9jeB9xwhgWDshJWjFj8Dixf770vHrqx9H2rg7nd4CtGF8/OMk\numvTqUqcQ5zkhqWjK90pSXG7BDIeEiCQY5eS2mzKeHCA6mFReAQg8KOIkoWaRIT1\n/DZIBaah4G3Q83/vvse2rpLmxlBNZEPdpiHzf7gcNpzexoDlX4CsKPqjBMCEmfV7\nt8HmQ7iD0ix2aDDmBTCXh2CDgLz6V4TFYi8W22fS57CdBNo8fMoIWRdx5QhiMVld\n7NSnsfbygrPozvjlqtqrJkF+KzcC2pvcMiIwhTJCwQKBgQD+y518542Kw1bPiQTo\ns7U118YUIhLmbTI5vGjXvBc38cj2VLLTsXtrn/tBrGUhLKB5kt4gwsFD159HviGW\nLRjeFNl+q8A4d4Y3Ln7rsS23ZNGRUWZ0JNjG9WiHxlJHz1QlppEVyRf8AzAITh0F\n89RPHHXvbv5J0xZPxwDHE0594QKBgQC2Hcdr10SyoMZCtDvsaPEmYLJA+6z07PJA\nHNRES70qKI/bpr1Z3gmGouG0Ncutv9aWqIUKDSh2eIorBkFUcZuMmHPg3DQayPyC\nWky5/Y92b9rm91N+oP9GhSFSR6dwIUei8QtjY/C8KcN6zTMYiWIjgd4Vn91EezTa\nHU5vCaNDVwKBgQCir3WmC97nK+Rg7LbSsfPRJi2WK09wC2bXUIKMxM76bIoJJnls\nC1WnmWV/QEjuDqWEGo9z0YY/AAz2bOLbFX5cRmm8pIM+SqrKzwhBC0cKYvggVh4Z\nqHE1T/pnPuzIZwvuYlUe2OBUi+B+XQnRBCeaP6zZrT/1+S60z3aipaQnYQKBgDCR\nhIuoH3QcGIPVmV2VJyr7As79z8SKJJkglyOXp11E8Ai+USVUZ+n2KodrCWTPEqWf\nT8u8cpwVzZNn2ahxm/BFADJpx6OVEnKZLnkzvDzz28dZEnVk7m+aNabB4U+wMHCu\nJEFfd+ZWpQFtFEFo8jlR+y59Mf9/dDrvMem/AkGFAoGAVwW5nbAfZueQXkr5Cqmg\njzF05kWvxEY/f3uGMbin5IC8Y3V/Qi1iw+NH5Lo3u+3DceLoCV4JyObw1nIO/cg3\nlpaCFMf6vRMsEvRP49VFcEYObhmOMiFIj+LAigfyjhg5RqqrRjZuFBEkMj4ezJ6V\nbxQ+4jxoZMLz++AogOiGuA8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "stitch-loader@atomic-hybrid-282813.iam.gserviceaccount.com",
+  "client_id": "106654252682160806075",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stitch-loader%40atomic-hybrid-282813.iam.gserviceaccount.com"
+}
